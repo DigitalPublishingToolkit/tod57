@@ -485,11 +485,13 @@ leaving, or, as we said, the amount of noise creates this single human
 entity, a different kind of Golem, with a blown-in spirit built of our
 moving images.
 
-‘What Blake found in the Bible is the priority of Inspiration over
+>What Blake found in the Bible is the priority of Inspiration over
 Memory, of the visionary and the imaginative over the traditional and
 conventional. In these words there is a manifesto for the thesis of this
 book. They culminate with the stirring stanzas to encourage people to
-build the New Jerusalem.’[^06_Treske_Ch3_19] We can't take technology for granted, or
+build the New Jerusalem.[^06_Treske_Ch3_19] 
+
+We can't take technology for granted, or
 at least we shouldn't. Technology will change and transform rapidly, but
 what will we become? We become material, substance, the universe, gods,
 the singularity, and the world, everything, including religious utopia,
@@ -749,6 +751,7 @@ through mechanic imagination of a memory that algorithmic decisions
 foreground for us in our inability to keep track of and differentiate
 our self. Isn’t that past always a wish, as with what is now and what
 will come?
+
 ![](imgs/Treske_Image3.png)
 Fig. 3. NEILL-CONCELMAN-SALATI
 
@@ -803,12 +806,10 @@ invention.[^06_Treske_Ch3_30]
     https://networkcultures.org/videovortex/2017/04/05/video-vortex-xi-kochi-conference-report-now-available/.
 
 [^06_Treske_Ch3_8]: Dan Milmo, Enter the metaverse: the digital future Mark Zuckerberg
-    is steering us toward. The Guardian. 28 October 2021.
-    https://www.theguardian.com/technology/2021/oct/28/facebook-mark-zuckerberg-meta-metaverse.
+    is steering us toward. The Guardian. 28 October 2021, https://www.theguardian.com/technology/2021/oct/28/facebook-mark-zuckerberg-meta-metaverse.
 
 [^06_Treske_Ch3_9]: Matt Stoller on Substack - Subject: It's Apple's Vision Pro, The
-    Rest of Us Just Live Here, 16 February 2024 at 22:44,
-    https://www.thebignewsletter.com/p/its-apples-vision-pro-the-rest-of.
+    Rest of Us Just Live Here, 16 February 2024 at 22:44, https://www.thebignewsletter.com/p/its-apples-vision-pro-the-rest-of.
 
 [^06_Treske_Ch3_10]: Martin Burckhardt and Dirk Höfer. All and Nothing : A Digital
     Apocalypse, translated by Erik Butler, The MIT Press, 2017.
@@ -828,72 +829,34 @@ invention.[^06_Treske_Ch3_30]
     need devices, need assistance, as long as they are not within our
     bodies. In that case, the cyborg…
 
-[^06_Treske_Ch3_16]: To be more precise, to indeed deepen the discussion, it will help
-    to contextualize things through Deleuze’s treatment of the
-    virtual/actual. See *On Virtuality: Deleuze, Bergson, Simondon* by
-    Matt Bluemink.
-    https://epochemagazine.org/36/on-virtuality-deleuze-bergson-simondon/.
+[^06_Treske_Ch3_16]: To be more precise, to indeed deepen the discussion, it will help to contextualize things through Deleuze’s treatment of the virtual/actual. See *On Virtuality: Deleuze, Bergson, Simondon* by Matt Bluemink. https://epochemagazine.org/36/on-virtuality-deleuze-bergson-simondon/.
 
-[^06_Treske_Ch3_17]: We have in ourselves experience of a multiplicity in simple
-    substance ... See G.W. Leibniz, Monadology, 1714. §16.
-    https://www.plato-philosophy.org/wp-content/uploads/2016/07/The-Monadology-1714-by-Gottfried-Wilhelm-LEIBNIZ-1646-1716.pdf.
+[^06_Treske_Ch3_17]: We have in ourselves experience of a multiplicity in simple substance ... See G.W. Leibniz, Monadology, 1714. §16. https://www.plato-philosophy.org/wp-content/uploads/2016/07/The-Monadology-1714-by-Gottfried-Wilhelm-LEIBNIZ-1646-1716.pdf.
 
-[^06_Treske_Ch3_18]: A. Parente and V. de Carvalho, Cinema as dispositif: Between
-    Cinema and
+[^06_Treske_Ch3_18]: A. Parente and V. de Carvalho, Cinema as dispositif: Between Cinema and Contemporary Art, Cinémas, 19(1), 2008, 37–55, https://doi.org/10.7202/029498ar, https://www.erudit.org/fr/revues/cine/2008-v19-n1-cine2876/029498ar.pdf.
 
-    Contemporary Art, Cinémas, 19(1), 2008, 37–55,
-    https://doi.org/10.7202/029498ar,
-    https://www.erudit.org/fr/revues/cine/2008-v19-n1-cine2876/029498ar.pdf.
+[^06_Treske_Ch3_19]: Christoph Rowland, Radical Prophet. The Mystics, Subversives and Visionaries who Strove for Heaven on Earth, Bloomsbury Publishing 2017: .3.
 
-[^06_Treske_Ch3_19]: Christoph Rowland, Radical Prophet. The Mystics, Subversives and
-    Visionaries who Strove
+[^06_Treske_Ch3_20]: Martin Burckhardt and Dirk Höfer, All and Nothing, A Digital Apocalypse, MIT Press 2017
 
-    for Heaven on Earth, Bloomsbury Publishing 2017: .3.
+[^06_Treske_Ch3_21]: Reanna Smith, What is ABBA Voyage? How 'hologram' concert works in specially built arena, The Mirror, 27 May 2022, https://www.mirror.co.uk/3am/celebrity-news/what-abba-voyage-how-hologram-27079797, accessed 12 March 2025
 
-[^06_Treske_Ch3_20]: Martin Burckhardt and Dirk Höfer, All and Nothing, A Digital
-    Apocalypse, MIT Press 2017
+[^06_Treske_Ch3_22]: Carlo Rovelli, Seven Brief Lessons on Physics. Penguin Publishing Group, 2016.
 
-[^06_Treske_Ch3_21]: Reanna Smith, What is ABBA Voyage? How 'hologram' concert works
-    in specially built arena, The Mirror, 27 May 2022,
-    https://www.mirror.co.uk/3am/celebrity-news/what-abba-voyage-how-hologram-27079797,
-    accessed 12 March 2025
+[^06_Treske_Ch3_23]: Ulus Baker, Aras Ozgun (Editor) and Andreas Treske (Editor), From Opinions to Images: Essays Towards a Sociology of Affects, Amsterdam: Institute of Network Cultures, 2020.
 
-[^06_Treske_Ch3_22]: Carlo Rovelli, Seven Brief Lessons on Physics. Penguin Publishing
-    Group, 2016.
+[^06_Treske_Ch3_24]: Vilém Flusser and Nancy Ann Roth, Does Writing Have a Future?, NED-New edition, vol. 33, University of Minnesota Press, 2011, JSTOR, http://www.jstor.org/stable/10.5749/j.cttttfvw. Accessed 9 January 2025.
 
-[^06_Treske_Ch3_23]: Ulus Baker, Aras Ozgun (Editor) and Andreas Treske (Editor), From
-    Opinions to Images: Essays Towards a Sociology of Affects,
-    Amsterdam: Institute of Network Cultures, 2020.
+[^06_Treske_Ch3_25]: David James, The Most Typical Avant-Garde: History and Geography of Minor Cinemas in Los Angeles, University of California Press 2005.
 
-[^06_Treske_Ch3_24]: Vilém Flusser and Nancy Ann Roth, Does Writing Have a Future?
-    NED-New edition, vol. 33, University of Minnesota Press, 2011,
-    JSTOR, http://www.jstor.org/stable/10.5749/j.cttttfvw. Accessed 9
-    January 2025.
+[^06_Treske_Ch3_26]: Geert Lovink, Sad by Design. On Platform Nihilism, Pluto Press 2019.
 
-[^06_Treske_Ch3_25]: David James, The Most Typical Avant-Garde: History and Geography
-    of Minor Cinemas in Los Angeles, University of California Press
-    2005.
+[^06_Treske_Ch3_27]: Nam June Paik, In: Jerome Robbins Dance Division, The New York Public Library. *Time and space concepts in music and visual art, 1978* The New York Public Library Digital Collections, 1978, https://digitalcollections.nypl.org/items/fa5d6120-645f-0132-6c6a-3c075448cc4b.
 
-[^06_Treske_Ch3_26]: Geert Lovink, Sad by Design. On Platform Nihilism, Pluto Press
-    2019.
+[^06_Treske_Ch3_28]: Volker Pantenburg, Working images: Harun Farocki and the operational image, in Jens Eder, and Charlotte Klonk (eds), Image Operations: Visual media and political conflict (Manchester, 2016; online edn, Manchester Scholarship Online, 18 May 2017),
+    https://doi.org/10.7228/manchester 9781526107213.003.0004, accessed 8 January 2025.
 
-[^06_Treske_Ch3_27]: Nam June Paik, In: Jerome Robbins Dance Division, The New York
-    Public Library. *Time and space concepts in music and visual art,
-    1978* The New York Public Library Digital Collections. 1978.
-    https://digitalcollections.nypl.org/items/fa5d6120-645f-0132-6c6a-3c075448cc4b.
-
-[^06_Treske_Ch3_28]: Volker Pantenburg, Working images: Harun Farocki and the
-    operational image, in Jens Eder, and Charlotte Klonk (eds), Image
-    Operations: Visual media and political conflict (Manchester, 2016;
-    online edn, Manchester Scholarship Online, 18 May 2017),
-    https://doi.org/10.7228/manchester/9781526107213.003.0004, accessed
-    8 January 2025.
-
-[^06_Treske_Ch3_29]: Robert Pfaller, Interpassivity: The Aesthetics of Delegated
-    Enjoyment (Edinburgh, 2017; online edn, Edinburgh Scholarship
-    Online, 18 January 2018),
-    https://doi.org/10.3366/edinburgh/9781474422925.001.0001, accessed
-    27 December 2024.
+[^06_Treske_Ch3_29]: Robert Pfaller, Interpassivity: The Aesthetics of Delegated Enjoyment (Edinburgh, 2017; online edn, Edinburgh Scholarship Online, 18 January 2018), https://doi.org/10.3366/edinburgh/9781474422925.001.0001, accessed 27 December 2024.
 
 [^06_Treske_Ch3_30]: Powertec.
     https://portal.powertec.com.au/equipment/rf-communications/rf-connectors/rf-connector-series/bnc,

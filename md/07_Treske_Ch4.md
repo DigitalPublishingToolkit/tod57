@@ -690,68 +690,33 @@ located in more than 60 locations around the world.
 [^07_Treske_Ch4_1]: Engl.: *It was a place, cinema, it was a territory.*
 
 [^07_Treske_Ch4_2]: Elaine Lennon, David Lean, Historical Journal of Film, Radio and
-    Television Vol. 35, Iss. 2,2015. Pages 382-384 | Published online:
-    22 April 2015.
-    http://www.tandfonline.com/doi/abs/10.1080/01439685.2015.1030221?scroll=top&needAccess=true&journalCode=chjf20.
+    Television Vol. 35, Iss. 2,2015. Pages 382-384 | Published online: 22 April 2015, http://www.tandfonline.com/doi/abs 10.1080/01439685.2015.1030221?scroll=top&needAccess=true&journalCode=chjf20.
 
-[^07_Treske_Ch4_3]: Stanley Cavell, The World Viewed. Reflections on the Ontology of
-    Film, Harvard University Press 1979.
+[^07_Treske_Ch4_3]: Stanley Cavell, The World Viewed. Reflections on the Ontology of Film, Harvard University Press 1979.
 
-[^07_Treske_Ch4_4]: Dogan Gürpınar, Küstah ve Cüretkar: Türkiye'nin Doksanlı Yılları.
-    Telematik Kitap 2022.
+[^07_Treske_Ch4_4]: Dogan Gürpınar, Küstah ve Cüretkar: Türkiye'nin Doksanlı Yılları, Telematik Kitap 2022.
 
-[^07_Treske_Ch4_5]: Gilles Deleuze, “What is the Creative Act?”, Conference given on
-    17 March 1987 in the Tuesday lecture series at the FEMIS film
-    foundation. Revised transcription and translation by Charles J.
-    Stivale. https://deleuze.cla.purdue.edu/lecture/lecture-01-21/ Last
-    accessed 9 January 2025.
+[^07_Treske_Ch4_5]: Gilles Deleuze, “What is the Creative Act?”, Conference given on 17 March 1987 in the Tuesday lecture series at the FEMIS film foundation. Revised transcription and translation by Charles J. Stivale. https://deleuze.cla.purdue.edu/lecture/lecture-01-21/ Last accessed 9 January 2025.
 
-[^07_Treske_Ch4_6]: T. Murray, R. Célestin and E. DalMolin, Introduction. Sites: The
-    Journal of Twentieth-Century/Contemporary French Studies Revue
-    d’études Français, 4(2), 2000, 243–248.
-    https://doi.org/10.1080/10260210008456029.
+[^07_Treske_Ch4_6]: T. Murray, R. Célestin and E. DalMolin, Introduction. Sites: The Journal of Twentieth-Century/Contemporary French Studies Revue d’études Français, 4(2), 2000, 243–248. https://doi.org/10.1080/10260210008456029.
 
 [^07_Treske_Ch4_7]: Abhinav Prayas, Cinema. From the Museum of Vestigial Desire. 2013.
-    https://museumofvestigialdesire.net/books/cinema, accessed 12 March
-    2025.
+    https://museumofvestigialdesire.net/books/cinema, accessed 12 March 2025.
 
-[^07_Treske_Ch4_8]: Brian Raftery, Could This Be the Year Movies Stopped Mattering?
-    Wired. 26 August 2016
-    https://www.wired.com/2016/08/do-movies-still-matter-2016/, accessed
-    12 March 2025.
+[^07_Treske_Ch4_8]: Brian Raftery, Could This Be the Year Movies Stopped Mattering?, Wired. 26 August 2016
+    https://www.wired.com/2016/08/do-movies-still-matter-2016/, accessed 12 March 2025.
 
-[^07_Treske_Ch4_9]: Teresa de Lauretis and Stephen Heath (eds.), The Cinematic
-    Apparatus, New York: St. Martin's Press, 1980: 6/7.
+[^07_Treske_Ch4_9]: Teresa de Lauretis and Stephen Heath (eds.), The Cinematic Apparatus, New York: St. Martin's Press, 1980: 6/7.
 
-[^07_Treske_Ch4_10]: Andreas Treske, Fernsehen - Eine Zeitschrift - Ein Verein:
-    Beiträge Zur Fernsehdiskussion Aus Der Zeitschrift "Fernsehen" Von
-    1930 Und 1932. Forschungsschwerpunkt Massenmedien u. Kommunikation
-    an d. Univ., Gesamthochschule, 1986.
+[^07_Treske_Ch4_10]: Andreas Treske, Fernsehen - Eine Zeitschrift - Ein Verein: Beiträge Zur Fernsehdiskussion Aus Der Zeitschrift "Fernsehen" Von 1930 Und 1932. Forschungsschwerpunkt Massenmedien u. Kommunikation an d. Univ., Gesamthochschule, 1986.
 
-[^07_Treske_Ch4_11]: Rudolph Thun, Die Bedeutung des Programms für einen Erfolg des
-    Fernsehens, In: Treske, Andreas. Fernsehen - Eine Zeitschrift - Ein
-    Verein: Beiträge Zur Fernsehdiskussion Aus Der Zeitschrift
-    "Fernsehen" Von 1930 Und 1932. Forschungsschwerpunkt Massenmedien u.
-    Kommunikation an d. Univ., Gesamthochsch, 1986. p. 34: It is often
-    held that for the successful introduction of television, it is
-    sufficient if the equipment is sufficiently developed, and the
-    creation of satisfactory television programs will then no longer
-    pose any difficulties. This view would be correct, now that sound
-    films have become widespread, if television were a replacement for
-    the cinema and could achieve the same performance as direct
-    projection equipment. However, neither of these assumptions is true.
-    (Translation by the author).
+[^07_Treske_Ch4_11]: Rudolph Thun, Die Bedeutung des Programms für einen Erfolg des Fernsehens, In: Treske, Andreas. Fernsehen - Eine Zeitschrift - Ein Verein: Beiträge Zur Fernsehdiskussion Aus Der Zeitschrift "Fernsehen" Von 1930 Und 1932. Forschungsschwerpunkt Massenmedien u. Kommunikation an d. Univ., Gesamthochsch, 1986. p. 34: It is often held that for the successful introduction of television, it is sufficient if the equipment is sufficiently developed, and the creation of satisfactory television programs will then no longer pose any difficulties. This view would be correct, now that sound films have become widespread, if television were a replacement for the cinema and could achieve the same performance as direct projection equipment. However, neither of these assumptions is true. (Translation by the author).
 
 [^07_Treske_Ch4_12]: Teresa de Lauretis and Stephen Heath (eds.) 1980.
 
-[^07_Treske_Ch4_13]: Knut Hickethier, Dispositiv Fernsehen, Skizze eines Modells, In:
-    montage AV. Zeitschrift für Theorie und Geschichte audiovisueller
-    Kommunikation, Jg. 4 (1995), Nr. 1, S. 63-83. DOI:
-    10.25969/mediarep/483.
+[^07_Treske_Ch4_13]: Knut Hickethier, Dispositiv Fernsehen, Skizze eines Modells, In: montage AV. Zeitschrift für Theorie und Geschichte audiovisueller Kommunikation, Jg. 4 (1995), Nr. 1, S. 63-83. DOI: 10.25969/mediarep/483.
 
-[^07_Treske_Ch4_14]: Valie Export. Expanded Cinema as Expanded Reality. Senses of
-    Cinema. October 2003.
-    https://www.sensesofcinema.com/2003/peter-tscherkassky-the-austrian-avant-garde/expanded\_cinema/
+[^07_Treske_Ch4_14]: Valie Export. Expanded Cinema as Expanded Reality. Senses of Cinema. October 2003. https://www.sensesofcinema.com/2003/peter-tscherkassky-the-austrian-avant-garde/expanded\_cinema/
 
 [^07_Treske_Ch4_15]: Valie Export 2003.
 
@@ -759,79 +724,49 @@ located in more than 60 locations around the world.
 
 [^07_Treske_Ch4_17]: Gene Youngblood, Expanded Cinema, 1st ed. New York: Dutton, 1970.
 
-[^07_Treske_Ch4_18]: The Brain is the Screen. Interview with Gilles Deleuze.
-    Originally published as ‘Le cerveau, c’est l’écran’ in Cahiers du
-    cinéma 380, February 1986, the result of a roundtable with Alain
-    Bergala, Pascal Bonitzer, Marc Chevrie, Jean Narboni, Charles Tesson
-    and Serge Toubiana on the occasion of the publication of Deleuze’s
-    ‘Time-Image’ (Minuit, 1985), translated by Marie Therese Guirgis.
+[^07_Treske_Ch4_18]: The Brain is the Screen. Interview with Gilles Deleuze. Originally published as ‘Le cerveau, c’est l’écran’ in Cahiers du cinéma 380, February 1986, the result of a roundtable with Alain Bergala, Pascal Bonitzer, Marc Chevrie, Jean Narboni, Charles Tesson and Serge Toubiana on the occasion of the publication of Deleuze’s *Time-Image* (Minuit, 1985), translated by Marie Therese Guirgis.
     https://www.diagonalthoughts.com/?p=2252, accessed 12 March 2025.
 
-[^07_Treske_Ch4_19]: Vincent Hediger, What Do we Know When We Know Where Something Is?
-    World Cinema and the Question of Spatial Ordering. Screening the
-    Past.
-    http://www.screeningthepast.com/issue-37-aesthetic-issues-in-world-cinema/what-do-we-know-when-we-know-where-something-is-world-cinema-and-the-question-of-spatial-ordering/,
-    accessed 12 March 2025.
+[^07_Treske_Ch4_19]: Vincent Hediger, What Do we Know When We Know Where Something Is? World Cinema and the Question of Spatial Ordering. Screening the Past.
+    http://www.screeningthepast.com/issue-37-aesthetic-issues-in-world-cinema/what-do-we-know-when-we-know-where-something-is-world-cinema-and-the-question-of-spatial-ordering/, accessed 12 March 2025.
 
-[^07_Treske_Ch4_20]: Messynessy. The Abandoned Secret Cinema of the Sinai Desert. 8
-    February 2018.
-    https://www.messynessychic.com/2014/03/06/the-abandoned-secret-cinema-of-the-sinai-desert/,
-    accessed 12 March 2025.
+[^07_Treske_Ch4_20]: Messynessy. The Abandoned Secret Cinema of the Sinai Desert. 8 February 2018.
+    https://www.messynessychic.com/2014/03/06/the-abandoned-secret-cinema-of-the-sinai-desert/, accessed 12 March 2025.
 
-[^07_Treske_Ch4_21]: Francesco Casetti, The Lumière Galaxy: Seven Key Words for the
-    Cinema to Come, Columbia University Press, 2015. JSTOR,
-    https://doi.org/10.7312/case17242. Accessed 9 January 2025: 102 -
-    110.
+[^07_Treske_Ch4_21]: Francesco Casetti, The Lumière Galaxy: Seven Key Words for the Cinema to Come, Columbia University Press, 2015. JSTOR, https://doi.org/10.7312/case17242. Accessed 9 January 2025: 102 -110.
 
 [^07_Treske_Ch4_22]: Youngblood 1970.
 
-[^07_Treske_Ch4_23]: Jonathan Gray, Show Sold Separately: Promos, Spoilers, and Other
-    Media Paratexts, NYU Press 2010.
+[^07_Treske_Ch4_23]: Jonathan Gray, Show Sold Separately: Promos, Spoilers, and Other Media Paratexts, NYU Press 2010.
 
-[^07_Treske_Ch4_24]: D. N. Rodewick, The Virtual Life of Film, Harvard University
-    Press 2007.
+[^07_Treske_Ch4_24]: D. N. Rodewick, The Virtual Life of Film, Harvard University Press 2007.
 
 [^07_Treske_Ch4_25]: 32 SOUNDS. A film by Sam Green. 2022. https://32sounds.com/.
 
 [^07_Treske_Ch4_26]: Eno. A film by Gary Hustwit. 2024. https://www.hustwit.com/eno.
 
-[^07_Treske_Ch4_27]: Kevin Nguyen, Eno documentary: behind the first generative
-    feature film - The Verge.
-    https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview,
-    accessed 18 August 2024.
+[^07_Treske_Ch4_27]: Kevin Nguyen, Eno documentary: behind the first generative feature film - The Verge.
+    https://www.theverge.com/24197153/eno-documentary-generative-film-gary-hustwit-interview, accessed 18 August 2024.
 
-[^07_Treske_Ch4_28]: James Schamus, 23 Fragments on the Future of Cinema, German Film
-    Academy 2014
-    http://filmmakermagazine.com/92531-23-fragments-on-the-future-of-cinema/\#.VMIwuBYznG2,
-    accessed 12 March 2025.
+[^07_Treske_Ch4_28]: James Schamus, 23 Fragments on the Future of Cinema, German Film Academy 2014, http://filmmakermagazine.com/92531-23-fragments-on-the-future-of-cinema/\#.VMIwuBYznG2, accessed 12 March 2025.
 
 [^07_Treske_Ch4_29]: Schamus 2014.
 
 [^07_Treske_Ch4_30]: Schamus 2014.
 
-[^07_Treske_Ch4_31]: Allen Murabayashi, We are Visually Sophisticated and Visually
-    Illiterate. PetaPixel. Published on July 15, 2014,
-    http://petapixel.com/2014/07/15/visually-sophisticated-visually-illiterate/,
-    accessed 12 March 2025
+[^07_Treske_Ch4_31]: Allen Murabayashi, We are Visually Sophisticated and Visually Illiterate. PetaPixel. Published on July 15, 2014, http://petapixel.com/2014/07/15/visually-sophisticated-visually-illiterate/, accessed 12 March 2025
 
-[^07_Treske_Ch4_32]: Raymond Bellour, in: Alphaville: Journal of Film and Screen
-    Media, Issue 5, Summer 2013.
+[^07_Treske_Ch4_32]: Raymond Bellour, in: Alphaville: Journal of Film and Screen Media, Issue 5, Summer 2013.
 
-[^07_Treske_Ch4_33]: The Deleuze Seminars. Cinema and Thought / 18. APRIL 16, 1985
-    https://deleuze.cla.purdue.edu/lecture/lecture-18-5/, accessed 12
-    March 2025
+[^07_Treske_Ch4_33]: The Deleuze Seminars. Cinema and Thought / 18. APRIL 16, 1985, https://deleuze.cla.purdue.edu/lecture/lecture-18-5/, accessed 12 March 2025
 
-[^07_Treske_Ch4_34]: Gilles Deleuze, Cinema I: The Movement Image.U of Minnesota
-    Press, 1986-89. Page 232.
+[^07_Treske_Ch4_34]: Gilles Deleuze, Cinema I: The Movement Image. U of Minnesota Press, 1986-89. Page 232.
 
 [^07_Treske_Ch4_35]: Deleuze 1986.
 
 [^07_Treske_Ch4_36]: Bellour 2013.
 
-[^07_Treske_Ch4_37]: Raymond Bellour, Cinema, Alone/Multiple Cinemas, Alphaville:
-    Journal of Film and Screen Media. Issue 5, Summer 2013.
-    https://www.alphavillejournal.com/Issue5/PDFs/ArticleBellour.pdf,
-    accessed 12 March 2025.
+[^07_Treske_Ch4_37]: Raymond Bellour, Cinema, Alone/Multiple Cinemas, Alphaville: Journal of Film and Screen Media. Issue 5, Summer 2013. https://www.alphavillejournal.com/Issue5/PDFs/ArticleBellour.pdf, accessed 12 March 2025.
 
 [^07_Treske_Ch4_38]: Chris Marker, Immemory, CD-ROM, FIlm 1997.
 

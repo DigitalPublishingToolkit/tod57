@@ -49,6 +49,4 @@ Excess
 
 —YELLO[^22_Treske_Ch19OUT_1]
 
-[^22_Treske_Ch19OUT_1]: Yello. *You gotta say yes to another excess.* Lyrics by Boris
-    Blank. 1983.
-    https://genius.com/Yello-you-gotta-say-yes-to-another-excess-lyrics
+[^22_Treske_Ch19OUT_1]: Yello. *You gotta say yes to another excess.* Lyrics by Boris Blank. 1983, https://genius.com/Yello-you-gotta-say-yes-to-another-excess-lyrics

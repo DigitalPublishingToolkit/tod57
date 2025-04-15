@@ -59,11 +59,9 @@ become an unhealthy habit.[^17_Treske_Ch14_4]
 
 Sianne Ngai offers three categories or keys to how we experience today’s
 world as surfacing on social media: *zany blogs, cute tweets and
-interesting wikis* are categories creating attention.[^17_Treske_Ch14_5] ‘The best
-explanation for why the zany, the interesting, and the cute are our most
-pervasive and significant categories is that they are about the
-increasingly intertwined ways in which late capitalist subjects labor,
-communicate and consume.’[^17_Treske_Ch14_6]
+interesting wikis* are categories creating attention.[^17_Treske_Ch14_5] 
+>The best explanation for why the zany, the interesting, and the cute are our most
+pervasive and significant categories is that they are about the increasingly intertwined ways in which late capitalist subjects labor, communicate and consume.[^17_Treske_Ch14_6]
 
 They are the material through which we can have perceptions and share
 judgments that seem most closely related to what we do, say, and use in
@@ -315,23 +313,13 @@ Absence might be close to forgetting.
 
 [^17_Treske_Ch14_1]: Beam me up, Scotty! - Captain Kirk in Enterprise …
 
-[^17_Treske_Ch14_2]: Thorsten Botz-Bornstein, Why Are There So Many Cute Cats on the
-    Internet? The World is Driven by a Cute-Excellence Syndrome. LA
-    Review of Books. 23 December 2017
-    http://blog.lareviewofbooks.org/essays/many-cute-cats-internet-world-driven-cute-excellence-syndrome/
-    and Not-so-guilty pleasure: Viewing cat videos boosts energy and
-    positive emotions, IU study finds. June 2015
-    http://archive.news.indiana.edu/releases/iu/2015/06/internet-cat-video-research.shtml,
-    accessed 12 March 2025.
+[^17_Treske_Ch14_2]: Thorsten Botz-Bornstein, Why Are There So Many Cute Cats on the Internet? The World is Driven by a Cute-Excellence Syndrome. LA Review of Books. 23 December 2017, http://blog.lareviewofbooks.org/essays/many-cute-cats-internet-world-driven-cute-excellence-syndrome/ and Not-so-guilty pleasure: Viewing cat videos boosts energy and positive emotions, IU study finds. June 2015, http://archive.news.indiana.edu/releases/iu/2015/06/internet-cat-video-research.shtml, accessed 12 March 2025.
 
-[^17_Treske_Ch14_3]: Sianne Ngai, Our Aesthetic Categories, Harvard University Press
-    2015.
+[^17_Treske_Ch14_3]: Sianne Ngai, Our Aesthetic Categories, Harvard University Press 2015.
 
 [^17_Treske_Ch14_4]: Botz-Bornstein 2017.
 
-[^17_Treske_Ch14_5]: McKenzie Wark. Our Aesthetics. Blog Post 27 June 2017.
-    https://www.versobooks.com/blogs/3291-our-aesthetics, accessed 12
-    January 2025.
+[^17_Treske_Ch14_5]: McKenzie Wark. Our Aesthetics. Blog Post 27 June 2017. https://www.versobooks.com/blogs/3291-our-aesthetics, accessed 12 January 2025.
 
 [^17_Treske_Ch14_6]: Ngai 2015.
 
@@ -339,37 +327,19 @@ Absence might be close to forgetting.
 
 [^17_Treske_Ch14_8]: Ngai 2015: 242.
 
-[^17_Treske_Ch14_9]: Hiroki Azuma, Otaku, Japan’s Database Animals, University of
-    Minnesota Press 2009.
+[^17_Treske_Ch14_9]: Hiroki Azuma, Otaku, Japan’s Database Animals, University of Minnesota Press 2009.
 
-[^17_Treske_Ch14_10]: Sure Wolton, Marxism, Mysticism and Modern Theory, Springer 2016.
-    https://link.springer.com/content/pdf/10.1007/978-1-349-24669-4.pdf,
-    accessed 12 March 2025.
+[^17_Treske_Ch14_10]: Sure Wolton, Marxism, Mysticism and Modern Theory, Springer 2016. https://link.springer.com/content/pdf 10.1007/978-1-349-24669-4.pdf, accessed 12 March 2025.
 
-[^17_Treske_Ch14_11]: Translation from German: Die Welt ist nun zur *Ausstellung*
-    geworden, und zwar zu einer Werbeausstellung, die nicht zu besuchen
-    unmöglich ist, weil wir uns immer schon ohnehin in ihr befinden
-    (Anders 1980a, 161).
+[^17_Treske_Ch14_11]: Translation from German: Die Welt ist nun zur *Ausstellung* geworden, und zwar zu einer Werbeausstellung, die nicht zu besuchen unmöglich ist, weil wir uns immer schon ohnehin in ihr befinden (Anders 1980a, 161).
 
-[^17_Treske_Ch14_12]: Oliver Marino, Günther Anders’ Theory of Media and Communication:
-    Developing a Conception of Technological Domination, Alienation and
-    Ideology with Marx beyond Marx. A PhD thesis awarded by the
-    University of Westminster.
-    https://westminsterresearch.westminster.ac.uk/download/3efa6c34f14faefd556f244c01f6c28b2efa3ddc0852eba61cb3955b6f259d72/3773962/E-Thesis
-    Submission.pdf, accessed 12 March 2025
+[^17_Treske_Ch14_12]: Oliver Marino, Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University of Westminster, https://westminsterresearch.westminster.ac.uk/download/3efa6c34f14faefd556f244c01f6c28b2efa3ddc0852eba61cb3955b6f259d72/3773962/E-ThesisSubmission.pdf, accessed 12 March 2025
 
-[^17_Treske_Ch14_13]: M. Hauskeller, Promethean Shame and the Engineering of Love. In:
-    Sex and the Posthuman Condition. Palgrave Pivot, London 2014.
+[^17_Treske_Ch14_13]: M. Hauskeller, Promethean Shame and the Engineering of Love. In: Sex and the Posthuman Condition. Palgrave Pivot, London 2014.
     *https://doi.org/10.1057/9781137393500\_4*
 
-[^17_Treske_Ch14_14]: Harvard Review of Philosophy Lecture: Babette Babich (Fordham
-    University). Günther Anders’ 'Promethean Shame': Technological
-    Ressentiment and Surveillance.
-    https://philosophy.fas.harvard.edu/event/harvard-review-philosophy-annual-lecture-babette-babich-fordham-university
+[^17_Treske_Ch14_14]: Harvard Review of Philosophy Lecture: Babette Babich (Fordham University). Günther Anders’ 'Promethean Shame': Technological Ressentiment and Surveillance. https://philosophy.fas.harvard.edu/event/harvard-review-philosophy-annual-lecture-babette-babich-fordham-university
 
-[^17_Treske_Ch14_15]: Nicholas Mirzoeff, How to See the World. Penguin UK, 4 Haz 2015:
-    13.
+[^17_Treske_Ch14_15]: Nicholas Mirzoeff, How to See the World. Penguin UK, 4 Haz 2015: 13.
 
-[^17_Treske_Ch14_16]: Geert Lovink, Requiem for the Network,
-    https://networkcultures.org/geert/2020/01/28/geert-lovink-requiem-for-the-network/,
-    accessed 12 March 2025.
+[^17_Treske_Ch14_16]: Geert Lovink, Requiem for the Network, https://networkcultures.org/geert/2020/01/28/geert-lovink-requiem-for-the-network/, accessed 12 March 2025.

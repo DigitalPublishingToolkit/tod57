@@ -165,28 +165,9 @@ for technological development.
 > run.[^09_Treske_Ch6_4]
 
 The cinematic apparatus not only captures the movement of objects before
-it; it also includes two essential kinds of movement in itself: it moves
-and the recording medium
-
-moves, transporting fixed images in time. The recorded movement is an
-illusion
-
-created by the recording and transporting of still images, which are
-nothing else than
-
-frozen photographs of motion, instants in sequence. The discovery of the
-moving motion picture camera sets in motion the aesthetic and ethic of
-cinema and the cinematic apparatus. The moving picture camera allows one
-to take control of the viewer’s perspective. The movement of the camera
-introduces a new powerful relation between the subject and the camera.
-Movement by itself creates significance. The camera moves and changes
-the perspective of the viewer, and the camera frames and shows us only a
-part of an object/subject. There is something outside the frame, what
-the camera doesn’t show, and there is something inside, which is related
-to it. The outside and the inside create a dramatic attraction. Object
-movement and camera movement create a rhythm, a fluent and magic
-atmosphere. All together it’s the cinematic combination of time and
-space. Its part of the language, the syntax of film.[^09_Treske_Ch6_5]
+it; it also includes two essential kinds of movement in itself: it moves and the recording medium moves, transporting fixed images in time. The recorded movement is an illusion created by the recording and transporting of still images, which are nothing else than frozen photographs of motion, instants in sequence. The discovery of the moving motion picture camera sets in motion the aesthetic and ethic of
+cinema and the cinematic apparatus. The moving picture camera allows one to take control of the viewer’s perspective. The movement of the camera introduces a new powerful relation between the subject and the camera. Movement by itself creates significance. The camera moves and changes the perspective of the viewer, and the camera frames and shows us only a part of an object/subject. There is something outside the frame, what the camera doesn’t show, and there is something inside, which is related to it. The outside and the inside create a dramatic attraction. Object movement and camera movement create a rhythm, a fluent and magic
+atmosphere. All together it’s the cinematic combination of time and space. Its part of the language, the syntax of film.[^09_Treske_Ch6_5]
 
 The moving camera adds *kinaesthetic*, bodily, tactile cues as well as
 the sense of balance and gravity. The visual appears live. The camera
@@ -371,7 +352,7 @@ technological mediation.[^09_Treske_Ch6_14]
 > I no longer love blue skies. In fact, I now prefer gray skies. The
 > drones do not fly when the skies are grey.
 
->Zubair Rehman
+> —Zubair Rehman
 
 This striking observation is from Zubair Rehman’s 2013 congressional
 testimony on U.S. drone campaigns. The photographer van Houtryve later
@@ -411,62 +392,30 @@ Do they exist? Is this the basic condition of drone warfare?
 > redoubled by violence against the evidence that violence has taken
 > place.[^09_Treske_Ch6_17]
 
-Drone vision is intimately uncanny. The extended capacity of perception
-makes the drone a paradigmatic figure in our networked world, generating
-anxious ambivalence.
+Drone vision is intimately uncanny. The extended capacity of perception makes the drone a paradigmatic figure in our networked world, generating anxious ambivalence.
 
-If we think about how we've traditionally captured images of war, from
-battlefield paintings to war photography to combat footage, we realize,
-as Paul Virilio pointed out, that military technology and visual
-technology have always developed hand in hand. Drones have changed this
-relationship.
+If we think about how we've traditionally captured images of war, from battlefield paintings to war photography to combat footage, we realize,
+as Paul Virilio pointed out, that military technology and visual technology have always developed hand in hand. Drones have changed this relationship.
 
-Unlike a soldier looking through a rifle scope or a war photographer
-peering through a lens, drone vision creates something entirely new: a
-perspective that's fundamentally detached from human eyes. While
-traditional war imagery tried to capture what a person would see if they
-were there, drone footage shows us something we could never see by
-ourselves: a cold, distant, algorithmic view of the world below.
+Unlike a soldier looking through a rifle scope or a war photographer peering through a lens, drone vision creates something entirely new: a perspective that's fundamentally detached from human eyes. While traditional war imagery tried to capture what a person would see if they were there, drone footage shows us something we could never see by ourselves: a cold, distant, algorithmic view of the world below.
 
-This is a new way of seeing which isn't just changing warfare, it's
-seeping into art, activism, and popular culture. There is something more
-strange and elusive about drone imagery. Unlike a photograph or video
-that feels like a direct window onto reality, drone images feel more
-remote, more processed, more digital in their very nature. They're
-creating a new kind of visual evidence that we are still trying to
-understand.
+This is a new way of seeing which isn't just changing warfare, it's seeping into art, activism, and popular culture. There is something more strange and elusive about drone imagery. Unlike a photograph or video
+that feels like a direct window onto reality, drone images feel more remote, more processed, more digital in their very nature. They're creating a new kind of visual evidence that we are still trying to understand.
 
-This matters because we've long trusted what we can see with our own
-eyes, or at least through technologies that extend our natural vision.
-Photos and videos have carried weight in courtrooms and shaped public
-opinion precisely because they seemed to show us *what really happened*.
-But drone imagery is different; it shows us something no human eye could
-see, from perspectives no human could naturally achieve. This raises
-fascinating questions about how we should interpret and trust these new
-kinds of images that are increasingly shaping our understanding of
-events happening around the world.[^09_Treske_Ch6_18]
+This matters because we've long trusted what we can see with our own eyes, or at least through technologies that extend our natural vision.
+Photos and videos have carried weight in courtrooms and shaped public opinion precisely because they seemed to show us *what really happened*.
+But drone imagery is different; it shows us something no human eye could see, from perspectives no human could naturally achieve. This raises fascinating questions about how we should interpret and trust these new kinds of images that are increasingly shaping our understanding of events happening around the world.[^09_Treske_Ch6_18]
 
-Drones symbolize our social media age, capturing images that reflect
-both the beauty and strangeness of the world while also serving as tools
-for surveillance and data collection.
+Drones symbolize our social media age, capturing images that reflect both the beauty and strangeness of the world while also serving as tools for surveillance and data collection.
 
-Drones operate by analyzing human behaviors and patterns through
-continuous monitoring, allowing operators and algorithms to identify
-significant events and anomalies. This capability is crucial in military
-contexts, where understanding daily activities can help anticipate
-potential threats. The goal of drone surveillance is to differentiate
-between normal and abnormal behaviors, thereby enabling preemptive
+Drones operate by analyzing human behaviors and patterns through continuous monitoring, allowing operators and algorithms to identify significant events and anomalies. This capability is crucial in military
+contexts, where understanding daily activities can help anticipate potential threats. The goal of drone surveillance is to differentiate between normal and abnormal behaviors, thereby enabling preemptive
 actions against perceived threats.
 
-Drone surveillance contributes to a form of governance that determines
-who has the right to live or die based on data analysis. This leads to a
-visual economy that reflects operational chaos rather than divine order,
-highlighting the role of drones in maintaining a state of exception in
-societal control.[^09_Treske_Ch6_19]
+Drone surveillance contributes to a form of governance that determines who has the right to live or die based on data analysis. This leads to a visual economy that reflects operational chaos rather than divine order,
+highlighting the role of drones in maintaining a state of exception in societal control.[^09_Treske_Ch6_19]
 
-The drone is an experience of weightless dominance in its displacement
-and augmentation of the ‘metabolic vector’ for the ‘void’, not so much
-of speed, but of invulnerability.[^09_Treske_Ch6_20]
+The drone is an experience of weightless dominance in its displacement and augmentation of the ‘metabolic vector’ for the ‘void’, not so much of speed, but of invulnerability.[^09_Treske_Ch6_20]
 
 ## Sit back and enjoy!
 
@@ -530,93 +479,50 @@ For both styles of BNC connector it is essential that the exact amount
 of insulation is stripped from each section to ensure accurate assembly
 and the required RF performance.[^09_Treske_Ch6_23].
 
-[^09_Treske_Ch6_1]: Azadeh Emadi, Reconsidering the Substance of Digital Video from a
-    Sadrian Perspective 79 Downloaded from
-    http://direct.mit.edu/leon/article-pdf/53/1/75/1579572/leon\_a\_01602.pdf,
-    accessed 26 April 2024.
+[^09_Treske_Ch6_1]: Azadeh Emadi, Reconsidering the Substance of Digital Video from a Sadrian Perspective 79 Downloaded from http://direct.mit.edu/leon/article-pdf/53/1/75/1579572/leon\_a\_01602.pdf, accessed 26 April 2024.
 
-[^09_Treske_Ch6_2]: Progression of Animals, 706b30, in Thomas Moynihan, Spinal
-    Catastrophism, Urbanomic 2019.
+[^09_Treske_Ch6_2]: Progression of Animals, 706b30, in Thomas Moynihan, Spinal Catastrophism, Urbanomic 2019.
 
-[^09_Treske_Ch6_3]: B.M. Stafford, Crystal and Smoke: Putting Image back in Mind, in:
-    A field guide to a new field … 2011,
-    https://humanitiesfutures.org/papers/visions-body-embodied-simulation-aesthetic-experience/,
-    accessed 12 March 2025.
+[^09_Treske_Ch6_3]: B.M. Stafford, Crystal and Smoke: Putting Image back in Mind, in: A field guide to a new field … 2011, https://humanitiesfutures.org/papers/visions-body-embodied-simulation-aesthetic-experience/, accessed 12 March 2025.
 
-[^09_Treske_Ch6_4]: Sheron R. Sherman, Documenting Ourselves: Film, Video, and
-    Culture, University Press of Kentucky 1998.
+[^09_Treske_Ch6_4]: Sheron R. Sherman, Documenting Ourselves: Film, Video, and Culture, University Press of Kentucky 1998.
 
 [^09_Treske_Ch6_5]: Andreas Treske, Curiosity. 2003
     www.kasputnik.com/thoughts/curiosity/curiosity2.html
 
-[^09_Treske_Ch6_6]: Uri Hasson, O. Landesman, B. Knappmeyer, et al., Neurocinematics :
-    The neuroscience of films, in: Projections: The Journal for Movies
-    and Mind. 2008 ; Vol. 2.: 1-26.
+[^09_Treske_Ch6_6]: Uri Hasson, O. Landesman, B. Knappmeyer, et al., Neurocinematics: The neuroscience of films, in: Projections: The Journal for Movies and Mind. 2008 ; Vol. 2.: 1-26.
 
-[^09_Treske_Ch6_7]: Robert Bresson, Notes on the Cinematographer, New York : Urizen
-    Books 1977.
+[^09_Treske_Ch6_7]: Robert Bresson, Notes on the Cinematographer, New York : Urizen Books 1977.
 
-[^09_Treske_Ch6_8]: Kevin Macdonald and Mark Cousins, Imagining reality: the Faber
-    book of the documentary, Faber and Faber 1996.
+[^09_Treske_Ch6_8]: Kevin Macdonald and Mark Cousins, Imagining reality: the Faber book of the documentary, Faber and Faber 1996.
 
-[^09_Treske_Ch6_9]: Kino-Eye: The Writings of Dziga Vertov. by Dziga Vertov (Author),
-    Kevin O'Brien (Translator), Annette Michelson (Introduction by).
-    University of California Press. 1985.
+[^09_Treske_Ch6_9]: Kino-Eye: The Writings of Dziga Vertov. by Dziga Vertov (Author), Kevin O'Brien (Translator), Annette Michelson (Introduction by). University of California Press. 1985.
 
-[^09_Treske_Ch6_10]: BIRDMAN vs VICTORIA - camera movement and the restoration of the
-    plan-sequence or long take, unpublished presentation by Stephan
-    Vorbrugg and Andreas Treske, Goethe Institute Ankara, 14 May 2017.
+[^09_Treske_Ch6_10]: BIRDMAN vs VICTORIA - camera movement and the restoration of the plan-sequence or long take, unpublished presentation by Stephan Vorbrugg and Andreas Treske, Goethe Institute Ankara, 14 May 2017.
 
-[^09_Treske_Ch6_11]: Harun Farocki, Images of the World and the Inscription of War,
-    Documentary Film, 1988.
+[^09_Treske_Ch6_11]: Harun Farocki, Images of the World and the Inscription of War, Documentary Film, 1988.
 
-[^09_Treske_Ch6_12]: Coronavirus Drone Genres: Spectacles of Distance and Melancholia,
-    Film Quarterly,
-    https://filmquarterly.org/2020/04/30/coronavirus-drone-genres-spectacles-of-distance-and-melancholia/
+[^09_Treske_Ch6_12]: Coronavirus Drone Genres: Spectacles of Distance and Melancholia, Film Quarterly, https://filmquarterly.org/2020/04/30/coronavirus-drone-genres-spectacles-of-distance-and-melancholia/, Page 14 of 17, accessed 29 April 2023.
 
-    Page 14 of 17, accessed 29 April 2023.
+[^09_Treske_Ch6_13]: Dany Cooke, Postcards from Pripyat, Chernobyl, Video. https://vimeo.com/112681885.
 
-[^09_Treske_Ch6_13]: Dany Cooke, Postcards from Pripyat, Chernobyl, Video.
-    https://vimeo.com/112681885.
+[^09_Treske_Ch6_14]: Patrick Lichty, Drone: Camera, Weapon,Toy: The Aestheticization of Dark Technology. Furtherfield 2013, https://www.furtherfield.org/drone-camera-weapontoy-the-aestheticization-of-dark-technology/, accessed 12 March 2025.
 
-[^09_Treske_Ch6_14]: Patrick Lichty, Drone: Camera, Weapon,Toy: The Aestheticization
-    of Dark Technology. Furtherfield 2013,
-    https://www.furtherfield.org/drone-camera-weapontoy-the-aestheticization-of-dark-technology/,
-    accessed 12 March 2025.
+[^09_Treske_Ch6_15]: Alexander Abad Santos, This 13-Year-Old is Scared When the Sky Is Blue Because of Our Drones, The Atlantic, 29 October 2013, www.theatlantic.com/politics/archive/2013/10/saddest-words-congresss-briefing-drone-strikes/354548/.
 
-[^09_Treske_Ch6_15]: Alexander Abad Santos, This 13-Year-Old is Scared When the Sky Is
-    Blue Because of Our Drones, The Atlantic, 29 October 2013,
-    www.theatlantic.com/politics/archive/2013/10/saddest-words-congresss-briefing-drone-strikes/354548/.
+[^09_Treske_Ch6_16]: Cited after Jan Mieszkowski, Watching War. Stanford: Stanford University Press, 2012: 19-20.
 
-[^09_Treske_Ch6_16]: Cited after Jan Mieszkowski, Watching War. Stanford: Stanford
-    University Press, 2012: 19-20.
+[^09_Treske_Ch6_17]: Eyal Weizman, Introduction, Part II: Matter against Memory, in Forensis: The Architecture of Public Truth, ed. Forensic Architecture. Berlin: Sternberg Press, 2014: 369-370.
 
-[^09_Treske_Ch6_17]: Eyal Weizman, Introduction, Part II: Matter against Memory, in
-    Forensis: The Architecture of Public Truth, ed. Forensic
-    Architecture. Berlin: Sternberg Press, 2014: 369-370.
+[^09_Treske_Ch6_18]: Cited after final author version: Forthcoming in Schankweiler, K, Straub, V, and Wendl, T. Image Testimonies: Witnessing in Times of Social Media. New York: Routledge. Chapter 7 DRONE’S-EYE VIEW: AFFECTIVE WITNESSING AND TECHNICITIES OF PERCEPTION Michael Richardson 0000-0002-2750-2487.
 
-[^09_Treske_Ch6_18]: Cited after final author version: Forthcoming in Schankweiler, K,
-    Straub, V, and Wendl, T.
-
-    Image Testimonies: Witnessing in Times of Social Media. New York:
-    Routledge.
-
-    Chapter 7 DRONE’S-EYE VIEW: AFFECTIVE WITNESSING AND TECHNICITIES OF
-    PERCEPTION Michael Richardson 0000-0002-2750-2487.
-
-[^09_Treske_Ch6_19]: Pasi Väliaho, The light of God: Notes on the visual economy of
-    drones. Necsus
-    http://www.necsus-ejms.org/light-god-notes-visual-economy-drones/.
+[^09_Treske_Ch6_19]: Pasi Väliaho, The light of God: Notes on the visual economy of drones. Necsus, http://www.necsus-ejms.org/light-god-notes-visual-economy-drones/.
 
 [^09_Treske_Ch6_20]: Benjamin Noys, Drone Metaphysics, CULTURE MACHINE VOL 16, 2015.
 
-[^09_Treske_Ch6_21]: This is some of the most stunning drone footage we have seen in a
-    very long time.
-    https://www.redsharknews.com/production/item/5726-this-is-some…fhVXO9\_3ppktEMaiAeg&utm\_content=106218657&utm\_source=hs\_email,
-    accessed 12 March 2025.
+[^09_Treske_Ch6_21]: This is some of the most stunning drone footage we have seen in a very long time, https://www.redsharknews.com/production/item/5726-this-is-some…fhVXO9\_3ppktEMaiAeg&utm\_content=106218657&utm\_source=hs\_email, accessed 12 March 2025.
 
 [^09_Treske_Ch6_22]: Ian Poole, Electronic Notes,
-    https://www.radio-electronics.com/info/antennas/coax/bnc\_connector.php,
-    accessed 12 March 2025.
+    https://www.radio-electronics.com/info/antennas/coax/bnc\_connector.php, accessed 12 March 2025.
 
 [^09_Treske_Ch6_23]: Ian Pole, 2025.

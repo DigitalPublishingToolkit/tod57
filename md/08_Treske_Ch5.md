@@ -163,10 +163,10 @@ building blocks of society. Instead, he proposes communication events as
 the key element. Societies, in essence, are self-sustaining networks of
 communication.
 
-‘Social systems use communications as their particular mode of
+>Social systems use communications as their particular mode of
 autopoietic reproduction. Their elements are communications which are
 recursively produced and reproduced by a network of communications and
-which cannot exist outside of such a network.’[^08_Treske_Ch5_8]
+which cannot exist outside of such a network.[^08_Treske_Ch5_8]
 
 Breaking away from a common view of communication, Luhmann draws on Karl
 Bühler's ideas and defines communication as three elementary things
@@ -419,10 +419,10 @@ image. Like his friends and colleagues in the early 1970s around
 *Radical Software*, he was interested in video as signal and as
 ecological system:
 
-‘I would avoid the term visual to describe video. You can see a bottle
+>I would avoid the term visual to describe video. You can see a bottle
 of perfume, but sight is not the sense it really affects…Video is about
 perceiving events with the nervous system, not visualizing in a
-pictorial way.’[^08_Treske_Ch5_13]
+pictorial way.[^08_Treske_Ch5_13]
 
 Exploring technology for environmental and local awareness, Ryan merges
 video art and environmental education in his work and conceptual
@@ -508,70 +508,37 @@ Coaxial - Securing - Bayonet fit - Typical operating frequency range 0 -
 
 
 
-[^08_Treske_Ch5_1]: Kalevi Kull, Jakob von Uexküll: An introduction, Semiotica, vol.
-    2001, no. 134, 2001, pp. 1-59,
-    https://doi.org/10.1515/semi.2001.013.
+[^08_Treske_Ch5_1]: Kalevi Kull, Jakob von Uexküll: An introduction, Semiotica, vol. 2001, no. 134, 2001, pp. 1-59, https://doi.org/10.1515/semi.2001.013.
 
-[^08_Treske_Ch5_2]: Brett Buchanan, Onto-Ethologies: The Animal Environments of
-    Uexküll, Heidegger, Merleau-Ponty, and Deleuze, State University of
-    New York Press, 2008, 223pp., ISBN 9780791476116.
+[^08_Treske_Ch5_2]: Brett Buchanan, Onto-Ethologies: The Animal Environments of Uexküll, Heidegger, Merleau-Ponty, and Deleuze, State University of New York Press, 2008, 223pp., ISBN 9780791476116.
 
 [^08_Treske_Ch5_3]: Leibniz. Monadology (1714)
 
-[^08_Treske_Ch5_4]: Brett Buchanan, Onto-Ethologies: The Animal Environments of
-    Uexküll, Heidegger, Merleau-Ponty, and Deleuze, State University of
-    New York Press, 2008, Reviewed by Robert Vallier, DePaul University
-    2009.06.08
-    https://ndpr.nd.edu/reviews/onto-ethologies-the-animal-environments-of-uexk-252-ll-heidegger-merleau-ponty-and-deleuze/.
+[^08_Treske_Ch5_4]: Brett Buchanan, Onto-Ethologies: The Animal Environments of Uexküll, Heidegger, Merleau-Ponty, and Deleuze, State University of New York Press, 2008, Reviewed by Robert Vallier, DePaul University 2009.06.08, https://ndpr.nd.edu/reviews/onto-ethologies-the-animal-environments-of-uexk-252-ll-heidegger-merleau-ponty-and-deleuze/.
 
-[^08_Treske_Ch5_5]: Jakob Johann von Uexküll. Wikipedia:
-    https://en.wikipedia.org/wiki/Jakob\_Johann\_von\_Uexküll
-    09.01.2025.
+[^08_Treske_Ch5_5]: Jakob Johann von Uexküll. Wikipedia: https://en.wikipedia.org/wiki Jakob\_Johann\_von\_Uexküll, 09.01.2025.
 
-[^08_Treske_Ch5_6]: On Life in the Infosphere (Jacob Burda, Luciano Floridi, P.Weibel,
-    P.Sloterdijk, J.Jarvis) | DLD16,
-    https://www.youtube.com/watch?v=DbQC4WfXxjw, accessed 12 March 2025.
+[^08_Treske_Ch5_6]: On Life in the Infosphere (Jacob Burda, Luciano Floridi, P.Weibel, P.Sloterdijk, J.Jarvis) | DLD16, https://www.youtube.com/watch?v=DbQC4WfXxjw, accessed 12 March 2025.
 
-[^08_Treske_Ch5_7]: Clemens Mattheis, The System Theory of Niklas Luhmann and the
-    Constitutionalization of the World Society, Goettingen Journal of
-    International Law 4 (2012) 2, 625-647.
+[^08_Treske_Ch5_7]: Clemens Mattheis, The System Theory of Niklas Luhmann and the Constitutionalization of the World Society, Goettingen Journal of International Law 4 (2012) 2, 625-647.
 
-[^08_Treske_Ch5_8]: Niklas Luhmann, Social systems, Stanford, Stanford University
-    Press 1995 \[1984\].
+[^08_Treske_Ch5_8]: Niklas Luhmann, Social systems, Stanford, Stanford University Press 1995 \[1984\].
 
-[^08_Treske_Ch5_9]: D. Baecker, Why Systems? Theory, Culture & Society, 18(1), 59-74,
-    2001, https://doi.org/10.1177/026327601018001005 p66, accessed 12
-    March 2025.
+[^08_Treske_Ch5_9]: D. Baecker, Why Systems? Theory, Culture & Society, 18(1), 59-74, 2001, https://doi.org/10.1177/026327601018001005 p66, accessed 12 March 2025.
 
-[^08_Treske_Ch5_10]: David Goldberg, EnterFrame: Cage, Deleuze and Macromedia
-    Director, Afterimage, vol. 30, no. 1, 2002, pp. 8-9, ProQuest,
-    https://www.proquest.com/scholarly-journals/enterframe-cage-deleuze-macromedia-director/docview/212114507/se-2,
-    accessed 12 March 2025
+[^08_Treske_Ch5_10]: David Goldberg, EnterFrame: Cage, Deleuze and Macromedia Director, Afterimage, vol. 30, no. 1, 2002, pp. 8-9, ProQuest, https://www.proquest.com/scholarly-journals/enterframe-cage-deleuze-macromedia-director/docview/212114507/se-2, accessed 12 March 2025
 
-[^08_Treske_Ch5_11]: Peter Greenaway, Toward a re-invention of cinema. Variety Cinema
-    Militans lecture at the Dutch Film Festival on Sept. 27, 2003.
-    https://variety.com/2003/voices/columns/toward-a-re-invention-of-cinema-1117893306/,
-    accessed 12 March 2025.
+[^08_Treske_Ch5_11]: Peter Greenaway, Toward a re-invention of cinema. Variety Cinema Militans lecture at the Dutch Film Festival on Sept. 27, 2003. https://variety.com/2003/voices/columns/toward-a-re-invention-of-cinema-1117893306/, accessed 12 March 2025.
 
-[^08_Treske_Ch5_12]: Paul Virilio, The Futurism of the Instant: Stop-Eject, Polity
-    2010.
+[^08_Treske_Ch5_12]: Paul Virilio, The Futurism of the Instant: Stop-Eject, Polity, 2010.
 
-[^08_Treske_Ch5_13]: Orit Gat, History Class: Paul Ryan Interviews for Grey Room,
-    https://rhizome.org/editorial/2011/sep/28/recent-history-class-paul-ryan-interviews-grey-roo/,
-    accessed 11 March 2025.
+[^08_Treske_Ch5_13]: Orit Gat, History Class: Paul Ryan Interviews for Grey Room, https://rhizome.org/editorial/2011/sep/28/recent-history-class-paul-ryan-interviews-grey-roo/, accessed 11 March 2025.
 
-[^08_Treske_Ch5_14]: Paul Ryan, Video Mind, Earth Mind: Art, Communications, and
-    Ecology, a collection of essays from 1968 through 1991, 1993: 31.
+[^08_Treske_Ch5_14]: Paul Ryan, Video Mind, Earth Mind: Art, Communications, and Ecology, a collection of essays from 1968 through 1991, 1993: 31.
 
-[^08_Treske_Ch5_15]: Christopher J. Keller and Christian R. Weisser, eds., The
-    Locations of Composition, Albany: SUNY Press, 2007, Place-Blogging,
-    Geoannotation, and other examples of Environmental Knowing via
-    Locative Media (198/199 Chapter: From Site to Screen, From Screen to
-    Site).
+[^08_Treske_Ch5_15]: Christopher J. Keller and Christian R. Weisser, eds., The Locations of Composition, Albany: SUNY Press, 2007, Place-Blogging, Geoannotation, and other examples of Environmental Knowing via Locative Media (198/199 Chapter: From Site to Screen, From Screen to Site).
 
-[^08_Treske_Ch5_16]: Elizabeth Swanstrom, Animal, Vegetable, Digital: Experiments in
-    New Media Aesthetics and Environmental Poetics, The University of
-    Alabama Press, 2016: 106/107.
+[^08_Treske_Ch5_16]: Elizabeth Swanstrom, Animal, Vegetable, Digital: Experiments in New Media Aesthetics and Environmental Poetics, The University of Alabama Press, 2016: 106/107.
 
 [^08_Treske_Ch5_17]: The Network Encyclopedia,
     http://www.thenetworkencyclopedia.com/entry/bnc-connector/.

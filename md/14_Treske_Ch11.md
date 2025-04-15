@@ -197,29 +197,20 @@ in future episodes, fan productions are used to fill them in the meantime. The h
 choose to explore the world themselves. While a show’s hyperdiegesis needs to remain consistent to maintain the trust of its audience, Hill believes that producers must ‘play with their own established rules and
 norms… in order to preserve audience interest’.[^14_Treske_Ch11_9]
 
-[^14_Treske_Ch11_1]: James Bridle, New Dark Age: Technology and the End of the Future,
-    Verso 2018.
+[^14_Treske_Ch11_1]: James Bridle, New Dark Age: Technology and the End of the Future, Verso 2018.
 
-[^14_Treske_Ch11_2]: M. GANOFSKY, Libertine Clairs-Obscurs: The Enticement of the
-    Shadows, J 18th Cent Stud, 37: 499-515 2014.
-    https://doi.org/10.1111/1754-0208.12203.
+[^14_Treske_Ch11_2]: M. GANOFSKY, Libertine Clairs-Obscurs: The Enticement of the Shadows, J 18th Cent Stud, 37: 499-515 2014. https://doi.org/10.1111/1754-0208.12203.
 
-[^14_Treske_Ch11_3]: Ann Friedberg, The Virtual Window. From Alberti to Microsoft, The
-    MIT Press 2009.
+[^14_Treske_Ch11_3]: Ann Friedberg, The Virtual Window. From Alberti to Microsoft, The MIT Press 2009.
 
 [^14_Treske_Ch11_4]: Friedberg 2009: 27.
 
 [^14_Treske_Ch11_5]: Friedberg 2009: 51.
 
-[^14_Treske_Ch11_6]: Alasdair King, The Financial Image. Finance, Philosophy and
-    Contemporary Film, Springer 2024
+[^14_Treske_Ch11_6]: Alasdair King, The Financial Image. Finance, Philosophy and Contemporary Film, Springer 2024
 
-[^14_Treske_Ch11_7]: Morgan M. Adamson, The Closure of the ‘Gold Window’: From
-    ‘Camera-Eye’ to ‘Brain-Screen’, Film-Philosophy 17.1 (2013)
-    https://www.euppublishing.com/doi/pdf/10.3366/film.2013.0014
+[^14_Treske_Ch11_7]: Morgan M. Adamson, The Closure of the ‘Gold Window’: From ‘Camera-Eye’ to ‘Brain-Screen’, Film-Philosophy 17.1 (2013), https://www.euppublishing.com/doi/pdf/10.3366/film.2013.0014
 
-[^14_Treske_Ch11_8]: Aaron Smith, Transmedia Storytelling in Television 2.0, Thesis,
-    2009, https://sites.middlebury.edu/mediacp/about/, accessed 12 March
-    2025.
+[^14_Treske_Ch11_8]: Aaron Smith, Transmedia Storytelling in Television 2.0, Thesis, 2009, https://sites.middlebury.edu/mediacp/about/, accessed 12 March 2025.
 
 [^14_Treske_Ch11_9]: Matt Hills, Fan Cultures, London: Routledge, 2002.

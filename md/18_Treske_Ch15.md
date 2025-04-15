@@ -33,7 +33,7 @@ YouTube dominates watch time across platforms. YouTube is one of the
 biggest platforms in music. YouTube is rapidly eating podcasting, and is
 now a major cable competitor, and much more. *'If YouTube can make the
 big screen and the small screen feel like the same screen, it’ll become
-even more unstoppable.*[^18_Treske_Ch15_2]
+even more unstoppable.'*[^18_Treske_Ch15_2]
 
 A year-end update reveals that more people than ever are watching the
 video sharing platform on television—an inevitable switch in consumption
@@ -253,43 +253,23 @@ illusion of the new.
 ![](imgs/Treske_Image14.png)
 Fig. 14. UNKNOWN
 
-[^18_Treske_Ch15_1]: John Fiske and John Hartley, Reading Television, Routledge, London
-    and New York 1988: 21.
+[^18_Treske_Ch15_1]: John Fiske and John Hartley, Reading Television, Routledge, London and New York 1988: 21.
 
-[^18_Treske_Ch15_2]: David Pierce. YouTube is a hit on TVs — and is starting to act
-    like it. The Verge.
-    https://www.theverge.com/2024/12/11/24318434/youtube-living-room-tv-growth-2024
-    20 December 2024
+[^18_Treske_Ch15_2]: David Pierce. YouTube is a hit on TVs — and is starting to act like it. The Verge, https://www.theverge.com/2024/12/11/24318434/youtube-living-room-tv-growth-2024, 20 December 2024
 
-[^18_Treske_Ch15_3]: Chris Stokel-Walker. YouTube is taking over TV.
-    https://www.fastcompany.com/91246335/youtube-is-taking-over-tv 20
-    December 2024
+[^18_Treske_Ch15_3]: Chris Stokel-Walker. YouTube is taking over TV, https://www.fastcompany.com/91246335/youtube-is-taking-over-tv, 20 December 2024
 
-[^18_Treske_Ch15_4]: Redefining Televisuality: Programmes, Practices, Methods.
-    International conference. ECREA Television Section Conference 2023.
-    Filmuniversität Babelsberg Konrad Wolf, Potsdam, 25-27 October 2023.
-    https://www.consultacinema.org/2023/02/27/redefining-televisuality-programmes-practices-methods/
+[^18_Treske_Ch15_4]: Redefining Televisuality: Programmes, Practices, Methods. International conference. ECREA Television Section Conference 2023. Filmuniversität Babelsberg Konrad Wolf, Potsdam, 25-27 October 2023, https://www.consultacinema.org/2023/02/27/redefining-televisuality-programmes-practices-methods/
 
-[^18_Treske_Ch15_5]: Aras Özgün and Andreas Tresk3, On Streaming-Media Platforms, Their
-    Audiences, and Public Life. Rethinking Marxism, 33(2), 2021:
-    304–323. https://doi.org/10.1080/08935696.2021.1893090 and Aras
-    Özgün ve Andreas Treske. “Süreğen Medya Platformları: İzleyici
-    Etkinliğinin Dönüşümü Ve Toplumsal Etkileri”. Ankara Üniversitesi
-    İlef Dergisi, c. 8, sy. 1, 2021, ss. 109-32,
-    doi:10.24955/ilef.933277.
+[^18_Treske_Ch15_5]: Aras Özgün and Andreas Treske, On Streaming-Media Platforms, Their Audiences, and Public Life. Rethinking Marxism, 33(2), 2021: 304–323. https://doi.org/10.1080/08935696.2021.1893090 and Aras Özgün ve Andreas Treske. “Süreğen Medya Platformları: İzleyici Etkinliğinin Dönüşümü Ve Toplumsal Etkileri”. Ankara Üniversitesi İlef Dergisi, c. 8, sy. 1, 2021, ss. 109-32, doi:10.24955/ilef.933277.
 
 [^18_Treske_Ch15_6]: Paolo Carpignano, Televisuality, 31 July 1997. Via Wayback Machine, https://web.archive.org/web/19970731123140/http://www.newschool.edu/mediastudies/tv/televisuality.html
 
-[^18_Treske_Ch15_7]: Aras Ozgun and I worked for some time on streaming media and their
-    audiences, which resulted in several published articles. When
-    writing, I thought it was needed to ask him to connect these notes
-    to our discussion.
+[^18_Treske_Ch15_7]: Aras Ozgun and I worked for some time on streaming media and their audiences, which resulted in several published articles. When writing, I thought it was needed to ask him to connect these notes
+to our discussion.
 
-[^18_Treske_Ch15_8]: J. Baudrillard, *Simulacra and Simulation* (S. Glaser, Trans.).
-    University of Michigan Press 1994.
+[^18_Treske_Ch15_8]: J. Baudrillard, *Simulacra and Simulation* (S. Glaser, Trans.), University of Michigan Press 1994.
 
 [^18_Treske_Ch15_9]: Nikhilesh Dholakia, Aras Ozgun & Deniz Atik (2023): The miasma of misinformation: a social analysis of media, markets, and manipulation, Consumption Markets & Culture, DOI: 10.1080/10253866.2022.2149508
 
-[^18_Treske_Ch15_10]: Gregory Bateson, Steps to an Ecology of Mind; Collected Essays in
-    Anthropology, Psychiatry, Evolution, and Epistemology, San
-    Francisco, CA: Chandler 1972.
+[^18_Treske_Ch15_10]: Gregory Bateson, Steps to an Ecology of Mind; Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology, San Francisco, CA: Chandler 1972.

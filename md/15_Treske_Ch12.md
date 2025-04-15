@@ -473,10 +473,10 @@ invention just a couple of months later: the daguerreotype.
 
 ## The Glass House
 
-‘To live in a glass house is a revolutionary virtue par excellence. It
+>To live in a glass house is a revolutionary virtue par excellence. It
 is also an intoxication, a moral exhibitionism, that we badly need.
 Discretion concerning one's own existence, once an aristocratic virtue,
-has become more and more an affair of petit-bourgeois parvenus.’[^15_Treske_Ch12_20]
+has become more and more an affair of petit-bourgeois parvenus.[^15_Treske_Ch12_20]
 
 *A lens in the landscape* is how the photographer Welling described
 Philip Johnson’s glass house.[^15_Treske_Ch12_21] Philip Johnson, following the
@@ -621,58 +621,40 @@ Fig. 12. YOU
 
 > *Now objects perceive me*, the painter Paul Klee wrote in his Notebooks. This rather startling assertion has recently become objective fact, the truth. After all, aren't they talking about producing a *vision machine* in the near future, a machine that would
 > be capable not only of recognising the contours of shapes, but also of completely interpreting the visual field, of staging a complex environment close-up or at a distance? Aren't they also talking about the new technology of *visionics*: the possibility of achieving sightless vision whereby the video camera would be controlled by a computer? The computer would be responsible for the machine's - rather than the televiewer's - capacity to analyse the ambient environment and automatically interpret the meaning of events. Such technology would be used in industrial production and stock control; in military robotics, too, perhaps.[^15_Treske_Ch12_29]
-- Paul Virilio
+—Paul Virilio
 
-[^15_Treske_Ch12_1]: Travis Sharrow, Unveiling the Brilliance: The Truth Behind Why
-    Smartphones are Encased in Glass, Softandtech March 25, 2024.
+[^15_Treske_Ch12_1]: Travis Sharrow, Unveiling the Brilliance: The Truth Behind Why Smartphones are Encased in Glass, Softandtech March 25, 2024.
     https://softhandtech.com/why-do-smartphones-have-glass/
 
-[^15_Treske_Ch12_2]: Italo Calvino, Crystals. In: Calvino, Italo. t zero (Translated
-    from Italian by William Weaver), New York: Harcourt, Brace & World,
-    1969.
+[^15_Treske_Ch12_2]: Italo Calvino, Crystals. In: Calvino, Italo. t zero (Translated from Italian by William Weaver), New York: Harcourt, Brace & World, 1969.
 
 [^15_Treske_Ch12_3]: Barbara Linz, Glass = Glas = Verre. H.f. ullmann, 2009.
 
-[^15_Treske_Ch12_4]: ZEISS at CES 2024. Multifunctional Smart Glass for a wide range of
-    application Press Release 14 December 2023. -
-    https://www.zeiss.com/corporate/en/about-zeiss/present/newsroom/press-releases/2023/microoptics-ces.html
+[^15_Treske_Ch12_4]: ZEISS at CES 2024. Multifunctional Smart Glass for a wide range of application Press Release 14 December 2023. - https://www.zeiss.com/corporate/en/about-zeiss/present/newsroom/press-releases/2023/microoptics-ces.html
 
-[^15_Treske_Ch12_5]: Annette Fierro, The Glass State: The Technology of the Spectacle,
-    Paris, 1981 - 1988, The MIT Press 2006: 99 - 100.
+[^15_Treske_Ch12_5]: Annette Fierro, The Glass State: The Technology of the Spectacle, Paris, 1981 - 1988, The MIT Press 2006: 99 - 100.
 
-[^15_Treske_Ch12_6]: Colin Rowe and Robert Slutzky, Transparency: Literal and
-    Phenomenal, Perspecta, vol. 8, 1963: 45–54, JSTOR,
-    https://doi.org/10.2307/1566901. Accessed 9 January 2025: 161.
+[^15_Treske_Ch12_6]: Colin Rowe and Robert Slutzky, Transparency: Literal and Phenomenal, Perspecta, vol. 8, 1963: 45–54, JSTOR, https://doi.org/10.2307/1566901. Accessed 9 January 2025: 161.
 
-[^15_Treske_Ch12_7]: Adrian Forty, Words and Buildings: A Vocabulary of Modern
-    Architecture, Thames & Hudson 2004: 288.
+[^15_Treske_Ch12_7]: Adrian Forty, Words and Buildings: A Vocabulary of Modern Architecture, Thames & Hudson 2004: 288.
 
-[^15_Treske_Ch12_8]: Rosemarie Haag Bletter, The Interpretation of the
-    Dream-Expressionist and the History of the Crystal Metaphor, The
-    Journal of the Society of Architectural Historians‘, Vol. 40, No. 1,
-    23 March 1981.
+[^15_Treske_Ch12_8]: Rosemarie Haag Bletter, The Interpretation of the Dream-Expressionist and the History of the Crystal Metaphor, The Journal of the Society of Architectural Historians‘, Vol. 40, No. 1, 23 March 1981.
 
 [^15_Treske_Ch12_9]: Leandro Ehrlich: Swimming Pool. 19 October 2008–12 April 2009.
     https://www.moma.org/calendar/exhibitions/4922.
 
-[^15_Treske_Ch12_10]: Glass! Love!! Perpetual Motion!!! A Paul Scheerbart Reader.
-    Edited by Josiah McElheny and Christine Burgin. University of
-    Chicago 2014.
+[^15_Treske_Ch12_10]: Glass! Love!! Perpetual Motion!!! A Paul Scheerbart Reader. Edited by Josiah McElheny and Christine Burgin. University of Chicago 2014.
 
-[^15_Treske_Ch12_11]: Video Vortex XI Kochi 2017 Conference Report. 23 – 26 February
-    2017, Kochi, India.
+[^15_Treske_Ch12_11]: Video Vortex XI Kochi 2017 Conference Report. 23 – 26 February 2017, Kochi, India.
     https://networkcultures.org/blog/publication/video-vortex-xi-kochi-2017-conference-report/
 
-[^15_Treske_Ch12_12]: Byung-Chul Han, The Transparency Society, Stanford University
-    Press 2015.
+[^15_Treske_Ch12_12]: Byung-Chul Han, The Transparency Society, Stanford University Press 2015.
 
 [^15_Treske_Ch12_13]: Han 2015.
 
-[^15_Treske_Ch12_14]: Byung-Chul Han, Digitale Rationalisten und das Ende des
-    kommunikativen Handelns, 2013 page 28
+[^15_Treske_Ch12_14]: Byung-Chul Han, Digitale Rationalisten und das Ende des kommunikativen Handelns, 2013 page 28
 
-[^15_Treske_Ch12_15]: Walter Benjamin, The Arcades Project, tr. H. Eiland and K.
-    McLaughlin, Cambridge, MA: Belknap Press, 1999: 158.
+[^15_Treske_Ch12_15]: Walter Benjamin, The Arcades Project, tr. H. Eiland and K. McLaughlin, Cambridge, MA: Belknap Press, 1999: 158.
 
 [^15_Treske_Ch12_16]: Hiroki Azuma, Philosophy of the Tourist, Urbanomic 2022.
 
@@ -682,36 +664,22 @@ Fig. 12. YOU
 
 [^15_Treske_Ch12_19]: Benjamin 1999: 4.
 
-[^15_Treske_Ch12_20]: Walter Benjamin, Surrealism, in Reflections: Essays, Aphorisms,
-    Autobiographical Writings, Peter Demetz ed., transl. Edmund Jepcott
-    (New York: Harcourt Brace Jovanovich, 1978), p. 180. Cited after
-    Maison de Verre pg 4 …
+[^15_Treske_Ch12_20]: Walter Benjamin, Surrealism, in Reflections: Essays, Aphorisms, Autobiographical Writings, Peter Demetz ed., transl. Edmund Jepcott (New York: Harcourt Brace Jovanovich, 1978), p. 180. Cited after Maison de Verre pg 4 …
 
-[^15_Treske_Ch12_21]: Noam M. Elcott, Reflections on Glass Houses. 2011.
-    https://www.columbia.edu/cu/arthistory/faculty/Elcott/Elcott-2011-Reflections-on-Glass-Houses.pdf,
-    9 January 2025.
+[^15_Treske_Ch12_21]: Noam M. Elcott, Reflections on Glass Houses. 2011. https://www.columbia.edu/cu/arthistory/faculty/Elcott/Elcott-2011-Reflections-on-Glass-Houses.pdf, 9 January 2025.
 
-[^15_Treske_Ch12_22]: Philip Johnson, House at New Canaan, Connecticut (1950).
-    Reprinted in David Whitney and Jeffrey Kipnis, Philip Johnson: The
-    Glass House. New York: Pantheon Books, 1993: 13.
+[^15_Treske_Ch12_22]: Philip Johnson, House at New Canaan, Connecticut (1950). Reprinted in David Whitney and Jeffrey Kipnis, Philip Johnson: The Glass House. New York: Pantheon Books, 1993: 13.
 
-[^15_Treske_Ch12_23]: Philip Johnson, Foreword to Hitchcock, Henry-Russell and Johnson,
-    Philip. The International Style. New York: W. W. Norton, 1995: 16.
+[^15_Treske_Ch12_23]: Philip Johnson, Foreword to Hitchcock, Henry-Russell and Johnson, Philip. The International Style. New York: W. W. Norton, 1995: 16.
 
-[^15_Treske_Ch12_24]: Filippo Tommaso Marinetti, The Founding and Manifesto of Futurism
-    1909, Futurist Manifestos, ed. Umbro Apollonio, Boston: MFA
-    Publications, 2001: 23.
+[^15_Treske_Ch12_24]: Filippo Tommaso Marinetti, The Founding and Manifesto of Futurism 1909, Futurist Manifestos, ed. Umbro Apollonio, Boston: MFA Publications, 2001: 23.
 
 [^15_Treske_Ch12_25]: Elcott 2011.
 
-[^15_Treske_Ch12_26]: Robert Hughes, The Duke of Xanadu at Home, 1970. Reprinted in
-    Whitney and Kipnis, Philip Johnson: The Glass House: 56.
+[^15_Treske_Ch12_26]: Robert Hughes, The Duke of Xanadu at Home, 1970. Reprinted in Whitney and Kipnis, Philip Johnson: The Glass House: 56.
 
 [^15_Treske_Ch12_27]: Elcott 2011.
 
-[^15_Treske_Ch12_28]: Umberto Eco, titled Towards a Semiological Guerrilla Warfare and
-    published as part of his essay collection Travels in Hyperreality, where he refutes what
-    Marshall McLuhan said about light as a medium
-    http://tesugen.com/archives/03/10/eco-on-media.
+[^15_Treske_Ch12_28]: Umberto Eco, titled Towards a Semiological Guerrilla Warfare and published as part of his essay collection Travels in Hyperreality, where he refutes what Marshall McLuhan said about light as a medium, http://tesugen.com/archives/03/10/eco-on-media.
 
 [^15_Treske_Ch12_29]: Paul Virilio, Vision Machine. 1994: 59.

@@ -168,7 +168,4 @@ Fig. 10. ALL THINGS MOVE
 
 [^13_Treske_Ch10_1]: Edward De Bono, Water Logic, London: Penguin 1993.
 
-[^13_Treske_Ch10_2]: Daniel Irizarry’s three C’s in: *Mantı ve Çay. A documentary by
-    Boran Aksoy, Melih Aydinat, Daniel Irizzary and Andreas Treske.*
-    Bilkent University, Ankara 2019. https://vimeo.com/346824086, 9
-    January 2025.
+[^13_Treske_Ch10_2]: Daniel Irizarry’s three C’s in: *Mantı ve Çay. A documentary by Boran Aksoy, Melih Aydinat, Daniel Irizzary and Andreas Treske.* Bilkent University, Ankara 2019. https://vimeo.com/346824086, 9 January 2025.

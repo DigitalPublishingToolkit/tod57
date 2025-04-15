@@ -339,19 +339,15 @@ by our feelings.
 ![](imgs/Treske_Image15.png)
 Fig. 15. UNKNOWN CLOSER
 
-[^19_Treske_Ch16_1]: Ludwig Wittgenstein, Remarks on the Philosophy of Psychology.
-    Oxford, 1980, vol. i, Remark 257.
+[^19_Treske_Ch16_1]: Ludwig Wittgenstein, Remarks on the Philosophy of Psychology, Oxford, 1980, vol. i, Remark 257.
 
 [^19_Treske_Ch16_2]: Daniel Irizarry, Mouthgasm, Angora Rabbit. Bilkent 2016
 
 [^19_Treske_Ch16_3]: Note copied from Facebook by the author in September 2015.
 
-[^19_Treske_Ch16_4]: Google Translate: *We say that every brave man has his own way of
-    eating yoghurt, but we do not say that every yoghurt has a different
-    way of being eaten by a brave man… ;-)*
+[^19_Treske_Ch16_4]: Google Translate: *We say that every brave man has his own way of eating yoghurt, but we do not say that every yoghurt has a different way of being eaten by a brave man… ;-)*
 
-[^19_Treske_Ch16_5]: Baker on video. Original Turkish. körotonomedya. Without year.
-    https://www.korotonomedya.net/kor/index.php﹖id=21,147,0,0,1,0.html.
+[^19_Treske_Ch16_5]: Baker on video. Original Turkish. körotonomedya. Without year, https://www.korotonomedya.net/kor/index.php﹖id=21,147,0,0,1,0.html.
 
 [^19_Treske_Ch16_6]: Spinoza. Ethics, Book III, Proposition 57
 

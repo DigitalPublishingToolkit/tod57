@@ -410,7 +410,7 @@ spherically, all towards the pleasure of Video.
 
 Fig. 1. ARTEFACT
 
-Obviously an artifact, i.e., man-made and not a geological relic,
+>Obviously an artifact, i.e., man-made and not a geological relic,
 round-shaped tubular, composite object (made of different components
 (?)); apparent use of various metals or metal alloys (mainly
 grayish-white, i.e., a possible high-tin copper alloy, lead or even
@@ -422,7 +422,7 @@ inner part of the flange (?), visible corrosion residues (?).
 Mechanically regularly applied, revolving lamellar pattern; whether
 parts of it are movable cannot be verified on the basis of the image.
 
-Dr. Thomas Zimmermann
+> —Dr. Thomas Zimmermann
 
 [^04_Treske_Ch1_1]: Rafa Sales Ross. Radu Jude Discusses How Andy Warhol Film Began as
     a ‘Joke,’ Says Filmmakers Need to Be ‘Serious About TikTok’. 16

@@ -590,46 +590,28 @@ favor of endless*
 
 *curiosity about all manner of specific beings.*[^11_Treske_Ch8_13]
 
-[^11_Treske_Ch8_1]: Jill Walker Rettberg, Now objects perceive me: Art that
-    interrogates machine vision, University of Bergen 2016.
+[^11_Treske_Ch8_1]: Jill Walker Rettberg, Now objects perceive me: Art that interrogates machine vision, University of Bergen 2016.
 
-[^11_Treske_Ch8_2]: Paul Virilio, The Vision Machine. Bloomington: Indiana University
-    Press, 1994: 59.
+[^11_Treske_Ch8_2]: Paul Virilio, The Vision Machine. Bloomington: Indiana University Press, 1994: 59.
 
-[^11_Treske_Ch8_3]: On Malick, On visual web, a photo is worth more than a 1000 words,
-    December 2014, http://om.co/2014/12/10/weaving-a-very-visual-web/,
-    accessed 12 March 2025.
+[^11_Treske_Ch8_3]: On Malick, On visual web, a photo is worth more than a 1000 words, December 2014, http://om.co/2014/12/10/weaving-a-very-visual-web/, accessed 12 March 2025.
 
-[^11_Treske_Ch8_4]: Volker Pantenburg, Cinematographic Objects: Things and Operations
-
-    Berlin: August Verlag 2015
+[^11_Treske_Ch8_4]: Volker Pantenburg, Cinematographic Objects: Things and Operations, Berlin: August Verlag 2015
 
 [^11_Treske_Ch8_5]: Pantenburg 2015.
 
-[^11_Treske_Ch8_6]: Fritz Heider. Ding und Medium, herausgegeben und mit einem Vorwort
-    versehen von Dirk Bäcker Copyright © 2005 by Kulturverlag Kadmos
-    Berlin.
+[^11_Treske_Ch8_6]: Fritz Heider. Ding und Medium, herausgegeben und mit einem Vorwort versehen von Dirk Bäcker Copyright © 2005 by Kulturverlag Kadmos Berlin.
 
 [^11_Treske_Ch8_7]: Heider 2005.
 
-[^11_Treske_Ch8_8]: Rezensionsnotiz zu Neue Zürcher Zeitung, 28 June 2005.
-    https://www.perlentaucher.de/buch/fritz-heider/ding-und-medium.html,
-    accessed 12 March 2025.
+[^11_Treske_Ch8_8]: Rezensionsnotiz zu Neue Zürcher Zeitung, 28 June 2005. https://www.perlentaucher.de/buch/fritz-heider/ding-und-medium.html, accessed 12 March 2025.
 
-[^11_Treske_Ch8_9]: Stephan Günzel, About false units. Fritz Heider's essay "Thing and
-    Medium" from 1926 in a new edition.
-    https://literaturkritik.de/id/8265.
+[^11_Treske_Ch8_9]: Stephan Günzel, About false units. Fritz Heider's essay "Thing and Medium" from 1926 in a new edition. https://literaturkritik.de/id/8265.
 
-[^11_Treske_Ch8_10]: C. Morgner, The Medium in the Sociology of Niklas Luhmann: From
-    Children to Human Beings. Educ Theory, 73: 890-916. 2023.
-    https://doi.org/10.1111/edth.12609.
+[^11_Treske_Ch8_10]: C. Morgner, The Medium in the Sociology of Niklas Luhmann: From Children to Human Beings. Educ Theory, 73: 890-916. 2023. https://doi.org/10.1111/edth.12609.
 
-[^11_Treske_Ch8_11]: Yuk Hui, What is a digital object? Metaphilosophy, vol. 43, no.
-    4, 2012, pp. 380–95. JSTOR, http://www.jstor.org/stable/24441843.
-    Accessed 9 January 2025.
+[^11_Treske_Ch8_11]: Yuk Hui, What is a digital object? Metaphilosophy, vol. 43, no. 4, 2012, pp. 380–95. JSTOR, http://www.jstor.org/stable/24441843. Accessed 9 January 2025.
 
-[^11_Treske_Ch8_12]: Graham Harman, Object-oriented ontology: a new theory of
-    everything, Pelican Books London 2018: 14.
+[^11_Treske_Ch8_12]: Graham Harman, Object-oriented ontology: a new theory of everything, Pelican Books London 2018: 14.
 
-[^11_Treske_Ch8_13]: Graham Harman, The importance of Bruno Latour, Cultural Studies
-    Review. Vol.13 No 1 March 2007.
+[^11_Treske_Ch8_13]: Graham Harman, The importance of Bruno Latour, Cultural Studies Review. Vol.13 No 1 March 2007.

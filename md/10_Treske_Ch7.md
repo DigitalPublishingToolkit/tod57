@@ -277,25 +277,16 @@ This has inevitable implications for experiences and concepts of
 subjectivity, …[^10_Treske_Ch7_7]
 
 [^10_Treske_Ch7_1]: Ansh Jain, The Swipe Culture,
-    https://medium.com/@jainansh01/the-swipe-culture-15156d56e25,
-    accessed 12 March 2025.
+    https://medium.com/@jainansh01/the-swipe-culture-15156d56e25, accessed 12 March 2025.
 
-[^10_Treske_Ch7_2]: Prajit T. Rajendran, et al, Shorts on the Rise: Assessing the
-    Effects of YouTube Shorts on Long-Form Video Content, ArXiv
-    abs/2402.18208 (2024): n. pag., https://arxiv.org/html/2402.18208v1.
+[^10_Treske_Ch7_2]: Prajit T. Rajendran, et al, Shorts on the Rise: Assessing the Effects of YouTube Shorts on Long-Form Video Content, ArXiv abs/2402.18208 (2024): n. pag., https://arxiv.org/html/2402.18208v1.
 
 [^10_Treske_Ch7_3]: Email conversation with Aras Ozgun.
 
-[^10_Treske_Ch7_4]: Günther Anders, Die Antiquiertheit des Menschen, Über die Seele im
-    Zeitalter der zweiten industriellen Revolution, Band I. Verlag C.H. Beck,
-    München 1996.
+[^10_Treske_Ch7_4]: Günther Anders, Die Antiquiertheit des Menschen, Über die Seele im Zeitalter der zweiten industriellen Revolution, Band I. Verlag C.H. Beck, München 1996.
 
-[^10_Treske_Ch7_5]: Vilém Flusser, Gestures. Translated by Nancy Ann Roth,
-    Minneapolis: University of Minnesota Press, 2014.
+[^10_Treske_Ch7_5]: Vilém Flusser, Gestures. Translated by Nancy Ann Roth, Minneapolis: University of Minnesota Press, 2014.
 
-[^10_Treske_Ch7_6]: Martin Heidegger, The Age of the World Picture. Freiburg, 1938.
-    Translated by William Lovitt.
+[^10_Treske_Ch7_6]: Martin Heidegger, The Age of the World Picture. Freiburg, 1938, Translated by William Lovitt.
 
-[^10_Treske_Ch7_7]: Audio Proceedings of Simondon and Digital Culture. 21-22 November,
-    2013, Lüneburg, Germany, http://www.digitalmilieu.net/simondon/,
-    accessed 26 January 2025.
+[^10_Treske_Ch7_7]: Audio Proceedings of Simondon and Digital Culture. 21-22 November, 2013, Lüneburg, Germany, http://www.digitalmilieu.net/simondon/, accessed 26 January 2025.

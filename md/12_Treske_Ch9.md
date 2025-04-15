@@ -502,49 +502,34 @@ Fig. 9. BREATH
 > biblical account of the first breath reproduces the original visit of
 > the spirit to a host medium.[^12_Treske_Ch9_16]
 
-[^12_Treske_Ch9_1]: Manlio Brusatin, Geschichte der Linien. Aus dem Ital. übers. von
-    Sabine Schulz. Berlin: Diaphanes. 2003: 12.
+[^12_Treske_Ch9_1]: Manlio Brusatin, Geschichte der Linien. Aus dem Ital. übers. von Sabine Schulz. Berlin: Diaphanes. 2003: 12.
 
 [^12_Treske_Ch9_2]: Brusatin 2003: 19.
 
 [^12_Treske_Ch9_3]: Brusatin 2003: 38.
 
-[^12_Treske_Ch9_4]: Brusatin 2003: 40. Robert Grosseteste: De lineis. angulis et
-    figuris seu de fractionibus et reflectionibus radiorum, sowie De
-    iride seu de iride et speculo (1230-33) (ital. Übersetzung in:
-    Metafisica della /uce, hrsg. von Pietro Rossi, Mailand 1986; dort S.
-    126 f. zu Linien und S. 140-1 52 zum Regenbogen).
+[^12_Treske_Ch9_4]: Brusatin 2003: 40. Robert Grosseteste: De lineis. angulis et figuris seu de fractionibus et reflectionibus radiorum, sowie De iride seu de iride et speculo (1230-33) (ital. Übersetzung in: Metafisica della /uce, hrsg. von Pietro Rossi, Mailand 1986; dort S. 126 f. zu Linien und S. 140-1 52 zum Regenbogen).
 
 [^12_Treske_Ch9_5]: Brusatin 2003: 46.
 
 [^12_Treske_Ch9_6]: Brusatin 2003: 84/85.
 
-[^12_Treske_Ch9_7]: Paul Klee, Notebooks Vol1. TheThinkingEye. New York, G. Wittenborn
-    1961. https://archive.org/details/paulkleethinking0000klee/,
-    accessed 12 March 2025.
+[^12_Treske_Ch9_7]: Paul Klee, Notebooks Vol1. TheThinkingEye. New York, G. Wittenborn 1961. https://archive.org/details/paulkleethinking0000klee/, accessed 12 March 2025.
 
-[^12_Treske_Ch9_8]: Rebecca Solnit, Wanderlust: A History of Walking, Penguin Books
-    2001. P.72
+[^12_Treske_Ch9_8]: Rebecca Solnit, Wanderlust: A History of Walking, Penguin Books 2001. P.72
 
-[^12_Treske_Ch9_9]: Tim Ingold, Ways of Mind-Walking: Reading, Writing, Painting,
-    Visual Studies 25 (1): 15–23. 2010. doi:10.1080/14725861003606712.
+[^12_Treske_Ch9_9]: Tim Ingold, Ways of Mind-Walking: Reading, Writing, Painting, Visual Studies 25 (1): 15–23. 2010. doi:10.1080/14725861003606712.
 
 [^12_Treske_Ch9_10]: Ingold 2010, 16
 
-[^12_Treske_Ch9_11]: M. Carruthers, The Craft of Thought: Meditation, Rhetoric, and
-    the Making of Images, 400-1200, Cambridge University Press1998:
-    109-110.
+[^12_Treske_Ch9_11]: M. Carruthers, The Craft of Thought: Meditation, Rhetoric, and the Making of Images, 400-1200, Cambridge University Press1998: 109-110.
 
 [^12_Treske_Ch9_12]: Ingold 2010.
 
 [^12_Treske_Ch9_13]: Sirén 2005, 234-5. Ingold 2010.
 
-[^12_Treske_Ch9_14]: Laura U. Marks, Thinking like a carpet: embodied perception and
-    individuation in algorithmic media, In: Brauerhoch, Annette; Eke,
-    Norbert Otto; Wieser, Renate; Zechner, Anke: Entautomatisierung,
-    Paderborn: Fink 2017, S. 39-58. DOI: 10.25969/mediarep/4032.
+[^12_Treske_Ch9_14]: Laura U. Marks, Thinking like a carpet: embodied perception and individuation in algorithmic media, In: Brauerhoch, Annette; Eke, Norbert Otto; Wieser, Renate; Zechner, Anke: Entautomatisierung, Paderborn: Fink 2017, S. 39-58. DOI: 10.25969/mediarep/4032.
 
 [^12_Treske_Ch9_15]: Marks, 2017.
 
-[^12_Treske_Ch9_16]: Peter Sloterdijk, Bubbles: Spheres Volume I: Microspherology,
-    Semiotext(e) 2011: 31.
+[^12_Treske_Ch9_16]: Peter Sloterdijk, Bubbles: Spheres Volume I: Microspherology, Semiotext(e) 2011: 31.

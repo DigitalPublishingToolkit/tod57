@@ -396,11 +396,10 @@ of writing this text. Anything else is things. And the soldier is
 replaced by remote-controlled drones.
 
 Hiroki Azuma, after wondering about the tourist, starts to reflect about
-the concept of family. He writes: ‘The philosophy of the tourist must be
-supplemented by the philosophy of the family. The strategy of the postal
-multitude that travels to and fro between nation state and Empire,
-spreading misdelivery and compassion, must be supported by a new
-familial solidarity.’[^21_Treske_Ch18_12]
+the concept of family. He writes: 
+>The philosophy of the tourist must be
+supplemented by the philosophy of the family. The strategy of the postal multitude that travels to and fro between nation state and Empire, spreading misdelivery and compassion, must be supported by a new
+familial solidarity.[^21_Treske_Ch18_12]
 
 Family resemblance is also a philosophical idea by Ludwig Wittgenstein.
 Categories or concepts might not have one defining feature but a
@@ -410,26 +409,19 @@ single feature defines everyone in the family.
 
 Video is social. The Barbarian is never alone.
 
-[^21_Treske_Ch18_1]: D. N. Rodowick, Elegy for Theory. Cambridge, MA: Harvard
-    University Press, 2014.
+[^21_Treske_Ch18_1]: D. N. Rodowick, Elegy for Theory. Cambridge, MA: Harvard University Press, 2014.
 
 [^21_Treske_Ch18_2]: Harman 2014.
 
-[^21_Treske_Ch18_3]: Sarah Kember and Joanna Zylinska. Life after New Media: Mediation
-    as a Vital Process. The MIT Press 2014.
+[^21_Treske_Ch18_3]: Sarah Kember and Joanna Zylinska. Life after New Media: Mediation as a Vital Process. The MIT Press 2014.
 
-[^21_Treske_Ch18_4]: Ravi Sundaram, In: Signals. How Video Transformed the World. MoMA,
-    New York 2023: 116.
+[^21_Treske_Ch18_4]: Ravi Sundaram, In: Signals. How Video Transformed the World. MoMA, New York 2023: 116.
 
-[^21_Treske_Ch18_5]: Heinrich Heine. Doktrin. Deutschland ein Wintermärchen. Heine, H.,
-    Gedichte. Aus: Zeitgedichte. 1. Doktrin. And:
-    https://www.zgedichte.de/gedichte/heinrich-heine/doktrin.html
+[^21_Treske_Ch18_5]: Heinrich Heine. Doktrin. Deutschland ein Wintermärchen. Heine, H., Gedichte. Aus: Zeitgedichte. 1. Doktrin. And: https://www.zgedichte.de/gedichte/heinrich-heine/doktrin.html
 
-[^21_Treske_Ch18_6]: Italo Calvino, Six memos for the next millennium. New York:
-    Vintage Books, 1993.
+[^21_Treske_Ch18_6]: Italo Calvino, Six memos for the next millennium. New York: Vintage Books, 1993.
 
-[^21_Treske_Ch18_7]: Peter Sloterdijk, You must change your life; on anthropotechnics,
-    Wiley, 2013.
+[^21_Treske_Ch18_7]: Peter Sloterdijk, You must change your life; on anthropotechnics, Wiley, 2013.
 
 [^21_Treske_Ch18_8]: Lazzarato 2019.
 
