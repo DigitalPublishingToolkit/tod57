@@ -1,19 +1,19 @@
 <dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The List Serves</dc:title>
+<dc:title id="epub-title-1">Heaven’s Delight: On The Pleasures of Audiovisual Practices</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <dc:publisher>Institute of Network Cultures</dc:publisher>    
-<dc:date id="epub-date">2017-02</dc:date>
+<dc:date id="epub-date">2025-05</dc:date>
 <dc:language>en-US</dc:language>
-<dc:creator id="epub-creator-0">Kenneth C. Werbin</dc:creator>
+<dc:creator id="epub-creator-0">Andreas Treske</dc:creator>
 <meta refines="#epub-creator-0" property="role" scheme="marc:relators">aut</meta>
-<dc:contributor id="epub-contributor-1">Miriam Rasch</dc:contributor>
+<dc:contributor id="epub-contributor-1">Anielek Niemyjski</dc:contributor>
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
-<dc:contributor id="epub-contributor-5">Leonieke van Dipten</dc:contributor>
-<meta refines="#epub-contributor-5" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>Creative Commons Attribution, NonCommercial, ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</dc:rights>
 <dc:subject>Lists</dc:subject>
-<dc:description>PUBLICATION SYNOPSIS</dc:description>
+<dc:description>A deep dive into the world of video and digital aesthetics recalling and exploring everything from the beauty of instability in video signals (that wonderful chaos when things glitch) to how we experience video in our daily lives (even cats watching TV!).
+
+Andreas Treske's heavens delight is a collection of logs, notes and essays exploring the evolving nature of video and its impact on culture, perception, and technology. In an age of algorithmic automation and technological advancement, video's ability to convey meaning is as captivating as it can be fleeting, rendering video ever vital.</dc:description>
 
 
 
