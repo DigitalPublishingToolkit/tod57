@@ -16,7 +16,16 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+# Colophon
 
-Dem Staub, dem beweglichen, eingezeichnet.
-
-Benjamin & Goethe
+Heaven's Delight: On The Pleasures of Audiovisual Practices    
+Edited by: Will Day
+Author: Andreas Treske
+Cover Design: Katja van Stiphout
+Production: Anielek Niemyjski    
+Published by the Institute of Network Cultures, Amsterdam, 2025 
+ISBN 9789083520933"  
+  
+Contact  Institute of Network Cultures Amsterdam University of Applied Sciences (HvA) Email: [info@networkcultures.org](mailto:info@networkcultures.org) Web: [www.networkcultures.org](http://www.networkcultures.org/)  
+Order a copy or download this publication for free at: [www.networkcultures.org/publications](http://www.networkcultures.org/publications)  
+This publication is licensed under the Creative Commons Attribution NonCommerical ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy of this license, visit [www.creativecommons.org/licences/by-nc-sa/4.0./](http://www.creativecommons.org/licences/by-nc-sa/4.0./)

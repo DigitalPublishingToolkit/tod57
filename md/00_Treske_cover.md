@@ -16,9 +16,8 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
----
-title: heavens delight
----
+
+# Heaven's Delight
 
 
 ## On The Pleasures of Audiovisual Practices
