@@ -10,7 +10,31 @@
 
 # Colophon
 
-you need to copy a colophon from a previous book here
+Heaven's Delight: On The Pleasures of Audiovisual Practices  <br/> 
+Edited by: Will Day <br/>
+Author: Andreas Treske <br/>
+Cover Design: Katja van Stiphout <br/>
+Production: Anielek Niemyjski <br/> Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
+ISBN 9789083520933  
+  
+Contact  Institute of Network Cultures Amsterdam University of Applied Sciences (HvA) <br/> Email: [info@networkcultures.org](mailto:info@networkcultures.org) <br/>
+Web: [www.networkcultures.org](http://www.networkcultures.org/) <br/>
+Order a copy or download this publication for free at: [www.networkcultures.org/publications](http://www.networkcultures.org/publications) <br/>
+This publication is licensed under the Creative Commons Attribution NonCommerical ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). <br/>
+To view a copy of this license, visit [www.creativecommons.org/licences/by-nc-sa/4.0./](http://www.creativecommons.org/licences/by-nc-sa/4.0./)
+
+
+![](imgs/INC-logoCMYK.png)
+
+<br/>
+
+<div style="page-break-after: always;"></div>
+
+Dem Staub, dem beweglichen, eingezeichnet. 
+Benjamin & Goethe
+
+
+
 
 
 # Table of Contents
@@ -2265,31 +2289,15 @@ foreground for us in our inability to keep track of and differentiate
 our self. Isn’t that past always a wish, as with what is now and what
 will come?
 
-![](imgs/Treske_Image3.png)
-Fig. 3. NEILL-CONCELMAN-SALATI
-
-Paul Neill was an American electrical engineer at Bell Labs in the
-1940s. He is credited with helping to invent the BNC, TNC and Type N
-connectors used for microwave and RF communications. He joined Bell in
-1916 after spending 12 years at the Westinghouse Electric Company. He
-retired from Bell on September 30, 1947.
-
-Carl Concelman (December 23, 1912 – August 1975) was an electrical
-engineer who, while working for Amphenol, invented the C connector and
-teamed up with Paul Neill of Bell Labs to invent the BNC connector.
-(Foto: Carl Concelman, 1929)
-
-Octavio M. "Tav" Salati was an American engineer, academic and educator.
-He served as Professor of Electrical Engineering at the University of
-Pennsylvania in the field of Electromagnetic Compatibility.
-
-As the name suggests, the connector was designed collaboratively by Paul
+![Fig. 3. NEILL-CONCELMAN-SALATI 
+Paul Neill was an American electrical engineer at Bell Labs in the 1940s. He is credited with helping to invent the BNC, TNC and Type N connectors used for microwave and RF communications. He joined Bell in 1916 after spending 12 years at the Westinghouse Electric Company. He retired from Bell on September 30, 1947. Carl Concelman (December 23, 1912 – August 1975) was an electrical engineer who, while working for Amphenol, invented the C connector and teamed up with Paul Neill of Bell Labs to invent the BNC connector. (Foto: Carl Concelman, 1929) Octavio M. "Tav" Salati was an American engineer, academic and educator. He served as Professor of Electrical Engineering at the University of Pennsylvania in the field of Electromagnetic Compatibility. As the name suggests, the connector was designed collaboratively by Paul
 Neill from Bell Labs and Carl Concelman from Amphenol. The development,
 however, was based on an earlier design by Octavio M. Salati, who filed
 for a design patent in 1945, with patent \#2,540,012 being granted in
 1951. Accordingly, the BNC connector is considered an iterative
 improvement of Octavio's design, rather than an entirely new
 invention.[^06_Treske_Ch3_30]
+](imgs/Treske_Image3.png)
 
 [^06_Treske_Ch3_1]: How can anyone come up with the idea that people can communicate
     with each other through letters? You can think of someone far away
@@ -8612,39 +8620,4 @@ Youngblood, Gene. Expanded Cinema, 1st ed. New York: Dutton, 1970.
 Zeki, Semir. Inner Vision: An Exploration of Art and the Brain. Oxford, New York: Oxford University Press, 1999.
 
 Zielinski, Siegfried. Deep Time of the Media: Toward an Archaeology of Hearing and Seeing by Technical Means. Cambridge: MIT Press, 2006.
-
-
-
-Kokusuz, dokusuz ve ne vaat ettiği belirsiz küçük kübik yumuşak
-görüntüsü ile Türk lokumu gibi; ağzınıza attığınızda yumuşacık peltemsi
-bir temas, yutarken boğazınızı yakan bir tat ve anında tüm hücrelerinize
-yayılan şeker... Parmaklarınızda kalan hafif beyaz pudra şekeri 
-artıkları… (Like Turkish delight, with its odorless, textureless and
-vaguely promising small cubic soft appearance; a soft, mushy touch when
-you put it in your mouth, a taste that burns your throat when you
-swallow, and sugar that spreads to all your cells instantly … Light
-white powdered sugar residues left on your fingers …)
-
-•
-
-A deep dive into the world of video and digital aesthetics recalling and
-exploring everything from the beauty of instability in video signals
-(that wonderful chaos when things glitch) to how we experience video in
-our daily lives (even cats watching TV!).
-
-Andreas Treske's *heavens delight* is a collection of logs, notes and
-essays exploring the evolving nature of video and its impact on culture,
-perception, and technology. In an age of algorithmic automation and
-technological advancement, video's ability to convey meaning is as
-captivating as it can be fleeting, rendering video ever vital.
-
-•
-
-Andreas Treske is an author, and filmmaker living in Turkey. He
-graduated from the University of Television and Film, Munich, where he
-also taught film and video post-production. He teaches in the Department
-of Communication and Design at Bilkent University, Ankara, Turkey. In
-2015 he published Video Theory. Online Video Aesthetics or the Afterlife
-of Video. with Transcript. In 2017 the book was translated to Russian.
-Since 2008 he has been involved in the Video Vortex network.
 
