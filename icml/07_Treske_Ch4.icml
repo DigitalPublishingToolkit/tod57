@@ -483,9 +483,13 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>C&apos;était un endroit, le cinéma, c&apos;était un territoire.</Content>
 				<Br />
 				<Content>—Jean-Luc Godard</Content>
@@ -1138,9 +1142,6 @@
 				<Content> Based on assumptions from the experimental film environment of the 1960s, Gene Youngblood imagined a cinema machine that aimed at intensifying the level of the cinematographic experience through greater involvement of our senses—more deeply engaging, for example, our vision through ultra-high-definition resolutions, or our hearing through complex sound environments.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Br />
-			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
@@ -1272,8 +1273,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>What if, from its very inception, cinema was—and still is—precisely a way of organizing masses of human beings into processes of imagining, producing, and exchanging stories and images that, at the same time, solicit our sense of futurity while foreclosing our hopes that we might ourselves be agents of that future?</Content>
 				<Br />
-				<Content>Cinema makes us modern, and it does so by announcing to us that the future is already here. Naturally, then, what usually follows this future-that-is-already-here is nothing short of apocalypse—an apocalypse we can only imagine resolving itself in our favor through some heroic return to </Content>
-				<Content>a recognizable, if reconfigured, </Content>
+				<Content>Cinema makes us modern, and it does so by announcing to us that the future is already here. Naturally, then, what usually follows this future-that-is-already-here is nothing short of apocalypse—an apocalypse we can only imagine resolving itself in our favor through some heroic return to a</Content>
+				<Content> recognizable, if reconfigured, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Edenic, Shangri-la, Heaven-on-Earth</Content>
@@ -1480,8 +1481,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Despite having different goals, cinema and television developed in tandem. Television&apos;s roots go back to the silent film era, or deeper in time, with advancements then happening in the US, England, and Germany. While sound film initially overshadowed television&apos;s potential, both technologies continued to evolve. Unchallenged, cinema would reign supreme. </Content>
 				<Br />
-				<Content>The fusion of image and s</Content>
-				<Content>ound, encompassing dialogue, effects, and music, birthed a revolutionary </Content>
+				<Content>The fusion of image and so</Content>
+				<Content>und, encompassing dialogue, effects, and music, birthed a revolutionary </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>realism</Content>
@@ -1747,7 +1748,7 @@
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0.24918853491089976" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0.048045811030533514" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />

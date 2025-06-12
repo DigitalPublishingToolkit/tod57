@@ -483,6 +483,11 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Sometimes, one gesture comprises an entire drama, the accent of one word ruins an entire existence, and the indifference of one glance kills the happiest passion.</Content>
@@ -588,9 +593,18 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Essentially we are experiencing video today in more or less three different ways, each with its own personality and rhythm. First, there&apos;s the addictive world of TikTok and Instagram Reels; it’s like flipping through a magical deck of cards on your phone, each one packed with music, filters, and quick cuts. Videos are bite-sized snacks, gone in seconds, but somehow you keep finding more and more. It&apos;s a world where anyone can remix anything, and new trends spread like wildfire.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">6.5</Leading>
+				</Properties>
 				<Content>Then there’s the cozy campfire of live streaming, where you can settle in for the long haul. Creators and viewers share real moments together, complete with technical hiccups and unscripted surprises. It&apos;s less about perfect edits and more about building genuine connections. Live streaming can be thought of as the digital equivalent of hanging out with friends, where inside jokes flourish and communities grow stronger with each stream.</Content>
 				<Br />
-				<Content>And then there is the silent sentinel of surveillance video—the watchful eye that never blinks. Unlike its more social cousins, this form of video isn&apos;t about entertainment or connection. It&apos;s the patient observer, storing endless hours of footage, quietly analyzing patterns and waiting for something noteworthy to happen (as described before).</Content>
+				<Content>And then there is the silent sentinel of surveillance video—the watchful eye that never blinks. Unlike its more social cousins, this form of video isn&apos;t about entertainment or connection. </Content>
+				<Br />
+				<Content>It&apos;s the patient observer, storing endless hours of footage, quietly analyzing patterns and waiting for something noteworthy to happen (as described before).</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>What is fascinating, somehow, is how each of these video forms has carved out its very own niche. Each is like a different language in the visual world: TikTok speaks in rapid-fire bursts of creativity, live streams flow like long conversations, and surveillance footage whispers in the language of record-keeping. The way we engage with each one is completely different, from the quick dopamine hits of short-form content to the slow burn of a favorite streamer&apos;s broadcast.</Content>
 				<Br />
@@ -653,8 +667,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>We observe that every repeated action we perform sha</Content>
-				<Content>pes who we are and influences our future behavior, from the second time onward. This means there&apos;s no such thing as an insignificant repeated gesture. During the Enlightenment, this understanding of repetition took on new significance: people realized that the world&apos;s continuity depends on these patterns of repetition. This isn&apos;t an argument against unique events, but rather a criticism of how we overly romanticize the concept of uniqueness. Both nature and culture function as systems built on repetition. Even in religious terms, this concept holds true—divine power primarily works through nature&apos;s established patterns, with miracles being rare exceptions. Kierkegaard captured this modern understanding when he proposed that repetition is fundamental to existence itself; without God willing repetition, there would be no world. </Content>
+				<Content>We observe that every repeated action we perform s</Content>
+				<Content>hapes who we are and influences our future behavior, from the second time onward. This means there&apos;s no such thing as an insignificant repeated gesture. During the Enlightenment, this understanding of repetition took on new significance: people realized that the world&apos;s continuity depends on these patterns of repetition. This isn&apos;t an argument against unique events, but rather a criticism of how we overly romanticize the concept of uniqueness. Both nature and culture function as systems built on repetition. Even in religious terms, this concept holds true—divine power primarily works through nature&apos;s established patterns, with miracles being rare exceptions. Kierkegaard captured this modern understanding when he proposed that repetition is fundamental to existence itself; without God willing repetition, there would be no world. </Content>
 				<Br />
 				<Content>The world exists through and consists of these patterns of repetition. Nietzsche extended this thinking through his self-experimentation, suggesting that style, which he saw as the cultural expression of repetition, is the essence of a person. Someone who truly understands style sees happiness not as random occurrences but as a cultivated habit of being happy.</Content>
 				<Br />
@@ -789,7 +803,6 @@
 						<Link Self="u3f2d" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:imgs/Treske_Image7.png" LinkResourceFormat="$ID/" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="true" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkResourceSize="0~0" RenditionData="Actual" />
 					</Image>
 				</Rectangle>
-				<Br />
 				<Br />
 				<Content>Fig. 7. META-SCHAUEN OBSCUR</Content>
 				<Br />

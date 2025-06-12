@@ -135,30 +135,6 @@
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy" PostScriptName="TradeGothicNextLTPro-Hv" Status="Installed" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy" FullNameNative="Trade Gothic Next LT Pro Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy Italic" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy Italic" PostScriptName="TradeGothicNextLTPro-HvIt" Status="Installed" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy Italic" FullNameNative="Trade Gothic Next LT Pro Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di40bb" Name="Trade Gothic Next SR Pro">
-		<Font Self="di40bbFontnTrade Gothic Next SR Pro Bold" FontFamily="Trade Gothic Next SR Pro" Name="Trade Gothic Next SR Pro Bold" PostScriptName="TradeGothicNextSRPro-Bd" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next Soft Rounded Pro Bold" FullNameNative="Trade Gothic Next Soft Rounded Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.00" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di40bc" Name="Trajan Color">
-		<Font Self="di40bcFontnTrajan Color Concept" FontFamily="Trajan Color" Name="Trajan Color Concept" PostScriptName="TrajanColor-Concept" Status="Installed" FontStyleName="Concept" FontType="OpenTypeCFF" WritingScript="0" FullName="Trajan Color" FullNameNative="Trajan Color" FontStyleNameNative="Concept" PlatformName="$ID/" Version="Version 1.003;PS 1.0;hotconv 16.6.51;makeotf.lib2.5.65220" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di40bd" Name="Trebuchet MS">
-		<Font Self="di40bdFontnTrebuchet MS Regular" FontFamily="Trebuchet MS" Name="Trebuchet MS Regular" PostScriptName="TrebuchetMS" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Trebuchet MS" FullNameNative="Trebuchet MS" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.00x" TypekitID="$ID/" />
-		<Font Self="di40bdFontnTrebuchet MS Italic" FontFamily="Trebuchet MS" Name="Trebuchet MS Italic" PostScriptName="TrebuchetMS-Italic" Status="Installed" FontStyleName="Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Trebuchet MS Italic" FullNameNative="Trebuchet MS Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 5.00x" TypekitID="$ID/" />
-		<Font Self="di40bdFontnTrebuchet MS Bold" FontFamily="Trebuchet MS" Name="Trebuchet MS Bold" PostScriptName="TrebuchetMS-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeTT" WritingScript="0" FullName="Trebuchet MS Bold" FullNameNative="Trebuchet MS Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 5.00x" TypekitID="$ID/" />
-		<Font Self="di40bdFontnTrebuchet MS Bold Italic" FontFamily="Trebuchet MS" Name="Trebuchet MS Bold Italic" PostScriptName="Trebuchet-BoldItalic" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeTT" WritingScript="0" FullName="Trebuchet MS Bold Italic" FullNameNative="Trebuchet MS Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 5.00x" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di40be" Name="Webdings">
-		<Font Self="di40beFontnWebdings Regular" FontFamily="Webdings" Name="Webdings Regular" PostScriptName="Webdings" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Webdings" FullNameNative="Webdings" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 5.00x" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di40bf" Name="Wingdings 2">
-		<Font Self="di40bfFontnWingdings 2 Regular" FontFamily="Wingdings 2" Name="Wingdings 2 Regular" PostScriptName="Wingdings2" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Wingdings 2" FullNameNative="Wingdings 2" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.55x" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di40c0" Name="Wingdings 3">
-		<Font Self="di40c0FontnWingdings 3 Regular" FontFamily="Wingdings 3" Name="Wingdings 3 Regular" PostScriptName="Wingdings3" Status="Installed" FontStyleName="Regular" FontType="OpenTypeTT" WritingScript="0" FullName="Wingdings 3" FullNameNative="Wingdings 3" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.55x" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di40c1" Name="Zapf Dingbats">
-		<Font Self="di40c1FontnZapf Dingbats Regular" FontFamily="Zapf Dingbats" Name="Zapf Dingbats Regular" PostScriptName="ZapfDingbatsITC" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Zapf Dingbats" FullNameNative="Zapf Dingbats" FontStyleNameNative="Regular" PlatformName="$ID/" Version="13.0d1e2" TypekitID="$ID/" />
-	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -501,6 +477,11 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Uncle Wendel, Uncle Wendel! Just look at the soap bubbles, the wonderful colours! But where do the colours come from?</Content>
@@ -573,6 +554,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Every animal has an Umwelt, surrounding and enclosing it, much like a soap bubble. Each animal has its own Umwelt, and one soap bubble may enclose many others within it or be enclosed in other, larger bubbles. Unlike Leibniz&apos;s monads, these bubbles have windows, or at least intersect and interact with each other in concrete ways. The Umwelt is not merely given, but rather produced by the animal through the functioning of its body, its sensory and instinctual apparatus, and the objects it encounters.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -871,15 +853,15 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> in Greek. The term was originally used for living things like cells to point to how they constantly replace parts while keeping their overall form. Two Chilean biologists, Maturana and Varela, explained, in 1972, autopoietic systems as self-contained networks. These networks use their elements to rebuild themselves and create the space where those elements exist. In simpler terms, the system makes its own building blocks and uses them to remain itself. This concept can be applied beyond biology. Luhmann argued that societies are also autopoietic. They function by creating their own elements, like temporal communication events, from within their existing structures. These events are fleeting moments, not permanent things, temporal and ephemeral. For a society to keep existing, it needs to constantly generate new elements. These communication events don&apos;t have meaning on their own, but gain significance through their connection to other communication within the system. Think of a conversation: a single word doesn&apos;t make sense by itself, but within a flow of conversation it contributes to the bigger picture.</Content>
 				<Br />
-				<Content>Luhmann argues that social elements, like people and actions, aren&apos;t the building</Content>
-				<Content> blocks of society. Instead, he proposes communication events as the key element. Societies, in essence, are self-sustaining networks of communication.</Content>
+				<Content>Luhmann argues that social elements, like people and actions, aren&apos;t the buildi</Content>
+				<Content>ng blocks of society. Instead, he proposes communication events as the key element. Societies, in essence, are self-sustaining networks of communication.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Ligatures="true" Tracking="0" AppliedLanguage="$ID/English: UK" DiacriticPosition="OpentypePositionFromBaseline">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
-				<Br />
 				<Content>Social systems use communications as their particular mode of autopoietic reproduction. Their elements are communications which are recursively produced and reproduced by a network of communications and which cannot exist outside of such a network.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -940,7 +922,6 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> instantaneously creates a closer connection to real-time events. This immediacy strengthens the inherent link between movement and time within the video itself.</Content>
 				<Br />
-				<Br />
 				<Content>The concept of real-time in video is intertwined with the idea of simultaneity. Filmmakers like Godard, Coppola, and Greenaway explored this notion in their work. In contrast to film as celluloid, video allows further a dissimulation of the beginning and ending of a shot. Thus did video technology, even in its early analog development, dissolve temporal and spatial unity. Video allows one to intrude, to interrupt and reformat, the streaming of flows. It defines a capacity to act on time and in relations between flows, between different rhythms and </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -972,6 +953,15 @@
 				<Content>The still image, the photographic image, the film frame: all are always related to a specific time continuum, and never to the now. Even if the film plays now, what is reproduced is a recorded performance, not a new performance; the object performs the new, which refers to the operation but not to the content, not to what is inside the frame or what is projected. What is projected is a specific registration; it does not develop something new. It is limited, and has borders. It has a defined, fixed body; the photograph is an attempt to resolve a specific condition and keep this condition existing.</Content>
 				<Br />
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The feed or the algorithmic timeline cannot be compared with the filmic or cinematic timeline; it is not object-based and, therefore, lacks borders. The algorithm constantly evaluates, observes, and receives; hence, it is never cinematic. Cinematic is a specific style, a form, a format, or a phrase: narrative and structure. The web, the digital sphere itself, develops non-cinematically.</Content>
 				<Br />
 				<Content>Video is about being present. It emphasizes event character and participation. Cinema includes only indirect participation as an inactive receiver: passivity. Video is a feedback system that suggests input and reverse response. The signal produces a constant now in a defined area of variability; the definition itself is variable.</Content>
@@ -1061,10 +1051,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Discussions of framing, of course, run across the history of audiovisual media technologies. Television imposed its format on films until television itself became, through higher resolutions and LED technology, more horizontal, rendering the absolute and rigid square obsolete. In the struggle for audiences, cinema expanded the frame horizontally, establishing super formats like cinemascope and others. And not so many years ago, flexible, rectangular, hand-sized-build smartphones established vertical rectangular formats for social media practices and stories, a mode of the perceptible that is explicitly about mobile media, while television continues to move towards scale and home cinema likeness. It is a matter of the distribution of audiovisual forms, which becomes less observable if the presenting or the streaming screen format can be automatically detected and if the source allows reformatting. The transmission system automatically adapts the content to the available framing device, which means matching the available surface.</Content>
 				<Br />
+				<Content>In the Cageian context of an environment, as described essentially by Uexküll, the presence and absence of something becomes a particular concern. Presence or absence allows for chance operations in the environment. </Content>
 				<Br />
 				<Br />
-				<Br />
-				<Content>In the Cageian context of an environment, as described essentially by Uexküll, the presence and absence of something becomes a particular concern. Presence or absence allows for chance operations in the environment. The verticality of the frame limits the space to the subject of interest and emphasizes presence inside the frame. Absence is the new norm. Cinema generated the possibility of objectivity, while smart phones produce selfish subjectivity, controlled by design.</Content>
+				<Content>The verticality of the frame limits the space to the subject of interest and emphasizes presence inside the frame. Absence is the new norm. Cinema generated the possibility of objectivity, while smart phones produce selfish subjectivity, controlled by design.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1178,8 +1168,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Though written around 1970 and limited by the technology of the time, Ryan&apos;s vision for video&apos;s potential to democratize information is strikingly relevant today. Widespread access to new technologies could empower people to document and share local cultures, fostering a sense of environmental stewardship. The rise of online platforms and social media usages aligns perfectl</Content>
-				<Content>y in theory with an idea where individuals map, record, analyze, and try to raise awareness about their local environments.</Content>
+				<Content>Though written around 1970 and limited by the technology of the time, Ryan&apos;s vision for video&apos;s potential to democratize information is strikingly relevant today. Widespread access to new technologies could empower people to document and share local cultures, fostering a sense of environmental stewardship. The rise of online platforms and social media usages aligns perfectly</Content>
+				<Content> in theory with an idea where individuals map, record, analyze, and try to raise awareness about their local environments.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>

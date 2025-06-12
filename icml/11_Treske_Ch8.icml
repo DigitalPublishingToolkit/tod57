@@ -593,43 +593,76 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Cinematographic Objects</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>For years, different fields have debated the role of objects. However, film and media studies haven&apos;t fully explored how such work might contribute to understanding agency, both human and non-human. What if we saw cinema not just as a way to show things, but as a machine for learning about them? In this light, what can cinema tell us about objects and their relationship with humans and non-humans?</Content>
 				<Br />
 				<Content>Films are full of objects, on different levels. There are the things we see on screen, the objects the film is about, and even the film itself as an object. Martin Heidegger might call these </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Zeug</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, or useful things.</Content>
 				<Br />
 				<Content>Volker Pantenburg&apos;s book </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Cinematographic Objects</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> delves into how film theory defines and categorizes objects. Different theorists have different ideas. Balazs is drawn to the surface qualities of objects, while Epstein focuses on their active power. Casetti argues that Epstein&apos;s work suggests objects can even </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>act</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> on viewers. Thomas Elsaesser analyzes the specific example of the carousel on screen. He proposes a new way to think about film, moving beyond the idea of the image simply capturing reality. Instead, he suggests </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>energy</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> is a better concept, as it applies to different film technologies and captures the various types of energy involved, from mechanical to digital.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -640,12 +673,21 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Energy today is experienced as distributive, networked, nodal. As such, it is closer to information and code. Energy in cinema is the ability to convert mechanically generated movement into brain perception and body sensation (Deleuze and Kittler). The object carousel as a para-, proto-, and meta-cinematic object par excellence, points, in Elsaesser&apos;s reflection, to an idea of cinema that </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>finally can, and perhaps should, only exist in mind.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -656,15 +698,26 @@
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Of course, this reflection on the cinematographic object is grounded in a form of cinema that is already inadequate, despite directors like Christopher Nolan and Hollywood capital proofs a nostalgia for celluloid. Cinematographic objects, in this form of reflection, or </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Betrachtung</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, as a theoretical approach, don&apos;t offer more to our understanding of what is happening in the further algorithmic automation of culture. </Content>
 				<Br />
 				<Content>Cinema in 2024 is a niche, a system inside a broader cultural system offering a specific form of formalized entertainment, while streaming and platforms dominate the daily.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

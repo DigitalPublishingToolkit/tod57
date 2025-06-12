@@ -135,6 +135,26 @@
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy" PostScriptName="TradeGothicNextLTPro-Hv" Status="Installed" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy" FullNameNative="Trade Gothic Next LT Pro Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy Italic" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy Italic" PostScriptName="TradeGothicNextLTPro-HvIt" Status="Installed" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy Italic" FullNameNative="Trade Gothic Next LT Pro Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 	</FontFamily>
+	<FontFamily Self="di4239" Name="Lato (TT)">
+		<Font Self="di4239FontnLato (TT) Hairline" FontFamily="Lato (TT)" Name="Lato (TT) Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Hairline Italic" FontFamily="Lato (TT)" Name="Lato (TT) Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Light" FontFamily="Lato (TT)" Name="Lato (TT) Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Light Italic" FontFamily="Lato (TT)" Name="Lato (TT) Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Regular" FontFamily="Lato (TT)" Name="Lato (TT) Regular" PostScriptName="Lato-Regular" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Italic" FontFamily="Lato (TT)" Name="Lato (TT) Italic" PostScriptName="Lato-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Bold" FontFamily="Lato (TT)" Name="Lato (TT) Bold" PostScriptName="Lato-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Bold Italic" FontFamily="Lato (TT)" Name="Lato (TT) Bold Italic" PostScriptName="Lato-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Black" FontFamily="Lato (TT)" Name="Lato (TT) Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Black Italic" FontFamily="Lato (TT)" Name="Lato (TT) Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Medium" FontFamily="Lato (TT)" Name="Lato (TT) Medium" PostScriptName="Lato-Medium" Status="NotAvailable" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Thin" FontFamily="Lato (TT)" Name="Lato (TT) Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Semibold" FontFamily="Lato (TT)" Name="Lato (TT) Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Medium Italic" FontFamily="Lato (TT)" Name="Lato (TT) Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Thin Italic" FontFamily="Lato (TT)" Name="Lato (TT) Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Semibold Italic" FontFamily="Lato (TT)" Name="Lato (TT) Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Heavy" FontFamily="Lato (TT)" Name="Lato (TT) Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+		<Font Self="di4239FontnLato (TT) Heavy Italic" FontFamily="Lato (TT)" Name="Lato (TT) Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
+	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
 			<Properties>
@@ -251,18 +271,6 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" Imported="false" NextStyle="ParagraphStyle/Figure" SplitDocument="false" EmitCss="true" StyleUniqueId="8fc7ad72-ca34-445c-957c-a5ff65997845" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" Imported="false" NextStyle="ParagraphStyle/Caption" SplitDocument="false" EmitCss="true" StyleUniqueId="280a3250-20bf-417e-916d-8bced9977fed" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-			</Properties>
-		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" ParagraphBorderTint="-1" ParagraphBorderOverprint="false" ParagraphBorderOn="false" ParagraphBorderGapTint="-1" ParagraphBorderGapOverprint="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" ParagraphBorderLeftOffset="0" ParagraphBorderRightOffset="0" ParagraphBorderTopOffset="0" ParagraphBorderBottomOffset="0" ParagraphBorderStrokeEndJoin="MiterEndJoin" ParagraphBorderTopLeftCornerOption="None" ParagraphBorderTopRightCornerOption="None" ParagraphBorderBottomLeftCornerOption="None" ParagraphBorderBottomRightCornerOption="None" ParagraphBorderTopLeftCornerRadius="1" ParagraphBorderTopRightCornerRadius="1" ParagraphBorderBottomLeftCornerRadius="1" ParagraphBorderBottomRightCornerRadius="1" ParagraphShadingTopLeftCornerOption="None" ParagraphShadingTopRightCornerOption="None" ParagraphShadingBottomLeftCornerOption="None" ParagraphShadingBottomRightCornerOption="None" ParagraphShadingTopLeftCornerRadius="1" ParagraphShadingTopRightCornerRadius="1" ParagraphShadingBottomLeftCornerRadius="1" ParagraphShadingBottomRightCornerRadius="1" ParagraphBorderStrokeEndCap="ButtEndCap" ParagraphBorderWidth="ColumnWidth" ParagraphBorderTopOrigin="AscentTopOrigin" ParagraphBorderBottomOrigin="DescentBottomOrigin" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="1" ParagraphBorderLeftLineWeight="1" ParagraphBorderRightLineWeight="1" ParagraphBorderDisplayIfSplits="false" MergeConsecutiveParaBorders="true" ProviderHyphenationStyle="HyphAll" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
 			<Properties>
 				<Leading type="enumeration">Auto</Leading>
@@ -306,6 +314,18 @@
 				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
 				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
 				<SameParaStyleSpacing type="enumeration">SetIgnore</SameParaStyleSpacing>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Figure" Name="Figure" Imported="false" NextStyle="ParagraphStyle/Figure" SplitDocument="false" EmitCss="true" StyleUniqueId="8fc7ad72-ca34-445c-957c-a5ff65997845" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/Caption" Name="Caption" Imported="false" NextStyle="ParagraphStyle/Caption" SplitDocument="false" EmitCss="true" StyleUniqueId="280a3250-20bf-417e-916d-8bced9977fed" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" ExtendedKeyboardShortcut="0 0 0" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
@@ -501,6 +521,11 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Video is like water, an entirely ethereal form which was locked into the television for 50 years.</Content>
@@ -601,57 +626,96 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Barbenheimer</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>But let’s first consider the general status of the moving image. Two years after the pandemic, in 2023, came the experience of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Barbenheimer (</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>the concurrence of the films </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Oppenheimer</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> and </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Barbie</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>), with cinema once again a worldwide synchronous event.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Oppenheimer</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> and </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Barbie</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, two films released on the same weekend, created a sudden boost for a field marked, once again as often before, by a slow, prolonged death.</Content>
 				<Br />
 				<Content>Today, streamers, streaming media, and mobile platforms dominate the culture of the moving image. They have absorbed moving image culture and aesthetics into their digital environments, and programmed their aesthetics as the dominating form. Cinematic experiences have now moved into private environments, with giant OLEAD flat screens or handheld shiny devices. Ankara, as a city of shopping-mall cinemas, faces the constant closing of older cinemas beyond the malls, while the latter meanwhile reformat their internal spaces.</Content>
 				<Br />
 				<Content>Amazingly, Nuri Bilge Ceylan’s three-hour film </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Kuru Otlar Üstüne</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, (About Dry Grasses) enjoyed comparably excellent box office figures in Turkey. Ceylan stands for an art house cinema, promising audiences visual pleasure and cinematic contemplation.</Content>
 				<Br />
 				<Content>Then, there is the Sphere in Las Vegas: a massive dome with a projective surface inside and outside, an arena for audiovisual events similar to sports stadiums and Olympic games arenas. A building like the Sphere, as architectural symbol, materializes what the Zorlu Center in Istanbul has yet to achieve, or what the architecture—the shape—of the Ankara Opera might, on a much smaller scale, suggest. A friend of mine thought of seeing U2 play at the Sphere, but deemed neither U2 nor the spatial experience worth the $600 price of a ticket. A reviewer in Wired magazine noted that when the band played a few songs without visuals, the musical performance itself was rather dull. Nevertheless, in the Sphere, in the spatial, audiovisual, over-dimensioned, projected, and live sensation, cinema has finally found its cathedral: a home in a dome.</Content>
@@ -660,10 +724,16 @@
 				<Br />
 				<Content>1924 was the year of Murnau’s film </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>The Last Laugh</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, one of the highlights of cinematic experience in the 1920s, and high on any list of the cinematic language and visual possibilities of the moving image.</Content>
 				<Br />
 				<Content>I agree with Rudolf Arnheim’s judgment that everything that cinema is capable of has already been invented. The installation phase of the cinema had ended; cinema went straight into its deployment phase. Yes, sound was missing, but the films of the 1920s paved the way to recorded sound as the final step in establishing a mass medium. (As a mere side note, cinema always had sound. The 1930s moved from live to recorded sound, establishing another distribution dominance of Hollywood-style cinema, automating a multi-sensory mass product.</Content>
@@ -675,16 +745,28 @@
 				<Br />
 				<Content>In his 2001 </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>The Language of New Media</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, a popular work that generated intense discussion, Lev Manovich says, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Cinema becomes a particular branch of painting - painting in time. No longer a kino-eye, but a kino-brush.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -693,52 +775,91 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> We could extend this prophecy 20 years into the future, from </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Adobe Firefly</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Midjourney</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, and </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>DALL E</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> to an algorithmic brush, as the new model on the supermarket shelf.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Video is not cinema.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>I wrote in </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Video Theory</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> in 2015:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Comparable to driving a car or taking a shower. It is nearly omnipresent, available on demand and attached to nearby anything, anywhere. Online Video became something vital and independent. With all the video created by the cameras around us, constantly uploading, sharing, linking, and relating, a blue ocean is covering our planet, an ocean of video. What might look as bluish noise and dust from the far outside, might embed beautiful and fascinating living scares of moving images, objects constantly changing, re-arranging, assembling, evolving, collapsing, but never disappearing, a real cinema.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -750,22 +871,34 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>An Ukrainian publisher translated my book into Russian. I don’t speak Russian, but was told that the translation was excellent. The inlay of the Russian version includes the following English part, with which I wholly agree:</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>We are doomed to live in an era of rapid changes, especially in [the] media sphere which overloads us with information. All the technological innovations that are here for us with a single click or a single touch to a smartphone and which we consider to be our extension, literally impose their tyranny on us - the tyranny of vision and perception of reality.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>2015 is also the year when Mark Zuckerberg lied about Online Video.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="97" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -773,17 +906,25 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>The Aesthetics of Instability</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Here is where we connect to what I name the Aesthetics of Instability. The power of instability, the constant change, the flow, and the feed define our daily operations and assume our values in a total immersion of ourselves. We have submitted ourselves.</Content>
 				<Br />
 				<Content>In my 2002 graduate seminar, I posed the question: Will technology alter our perception of time and space in storytelling, or will it lead to entirely new narra</Content>
@@ -793,42 +934,75 @@
 				<Br />
 				<Content>As my Russian translator of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Video Theory</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> suggests, I would see these not simply as technological developments but as tools and objects with a strong power element. These objects have already changed paradigms, transforming existing systems, neighborhoods, and atmospheres.</Content>
 				<Br />
 				<Content>The 2022 film </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Everything, Everywhere, All at Once</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> appears as one of the most chaotic films following the pandemic.</Content>
 				<Br />
 				<Content>Evelyn, a Chinese immigrant running a laundromat, discovers that her life exists in just one of countless universes. The film seems to mirror the internet&apos;s overwhelming chaos, or, as the director Daniel Scheinert put it, the sense of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>scrolling through an infinite amount of stuff</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Everything Everywhere</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> has been called one of the first </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>post-internet</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> films, capturing the online world&apos;s bizarre nature. In our era, human brains, unchanged for centuries, struggle to adapt to a dramatically transformed world. As YouTuber Thomas Flight observes, we now encounter more ideas, people, and places in a single TikTok binge than our ancestors did in entire lifetimes. This rapidly evolving digital chaos challenges our slow-evolving minds.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -840,13 +1014,20 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
+				<Br />
 				<Br />
 				<Content>Of course, ideas are not less complex, less abstract, or less attractive than a 20 second TikTok Video. Flight seems to be overlooking such figures as Duns Scotus, the Scottish Franciscan friar and philosopher (c. 1265/66–1308), or Ibn Khaldun, the Arab historiographer and historian (1332–1406). Their ideas stick.</Content>
 				<Br />
 				<Content>The universes of the moving image are diverse, strange, weird. They are deep and full of kinetic energy and relentless pace.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -854,6 +1035,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -957,7 +1140,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>&apos;s algorithm drives the platform, creating a personalized feed of short videos that constantly evolves based on user interaction. Unlike other social media, TikTok emphasizes the content over the creator, fostering a sense of discovery and immersion. Automation masquerades as customization, dictating what we watch, read, and hear. TikTok aggressively pursues our attention, aiming to create an addictive and profitable cycle. Trust in the algorithmic feed empowers the app to manipulate its audience effectively.</Content>
 				<Br />
-				<Content>Time is the Message. We must treat database-watching with the seriousness it deserves, rather than dismissing it as mere video consumption. Online video platforms are designed to be addictive, with endless streams of content that can captivate viewers for hours on end, far surpassing the length of a traditional film. This infinite scrolling and clicking has become a defining characteristic of 21st-century culture. We&apos;ve become accustomed to this perpetual online journey, reluctant to break free from the database&apos;s grip.</Content>
+				<Content>Time is the Message. We must treat database-watching with the seriousness it deserves, rather than dismissing it as mere video consumption. Online video platforms are designed to be addictive, with endless streams of content that can captivate viewers for hours on end, far surpassing the length of a traditional film. </Content>
+				<Br />
+				<Content>This infinite scrolling and clicking has become a defining characteristic of 21st-century culture. We&apos;ve become accustomed to this perpetual online journey, reluctant to break free from the database&apos;s grip.</Content>
 				<Br />
 				<Content>The short format of many online videos doesn&apos;t diminish their potential impact. They cater to our shrinking attention spans, delivering quick hits of information and entertainment. These condensed videos can conceal layers of meaning, inviting deep analysis. However, our supposedly fast-paced lives rarely afford us the time for such contemplation. Ironically, while consuming these videos, we&apos;re consuming our own time. In our rush to consume, we neglect to consider the implications of our digital footprints.</Content>
 				<Br />
@@ -1012,6 +1197,7 @@
 				<Br />
 				<Content>Imagination is an intentional act of consciousness. This means that when we imagine, we are actively creating or shaping the imagined object based on our intentions and purposes. This is not a passive reception of images, but an active, creative world-making process, with meaning and significance that we ourselves give. Imagination allows us to conceive of possibilities that don&apos;t currently exist, and enables us to create projections, fictional situations and scenarios.</Content>
 				<Br />
+				<Br />
 				<Content>Sartre, following Husserl, emphasizes that consciousness is intentional; it is consciousness of something. Imagination pronounces this intentionality. We don&apos;t passively receive images; we actively create them. Sartre ties this—our ability to conceive something that is not and to envision alternatives and future possibilities—to human freedom. Imagination allows us to project. It is not simply about mental images, but about how we conceive of and act upon our world.</Content>
 				<Br />
 				<Content>Sartre’s concept of the faculty of imagination indeed allows teleological thinking, with its projective future orientation and role in shaping meaning. The imagination&apos;s power to negate the given and envision alternatives is as much about refusing existing ends as it is about positing new ones. It&apos;s a tool of freedom, the ground of possibility for both accepting and rejecting given ends—a crucial component of human freedom and meaning-making.</Content>
@@ -1036,8 +1222,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> to overcome such limitations as constraints on human vision, limited memory, or the restrictions of time and space, introducing artificial images and different alphabets. This process continued through various forms of writing.</Content>
 				<Br />
-				<Content>While Sartre&apos;s analysis wa</Content>
-				<Content>s more phenomenological and general, focusing on individual consciousness, Flusser&apos;s faculty of imagination is more oriented towards media theory and cultural analysis. He focuses on the role of imagination in creating and interpreting </Content>
+				<Content>While Sartre&apos;s analysis</Content>
+				<Content> was more phenomenological and general, focusing on individual consciousness, Flusser&apos;s faculty of imagination is more oriented towards media theory and cultural analysis. He focuses on the role of imagination in creating and interpreting </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>technical images</Content>
@@ -1054,6 +1240,7 @@
 				<Content>Imagination, for Flusser, involves both abstracting from the world (creating concepts) and concretizing abstract ideas into images. Imagination is influenced by cultural codes and programs and plays a definitive role in creating new information and distributing existing information.</Content>
 				<Br />
 				<Content>Imagination as a faculty has evolved throughout human history, then, from primitive imagination based on a direct visual perception of the world, through what Flusser calls traditional imagination involving the creation and interpretation of handmade images like cave paintings, to textual imagination linked to the development of writing and alphabets, introducing a new level of abstraction of the world. Textual imagination is followed finally by technical imagination related to the creation and interpretation of technical images. Flusser argued that we were moving from a text-based culture to one dominated by particularly technical images, with profound impacts on our understanding and interaction with the world, all of which would require new forms of literacy and new kinds of imagination.</Content>
+				<Br />
 				<Br />
 				<Content>What makes technical images fundamentally different from traditional representative images is simply that they are produced by machines or apparatuses—cameras and computers—based on technical processes. They project specific models onto the world and shape and construct reality through computation. Imagination now requires, if we are to decode conceptual projections, an understanding of the processes and calculations behind image creation. While computers operate on linear sequences (algorithms) and while code is a form of writing, what they produce—particularly visual outputs—are non-linear. Technical images present a synchronic, all-at-once view that&apos;s more about relationships and patterns than sequence and causality. This challenges a linear understanding of history.</Content>
 				<Br />
@@ -1200,8 +1387,8 @@
 				<Content>Explore</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> tab, and photo editing apps enhance images with a single click. AI influences fashion recommendations from online retailers. The encounter between AI and aesthetics is significant because aesthetics is traditionally a human domain. One prevalent opinion holds that these developments merely mimic existing styles, and are not creative. In such instances, computers receive pre-existing examples and accordingly generate variants; they try, that is, to introduce some level of variation. Sometimes, what results is uncannily similar to genuin</Content>
-				<Content>e artworks; other results seem a bit off to a trained eye, lacking the final touches to make them convincingly human. Typically, conservative views on art consider technical mastery a criterion for </Content>
+				<Content> tab, and photo editing apps enhance images with a single click. AI influences fashion recommendations from online retailers. The encounter between AI and aesthetics is significant because aesthetics is traditionally a human domain. One prevalent opinion holds that these developments merely mimic existing styles, and are not creative. In such instances, computers receive pre-existing examples and accordingly generate variants; they try, that is, to introduce some level of variation. Sometimes, what results is uncannily similar to ge</Content>
+				<Content>nuine artworks; other results seem a bit off to a trained eye, lacking the final touches to make them convincingly human. Typically, conservative views on art consider technical mastery a criterion for </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>real art</Content>
@@ -1269,21 +1456,46 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
+				<Br />
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Unsupervised</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Let&apos;s dive into the work of the Turkish artist Refik Anadol at the Museum of Modern Art. Anadol&apos;s exhibition, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Unsupervised</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>, is unique, having been generated by an artificial intelligence model trained on the public data of MoMA&apos;s art collection, spanning over 200 years. AI interprets the museum&apos;s diverse collection to create abstract images and shapes.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1291,6 +1503,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1328,6 +1542,7 @@
 				<Br />
 				<Content>However, there&apos;s an ethical concern here to consider. AI advancements could very well determine military dominance in the future. The Department of Defense even supports such AI companies as Nvidia, which aids Anadol in creating his unique dreams.</Content>
 				<Br />
+				<Br />
 				<Content>In a critical review, Ben Davis points out that </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1353,13 +1568,17 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> is a program that touches on surveillance and the colonization of space, raising questions about who controls creativity and production. It may appear fun and colorful, but it raises concerns about normalizing surveillance and environmentally harmful computation. Anadol should reconsider the neutrality of his tools, as they have broader implications beyond art.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Bold" PointSize="12" Ligatures="true" Tracking="0" AppliedLanguage="$ID/English: UK">
+				<Properties>
+					<Leading type="unit">12</Leading>
+					<AppliedFont type="string">Lato (TT)</AppliedFont>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-				<Br />
 				<Content>Never before</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1433,6 +1652,7 @@
 				<Br />
 				<Content>We lack the contemporary equivalents of cinematic scholars like Andre Bazin or critics like Pauline Kael, who might provide us with a comprehensive cinematic library, offering theoretical insights into the ongoing trends and adeptly identifying emerging voices in the field. Fragmentization, personalization, and individualization have unseated the guiding authority and the narratives and power of cultural critics.</Content>
 				<Br />
+				<Br />
 				<Content>Alexandra Coburn writes in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1445,8 +1665,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Now, I work in a film archive, and I can lay out newspaper clippings end to end and watch the American auteur movement of the 1970s die. I can read box office numbers for filmmakers’ first films with the foresight that one day, they’ll be selling out theaters. Pastiche is often used as a slightly derogatory description—directors are accused of pastiche, as if in the year 2023 it is truly possible to make a film that doesn’t rest on the backs of all the films which came before. The most idyllic result of this trend is the resurgence of interest in arthouse cinemas; in a utopia, this would amount to a monetary ackno</Content>
-				<Content>wledgement that good repertory film programming is visionary and worthwhile.</Content>
+				<Content>Now, I work in a film archive, and I can lay out newspaper clippings end to end and watch the American auteur movement of the 1970s die. I can read box office numbers for filmmakers’ first films with the foresight that one day, they’ll be selling out theaters. Pastiche is often used as a slightly derogatory description—directors are accused of pastiche, as if in the year 2023 it is truly possible to make a film that doesn’t rest on the backs of all the films which came before. The most idyllic result of this trend is the resurgence of interest in arthouse cinemas; in a utopia, this would amount to a monetar</Content>
+				<Content>y acknowledgement that good repertory film programming is visionary and worthwhile.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1744,8 +1964,8 @@
 				<Content>Introduction to the Reading of Hegel</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, sees the end of history embodied in an American way of life, signifying the dehumanization of individuals into mere con</Content>
-				<Content>sumers. In a subsequent edition, after Kojève visited Japan in 1959, he suggests two post-historical archetypes, American animality and Japanese snobbery, positing these as mutually exclusive, inasmuch as </Content>
+				<Content>, sees the end of history embodied in an American way of life, signifying the dehumanization of individuals into m</Content>
+				<Content>ere consumers. In a subsequent edition, after Kojève visited Japan in 1959, he suggests two post-historical archetypes, American animality and Japanese snobbery, positing these as mutually exclusive, inasmuch as </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>an animal cannot be a snob</Content>
@@ -1837,27 +2057,27 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Figure">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Rectangle Self="u3e95" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 150 -100" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+				<Rectangle Self="u4273" ContentType="GraphicType" StoryTitle="$ID/" OverriddenPageItemProps="" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" StrokeWeight="0" StrokeColor="Swatch/None" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[Normal Graphics Frame]" ItemTransform="1 0 0 1 150 -100" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
 					<Properties>
 						<PathGeometry>
 							<GeometryPathType PathOpen="false">
 								<PathPointArray>
-									<PathPointType Anchor="-150 -101.1440944881879" LeftDirection="-150 -101.1440944881879" RightDirection="-150 -101.1440944881879" />
+									<PathPointType Anchor="-150 -100.04803149606141" LeftDirection="-150 -100.04803149606141" RightDirection="-150 -100.04803149606141" />
 									<PathPointType Anchor="-150 100" LeftDirection="-150 100" RightDirection="-150 100" />
 									<PathPointType Anchor="149.9055118110236 100" LeftDirection="149.9055118110236 100" RightDirection="149.9055118110236 100" />
-									<PathPointType Anchor="149.9055118110236 -101.1440944881879" LeftDirection="149.9055118110236 -101.1440944881879" RightDirection="149.9055118110236 -101.1440944881879" />
+									<PathPointType Anchor="149.9055118110236 -100.04803149606141" LeftDirection="149.9055118110236 -100.04803149606141" RightDirection="149.9055118110236 -100.04803149606141" />
 								</PathPointArray>
 							</GeometryPathType>
 						</PathGeometry>
 					</Properties>
-					<FrameFittingOption AutoFit="false" LeftCrop="0" TopCrop="-1.1440944881879034" RightCrop="-299.9055118110236" BottomCrop="-200" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
+					<FrameFittingOption AutoFit="false" LeftCrop="-20.40944881889763" TopCrop="1.133858267719006" RightCrop="-279.496062992126" BottomCrop="-201.18188976378042" FittingOnEmptyFrame="None" FittingAlignment="CenterAnchor" />
 					<ObjectExportOption AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing" EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault">
 						<Properties>
 							<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 							<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
 						</Properties>
 					</ObjectExportOption>
-					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0.7364549272488148" AnchorSpaceAbove="0" />
+					<AnchoredObjectSetting AnchoredPosition="InlinePosition" SpineRelative="false" LockPosition="false" PinPosition="true" AnchorPoint="BottomRightAnchor" HorizontalAlignment="LeftAlign" HorizontalReferencePoint="TextFrame" VerticalAlignment="TopAlign" VerticalReferencePoint="LineBaseline" AnchorXoffset="0" AnchorYoffset="0.4298171181098951" AnchorSpaceAbove="0" />
 					<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
 						<Properties>
 							<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
@@ -1865,9 +2085,9 @@
 						<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 					</TextWrapPreference>
 					<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-					<Image Self="u3e97" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="72 72" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -150 -100" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
+					<Image Self="u4275" Space="$ID/#Links_RGB" ActualPpi="72 72" EffectivePpi="72 72" ImageRenderingIntent="UseColorSettings" OverriddenPageItemProps="" LocalDisplaySetting="Default" ImageTypeName="$ID/" AppliedObjectStyle="ObjectStyle/$ID/[None]" ItemTransform="1 0 0 1 -129.59055118110237 -101.18188976378042" Visible="true" Name="$ID/" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="">
 						<Properties>
-							<Profile type="string">$ID/None</Profile>
+							<Profile type="string">$ID/Use Document Default</Profile>
 							<GraphicBounds Left="0" Top="0" Right="0" Bottom="0" />
 						</Properties>
 						<ClippingPathSettings ClippingType="None" InvertPath="false" IncludeInsideEdges="false" RestrictToFrame="false" UseHighResolutionImage="true" Threshold="25" Tolerance="2" InsetFrame="0" AppliedPathName="$ID/" Index="-1" />
@@ -1878,7 +2098,7 @@
 							</Properties>
 							<ContourOption ContourType="SameAsClipping" IncludeInsideEdges="false" ContourPathName="$ID/" />
 						</TextWrapPreference>
-						<Link Self="u3e99" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:imgs/Treske_image2.png" LinkResourceFormat="$ID/" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="true" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkResourceSize="0~0" RenditionData="Actual" />
+						<Link Self="u4276" AssetURL="$ID/" AssetID="$ID/" LinkResourceURI="file:imgs/Treske_image2.png" LinkResourceFormat="$ID/" StoredState="Normal" LinkClassID="35906" LinkClientID="257" LinkResourceModified="true" LinkObjectModified="false" ShowInUI="true" CanEmbed="true" CanUnembed="true" CanPackage="true" ImportPolicy="NoAutoImport" ExportPolicy="NoAutoExport" LinkResourceSize="0~0" RenditionData="Actual" />
 					</Image>
 				</Rectangle>
 				<Br />
@@ -1893,12 +2113,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Fig. 2. BABY N</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The BNC connector is a miniature quick connect/disconnect radio frequency connector used for coaxial cable. It features two bayonet lugs on the female connector; mating is fully achieved with a quarter turn of the coupling nut. BNC connectors are attached to the ends of coaxial cables and can be used for connecting signals such as RF signals and video signals on consumer electronics. BNC stands for Bayonet Neill Concelman. Bayonet describes the physical connector type and Neill and Concelman are the names of the BNC connector&apos;s two inventors. The acronym BNC has been mistakenly believed to stand for British Naval Connector, Bayonet Nut Connector, and Baby N connector. BNCs are suited to accommodate a large variety of RG and industry standard cables, in a variety of termination styles.</Content>
+				<Content>The BNC connector is a miniature quick connect/disconnect radio frequency connector used for coaxial cable. It features two bayonet lugs on the female connector; mating is fully achieved with a quarter turn of the coupling nut. BNC connectors are attached to the ends of coaxial cables and can be used for connecting signals such as RF signals and video signals on consumer electronics. BNC stands for Bayonet Neill Concelman. Bayonet describes the physical connector type and Neill and Concelman are the names of the BNC connector&apos;s two inventors. The acronym BNC has been mistakenly believed to stand for British Naval Connector, Bayonet Nut Connector, and Baby N connector.</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> BNCs are suited to accommodate a large variety of RG and industry standard cables, in a variety of termination styles.</Content>
+				<Br />
 				<Content>• Bayonet coupling mechanism provides positive, quick mating and un-mating</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1934,8 +2152,6 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>In earlier computer networks, BNC connectors with coaxial cables were used in Ethernet networks, but Ethernet networks are now more commonly connected by RJ45 connectors and CAT5-style cables.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">

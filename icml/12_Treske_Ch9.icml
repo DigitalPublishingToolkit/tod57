@@ -673,7 +673,9 @@
 				<Content>concordant oppositorum</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> taught by Nicholas of Cusa, by exchanging them with one another. The theoretical as well as practical success of the </Content>
+				<Content> taught by Nicholas of Cusa, by exchanging them with one another. </Content>
+				<Br />
+				<Content>The theoretical as well as practical success of the </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>perspectiva artificialis</Content>
@@ -904,8 +906,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> are interwoven, like countries without borders. This contrasts with the view of imagination as distinct from the physical world.</Content>
 				<Br />
-				<Content>Everything we experience, from paintings to nature, walks to written words, offers a path to </Content>
-				<Content>understanding a deeper reality. These experiences are all valid forms of knowledge, shaped by a deeper source within us, a kind of wellspring of life force.</Content>
+				<Content>Everything we experience, from paintings to nature, walks to written words, offers a path to</Content>
+				<Content> understanding a deeper reality. These experiences are all valid forms of knowledge, shaped by a deeper source within us, a kind of wellspring of life force.</Content>
 				<Br />
 				<Content>Medieval monks saw reading and writing as journeys. Mentally traveling through their writing, they drew upon past experiences and ideas. This flow of thought was purposeful, allowing for variations in mood and style.</Content>
 				<Br />
@@ -980,7 +982,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="168.66141732283467">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>•</Content>
 				<Br />
@@ -1033,7 +1035,9 @@
 				<Br />
 				<Content>Marks finds a fascinating echo of Alhazen&apos;s ideas in the work of French philosopher Henri Bergson. Bergson&apos;s concept of the mind as an active interpreter of the world influenced Gilles Deleuze, who argued that perception isn&apos;t a mirror reflecting reality, but a process of unfolding the world based on our unique viewpoint.</Content>
 				<Br />
-				<Content>Normally, we react instinctively to what we see (food, danger, etc.). But Bergson suggests that the more time we spend absorbing the world around us, the more we can perceive. The longer we look, the more we discover (through sight, sound, smell, taste, etc.). This requires us to break free from our automatic reactions and truly contemplate what we see. For example, instead of immediately spearing a charging boar, we might take a moment to observe its details – its fur, its tusks. In some ways, this deep contemplation goes against our basic human instincts for survival, which often demand quick reactions. However, both Alhazen and Bergson propose that true understanding comes from taking the time to contemplate what we experience before acting.</Content>
+				<Content>Normally, we react instinctively to what we see (food, danger, etc.). But Bergson suggests that the more time we spend absorbing the world around us, the more we can perceive. The longer we look, the more we discover (through sight, sound, smell, taste, etc.). This requires us to break free from our automatic reactions and truly contemplate what we see. </Content>
+				<Br />
+				<Content>For example, instead of immediately spearing a charging boar, we might take a moment to observe its details – its fur, its tusks. In some ways, this deep contemplation goes against our basic human instincts for survival, which often demand quick reactions. However, both Alhazen and Bergson propose that true understanding comes from taking the time to contemplate what we experience before acting.</Content>
 				<Br />
 				<Content>Carpets, at their core, are like woven algorithms. From the loom&apos;s grid-like structure to the number of threads per inch, the knot style, and the overall design, each element involves a set of pre-determined instructions. These instructions function much like an algorithm, a set of steps to be followed.</Content>
 				<Br />
@@ -1065,8 +1069,8 @@
 				<Content>thinking like a carpet</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> encourages us to explore how our bodies experience the world. It&apos;s not just about seeing, but also about feeling the design and patterns around us. The lines and shapes can even create a sense of m</Content>
-				<Content>ovement that we can connect with through touch and sensation.</Content>
+				<Content> encourages us to explore how our bodies experience the world. It&apos;s not just about seeing, but also about feeling the design and patterns around us. The lines and shapes can even create a sense of</Content>
+				<Content> movement that we can connect with through touch and sensation.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>

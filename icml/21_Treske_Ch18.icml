@@ -20,7 +20,7 @@
 		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
-		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="di95" Name="Myriad Pro">
@@ -438,13 +438,21 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> that shape how we perceive and understand the world. </Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Media can be used to both empower and control people. Media theory can only be done with a deep understanding of the technologies that produce and circulate media. Such a theory must bridge the gap between the humanities and the sciences. Technical knowledge is essential for understanding materiality and impact.</Content>
 				<Br />
 				<Content>Media theory needs a clear and precise definition of the media concept to carry out its work effectively. This definition should be broad enough to encompass all types of media. Yet it should also be specific enough to be useful for analysis. A well-defined media concept is essential for distinguishing between media and non-media and understanding media&apos;s unique properties. Media theory must be open to new approaches and perspectives and be willing to engage with other disciplines to produce a comprehensive understanding of media and audiovisual culture in the 21st century.</Content>
 				<Br />
 				<Content>Any new theory needs to be a theory of lifeness. Lifeness is the possibility of the emergence of new forms and the potential to generate unprecedented connections and unexpected events.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" VerticalScale="96" Position="Superscript">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -456,40 +464,75 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>Doing Things</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>We need a new strategy of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>doing things with words</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> and </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>doing things with things</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content> or </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>doing things with visuals</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" VerticalScale="96">
+				<Properties>
+					<Leading type="unit">7</Leading>
+				</Properties>
 				<Content>. We need to stage interventions across conventional boundaries. The new aesthetics needs to operate simultaneously as a theory of production and reception. On the production side, it needs to provide a framework for understanding aesthetic work as the deliberate creation of relational atmospheres, rather than isolated objects. On the reception side, it needs to reframe our understanding of perception as a comprehensive experience of presence—specifically, how we encounter and sense the immediate reality of people, objects, and environments in their full dimensionality.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" VerticalScale="97">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Content>In the twenty-first century, we’ve moved in a more challenging environment than that of the time when bodily perception was seen as extended by technological prosthesis, as Marshall McLuhan famously argued. Our post-pandemic sensory world is deeply pharmacological: toxic and curative, exciting and dangerous, a place where endless media saturation forces us to revisit ideas of life itself.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" VerticalScale="97" Position="Superscript">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -497,17 +540,36 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" KerningValue="0">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Content>We need to crash the party. We need to have fun. And we need to start to tell different stories. Dance all night long.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
+				<Br />
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20" KerningValue="0">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Content>Schlage die Trommel und fürchte dich nicht,</Content>
 				<Br />
 				<Content>und küsse die Marketenderin!</Content>
@@ -516,7 +578,10 @@
 				<Br />
 				<Content>das ist der Bücher tiefster Sinn.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-20" KerningValue="0" Position="Superscript">
+				<Properties>
+					<Leading type="unit">6.4</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -524,6 +589,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -612,8 +679,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> approach isn&apos;t about destroying culture per se, but about creating conditions for genuine cultural renewal. The positive barbarian, in Benjamin&apos;s vision, is not someone who destroys culture out of ignorance or hatred, but someone who strategically reduces cultural baggage to create space for new forms of experience and expression. This figure remains provocative and potentially instructive for contemporary attempts to imagine and create alternative futures.</Content>
 				<Br />
-				<Content>Today, when we face multiple crises and when the weight of accumulated cultural detritus often seems overwhelming, Benjamin&apos;s concept of positive barbarism suggests that starting from less might allow us to build something more su</Content>
-				<Content>stainable, authentic, and collectively meaningful.</Content>
+				<Content>Today, when we face multiple crises and when the weight of accumulated cultural detritus often seems overwhelming, Benjamin&apos;s concept of positive barbarism suggests that starting from less might allow us to build something more</Content>
+				<Content> sustainable, authentic, and collectively meaningful.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -676,12 +743,17 @@
 				<Content>Both human activity and data exchanges exist within a framework defined by technological capabilities, economic forces, and political structures. These systemic constraints shape our communication ecology much as climate shapes natural environments. However, this analogy has its limits. While natural ecosystems can occasionally influence their climate, the relationship between technical systems and their constraining conditions tends to be more one-directional.</Content>
 				<Br />
 				<Content>To understand modern communication, we must examine both the technical infrastructure that enables data flow and the broader conditions that shape how we use these systems. It is a complex interplay between human society, digital information, and the structures that govern their interaction.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" FontStyle="Bold" PointSize="12" Ligatures="true" Tracking="0" AppliedLanguage="$ID/English: UK">
+				<Properties>
+					<Leading type="unit">12</Leading>
+					<AppliedFont type="string">Lato (TT)</AppliedFont>
+				</Properties>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
 				<Content>And so …</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -734,8 +806,6 @@
 				<Content> He wasn&apos;t just saying he&apos;s involved; he meant he becomes part of the ongoing flow himself, connected to countless others. This opens up entirely new social and artistic possibilities, all centered around this idea of continuous, ever-changing experience.</Content>
 				<Br />
 				<Content>Forget fixed images and pre-defined moments. Video lets us build time together as a collective flow.</Content>
-				<Br />
-				<Br />
 				<Br />
 				<Content>Perhaps it is in this sense that we should interpret another statement from Paik: ‘The ultimate goal of the video revolution is the establishment of space-to-space communication, from situation to situation and not from subject to subject . . . we no longer work on an object, but a situation.’</Content>
 			</CharacterStyleRange>

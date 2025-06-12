@@ -1084,6 +1084,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>For the first time in the history of architecture, an artificial building material appeared: iron. It undergoes an evolution whose tempo accelerates. The rail becomes the first prefabricated iron component. Iron is used in arcades, exhibition halls, and train station buildings that serve transitory purposes. At the same time, the range of architectural applications for glass expands. However, the social prerequisites for its widened application as a building material will come to the fore only a hundred years later. In Scheerbart&apos;s </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1117,8 +1118,8 @@
 				<Content>human machine</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> creates a paradise, a wish for</Content>
-				<Content> a perfect society that echoes throughout history, a heaven on earth.</Content>
+				<Content> creates a paradise, a wish fo</Content>
+				<Content>r a perfect society that echoes throughout history, a heaven on earth.</Content>
 				<Br />
 				<Content>Fourier took inspiration for his phalanstery from the arcades and shopping centers he saw around him. He flipped their purpose, transforming them from commercial spaces to places of residence. This colorful, idyllic vision contrasted with the strict forms of his era. Even later writers, like Zola, show the influence of Fourier&apos;s ideas, even as they move away from the specific details of his utopia. Benjamin points out the rise of panoramas. Panoramas, large-scale painted views, marked a turning point. They emerged alongside the technological advancements of iron and Glass construction, suggesting a move away from traditional artistic forms. Panoramas aimed for extreme realism, using techniques to depict changing light and movement. This focus on capturing real-life details foreshadowed photography and film.</Content>
 				<Br />
@@ -1130,7 +1131,6 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Br />
 				<Br />
 				<Content>The Glass House</Content>
 				<Br />
@@ -1217,17 +1217,29 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>. This switch to calling it a Style had a significant impact.</Content>
 				<Br />
-				<Br />
-				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="99" Tracking="-13">
+				<Properties>
+					<Leading type="unit">8</Leading>
+				</Properties>
 				<Content>Johnson later reminisced about the publication that accompanied the exhibition: &gt;One of the points that the book made was a key one—that the Modern movement was a </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" HorizontalScale="99" Tracking="-13">
+				<Properties>
+					<Leading type="unit">8</Leading>
+				</Properties>
 				<Content>style</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="99" Tracking="-13">
+				<Properties>
+					<Leading type="unit">8</Leading>
+				</Properties>
 				<Content> similar to Gothic or Baroque, and it was that point which caused the objections from practicing architects.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" HorizontalScale="99" Tracking="-13" Position="Superscript">
+				<Properties>
+					<Leading type="unit">8</Leading>
+				</Properties>
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1235,6 +1247,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1317,15 +1331,11 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Johnson emphasizes a processional approach to architecture, where the building unfolds and reveals itself gradually through movement and time. The design of the approach road ensures visitors experience the full depth of the Glass House from multiple angles, surpassing the experience at the Acropolis, where visitors can only perceive three corners at once. The diagonal approach reveals the building&apos;s depth in stages. Johnson allows visitors to see all four corners through the transparent structure.</Content>
+				<Content>Johnson emphasizes a processional approach to architecture, where the building unfolds and reveals itself gradually through movement and time. The design of the approach road ensures visitors experience the full depth of the Glass House from multiple angles, surpassing the experience at the Acropolis, where visitors can only perceive three corners at once. </Content>
+				<Br />
+				<Content>The diagonal approach reveals the building&apos;s depth in stages. Johnson allows visitors to see all four corners through the transparent structure.</Content>
 				<Br />
 				<Content>However, Johnson&apos;s processional architecture is designed for a small, elite audience, unlike the public experience of the Acropolis. With its private studies and intimate tours, the Glass House estate resembles the processional experience of 18th-century mansions, not the public spectacle of modern architecture often celebrated.</Content>
-				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="168.66141732283467">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>•</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1339,8 +1349,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>At the heart of every smartphone, laptop, and modern electronic device lies an invisible technological marvel that depends on light. While we often think of light technology in terms of photography or architecture, its most profound impact may be actually in the realm of semiconductor manufacturing.</Content>
 				<Br />
-				<Content>ASML in Veldhoven produces advanced chip-making machines—photolithography machines which are used to produce computer chips. ASML is partnering with Zeiss in Jena, which provides the sophisticated optical systems essential to ASML&apos;s extreme ultraviolet (EUV) lithography machines. These machines use incredibly precise light patterns, projected through specialized lenses, to create the microscopic circuits that power o</Content>
-				<Content>ur digital world.</Content>
+				<Content>ASML in Veldhoven produces advanced chip-making machines—photolithography machines which are used to produce computer chips. ASML is partnering with Zeiss in Jena, which provides the sophisticated optical systems essential to ASML&apos;s extreme ultraviolet (EUV) lithography machines. These machines use incredibly precise light patterns, projected through specialized lenses, to create the microscopic circuits that power our </Content>
+				<Content>digital world.</Content>
 				<Br />
 				<Content>The process is akin to an ultra-precise form of photography, but at a scale so small it challenges our imagination. Using light, these machines pattern circuits onto silicon wafers, creating structures at the nanoscale - thousands of times thinner than a human hair. This light-based manufacturing process has become the foundation of modern computing, enabling the creation of increasingly powerful chips.</Content>
 				<Br />

@@ -20,7 +20,7 @@
 		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
-		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="di95" Name="Myriad Pro">
@@ -538,12 +538,13 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="168.66141732283467">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>•</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
+				<Br />
 				<Content>Video is a cybernetic medium</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -597,7 +598,9 @@
 				<Content>I see</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> in cinema puts interpretation in the viewer&apos;s hands. As a pure </Content>
+				<Content> in cinema puts interpretation in the viewer&apos;s hands. </Content>
+				<Br />
+				<Content>As a pure </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>I see,</Content>
@@ -675,6 +678,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> for viewers, avoiding the manipulative techniques of modern advertising.</Content>
 				<Br />
+				<Br />
+				<Br />
 				<Content>What are the conditions of being determined?</Content>
 				<Br />
 				<Content>I can guess that: ‘her yiğidin bir yoğurt yeyişi vardır deriz de her yoğurdun bir yiğide farklı bir yeniş biçimi vardır demeyiz…’</Content>
@@ -695,8 +700,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Suppose we see cinema and video always as an activity of reactions. While cinema often focuses on responses, Baker proposes two essential purposes for cinema: depicting daily life and creating fantastical worlds. The second has become more popular, but the first offers a more critical perspective for him. Subjectivity is not simply a given. Subjectivity requires actively constructing viewpoints and attitudes, which can be challenging and constantly in flux. Authentic subjectivity isn&apos;t fixed or inherited but a continuous process of creation and potential failure.</Content>
 				<Br />
-				<Content>In his attempt to understand video, Baker draws on Kant’s schemas, which aren’t pictures but rather the underly</Content>
-				<Content>ing rules that govern how something is perceived. A schema is a concept that bridges the gap between our abstract ideas and the world we perceive through our senses. Kant believed we have pure concepts, like causality or substance, that aren&apos;t learned from experience. Schemata are not mental images. They are more like processes or guidelines for making sense of our sensations according to our concepts.</Content>
+				<Content>In his attempt to understand video, Baker draws on Kant’s schemas, which aren’t pictures but rather the und</Content>
+				<Content>erlying rules that govern how something is perceived. A schema is a concept that bridges the gap between our abstract ideas and the world we perceive through our senses. Kant believed we have pure concepts, like causality or substance, that aren&apos;t learned from experience. Schemata are not mental images. They are more like processes or guidelines for making sense of our sensations according to our concepts.</Content>
 				<Br />
 				<Content>The focus on </Content>
 			</CharacterStyleRange>
@@ -768,6 +773,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>The GAP</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -827,7 +833,9 @@
 				<Content>image age</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> with the growth of video and electronic media. These </Content>
+				<Content> with the growth of video and electronic media. </Content>
+				<Br />
+				<Content>These </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>thought-images</Content>
@@ -911,14 +919,15 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Br />
 				<Content>Tom Sherman - September 4, 2015 · Facebook</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>All this is not to deride cinema and those who love fil</Content>
-				<Content>m. It is simply to say that video art is not a historical footnote to film, and it is certainly not merely an anomalous component of cinema, that historical reenactment and recycled history of theatre in motion pictures. Nor is video art’s role to revitalize or enrich cinema, which has become a bit of a black hole as it has aged and now functions as an anachronistic monolith in homage to the power of literature. Video art has a whole other universe to connect with as digital moving images and sounds swirl and tunnel through myriad networks as surveillance data and music and fashion and personal message streams are coursing through phones and tablets and lighting up an image exchange via screens and goggles and projections on the walls and halls and canyons of the complex global architecture of our electronic message culture at large. … Vertov did put up one hell of a fight. He recognized the qualities and potential of celluloid and he executed a new cinema. I must emphasize that Vertov made the break, a radical strain of celluloid didn&apos;t make it for him. (Video doesn&apos;t have a will.) Individuals will find ways of using digital highly network-compatible video that will differ from those choosing to replicate the appearance and mundane functionality of celluloid embodied narratives, the dominant narratives of the 20th century.</Content>
+				<Content>All this is not to deride cinema and those who l</Content>
+				<Content>ove film. It is simply to say that video art is not a historical footnote to film, and it is certainly not merely an anomalous component of cinema, that historical reenactment and recycled history of theatre in motion pictures. Nor is video art’s role to revitalize or enrich cinema, which has become a bit of a black hole as it has aged and now functions as an anachronistic monolith in homage to the power of literature. Video art has a whole other universe to connect with as digital moving images and sounds swirl and tunnel through myriad networks as surveillance data and music and fashion and personal message streams are coursing through phones and tablets and lighting up an image exchange via screens and goggles and projections on the walls and halls and canyons of the complex global architecture of our electronic message culture at large. … Vertov did put up one hell of a fight. He recognized the qualities and potential of celluloid and he executed a new cinema. I must emphasize that Vertov made the break, a radical strain of celluloid didn&apos;t make it for him. (Video doesn&apos;t have a will.) Individuals will find ways of using digital highly network-compatible video that will differ from those choosing to replicate the appearance and mundane functionality of celluloid embodied narratives, the dominant narratives of the 20th century.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
