@@ -475,37 +475,25 @@ language—an alternative way and form of communication beyond language,
 beyond control and domination, which threaten our planet’s
 well-being.[^08_Treske_Ch5_16]
 
-![](imgs/Treske_Image5.png)
-Fig. 5. TWIST AND LOCK
-
+![Fig. 5. TWIST AND LOCK
 A series of connectors used for connecting thinnet coaxial cabling to
 various networking components. BNC connectors use a twist-and-lock
 mechanism that provides a secure connection between network cabling and
 components. BNC connectors are typically used on 10Base2 Ethernet
 networks. The different types of BNC connectors include the following:
-
-• BNC cable connector: Soldered or crimped to the ends of a thinnet
-cable
-
-• BNC T-connector: Used to connect a network interface card (NIC) to a
-thinnet cable segment
-
+• BNC cable connector: Soldered or crimped to the ends of a thinnet cable
+• BNC T-connector: Used to connect a network interface card (NIC) to a thinnet cable segment
 • BNC barrel connector: Used to connect two pieces of thinnet cable
-
-• BNC terminator: Provides a 50-ohm termination for the free end of a
-thinnet cable4
-
+• BNC terminator: Provides a 50-ohm termination for the free end of a thinnet cable4
 Often the BNC connector is specified for operation at frequencies up to
 4 GHz and it can be used up to 10 GHz provided the special top quality
 versions specified to that frequency are used.
-
 However it is wise to fully check the specification.
-
 Basic BNC Specification Summary - Parameter - Specification - Cable Type
 Coaxial - Securing - Bayonet fit - Typical operating frequency range 0 -
 4 GHz Diameter (Male) 14.0 mm / 0.570 in - Diameter (Female) 11.1 mm /
 0.436 in[^08_Treske_Ch5_17]
-
+](imgs/Treske_Image5.png)
 
 
 [^08_Treske_Ch5_1]: Kalevi Kull, Jakob von Uexküll: An introduction, Semiotica, vol. 2001, no. 134, 2001, pp. 1-59, https://doi.org/10.1515/semi.2001.013.

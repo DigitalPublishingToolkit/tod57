@@ -615,13 +615,10 @@ extraordinary precision.
 > phenomenon on the social body varies according to the role it plays in
 > the communication chain.[^15_Treske_Ch12_28]
 
-![](imgs/Treske_Image12.png)
-
-Fig. 12. YOU
-
-> *Now objects perceive me*, the painter Paul Klee wrote in his Notebooks. This rather startling assertion has recently become objective fact, the truth. After all, aren't they talking about producing a *vision machine* in the near future, a machine that would
-> be capable not only of recognising the contours of shapes, but also of completely interpreting the visual field, of staging a complex environment close-up or at a distance? Aren't they also talking about the new technology of *visionics*: the possibility of achieving sightless vision whereby the video camera would be controlled by a computer? The computer would be responsible for the machine's - rather than the televiewer's - capacity to analyse the ambient environment and automatically interpret the meaning of events. Such technology would be used in industrial production and stock control; in military robotics, too, perhaps.[^15_Treske_Ch12_29]
+![Fig. 12. YOU
+ *Now objects perceive me*, the painter Paul Klee wrote in his Notebooks. This rather startling assertion has recently become objective fact, the truth. After all, aren't they talking about producing a *vision machine* in the near future, a machine that would be capable not only of recognising the contours of shapes, but also of completely interpreting the visual field, of staging a complex environment close-up or at a distance? Aren't they also talking about the new technology of *visionics*: the possibility of achieving sightless vision whereby the video camera would be controlled by a computer? The computer would be responsible for the machine's - rather than the televiewer's - capacity to analyse the ambient environment and automatically interpret the meaning of events. Such technology would be used in industrial production and stock control; in military robotics, too, perhaps.[^15_Treske_Ch12_29]
 —Paul Virilio
+](imgs/Treske_Image12.png)
 
 [^15_Treske_Ch12_1]: Travis Sharrow, Unveiling the Brilliance: The Truth Behind Why Smartphones are Encased in Glass, Softandtech March 25, 2024.
     https://softhandtech.com/why-do-smartphones-have-glass/

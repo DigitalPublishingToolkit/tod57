@@ -670,9 +670,7 @@ always offered. I am thinking of Peter Tscherkassky’s film work, or the
 2023 *Anatomy of a Fall* by Jutine Triet, narrating and performing
 so-not-seen kinds of cinema.
 
-![](imgs/Treske_Image4.png)
-Fig. 4. AMPHENOL
-
+![Fig. 4. AMPHENOL
 Amphenol Corporation is a major producer of electronic and fiber optic
 connectors, cable and interconnect systems such as coaxial cables.\[3\]
 Amphenol is a portmanteau from the corporation’s original name, American
@@ -686,6 +684,7 @@ into diverse electronics markets, including military-aerospace,
 industrial, automotive, information technology, mobile phones, wireless
 infrastructure, broadband, medical, and pro audio. Operations are
 located in more than 60 locations around the world.
+](imgs/Treske_Image4.png)
 
 [^07_Treske_Ch4_1]: Engl.: *It was a place, cinema, it was a territory.*
 

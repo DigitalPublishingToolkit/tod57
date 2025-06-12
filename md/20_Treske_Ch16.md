@@ -336,8 +336,8 @@ by our feelings.
 > replicate the appearance and mundane functionality of celluloid
 > embodied narratives, the dominant narratives of the 20th century.[^19_Treske_Ch16_7]
 
-![](imgs/Treske_Image15.png)
-Fig. 15. UNKNOWN CLOSER
+![Fig. 15. UNKNOWN CLOSER
+](imgs/Treske_Image15.png)
 
 [^19_Treske_Ch16_1]: Ludwig Wittgenstein, Remarks on the Philosophy of Psychology, Oxford, 1980, vol. i, Remark 257.
 

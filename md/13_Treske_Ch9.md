@@ -483,24 +483,11 @@ movement that we can connect with through touch and sensation.
 > spent more time surrounded by non-figurative images is less likely
 > to.[^12_Treske_Ch9_15]
 
-![](imgs/Treske_Image9.png)
-Fig. 9. BREATH
-
-> The primal scene for what, in the Judo-Christian tradition, deserves
-> to be called inspiration, is the creation of humans - an event that
-> appears in the Genesis account in two versions: once as the final act
-> of the six-day work of creation, though it passes over the
-> life-breathing scene in silence, and once as the initiatory act for
-> all further creation, but now with an explicit emphasis on creation
-> through breath and with the characteristic distinction of clay
-> modeling in the first case and breathing in the second. Here the
-> reader of Genesis encounters the inspirator, the Lord of Creation, as
-> a figure with a sharp ontological profile: He is the first producer
-> with complete authority. The creature into which He breathes life, for
-> its part, appears on the stage of existence as the first human being,
-> the prototype of a species that can experience inspired ideas. The
-> biblical account of the first breath reproduces the original visit of
-> the spirit to a host medium.[^12_Treske_Ch9_16]
+![Fig. 9. BREATH
+The primal scene for what, in the Judo-Christian tradition, deserves to be called inspiration, is the creation of humans - an event that appears in the Genesis account in two versions: once as the final act
+of the six-day work of creation, though it passes over the life-breathing scene in silence, and once as the initiatory act for all further creation, but now with an explicit emphasis on creation through breath and with the characteristic distinction of clay modeling in the first case and breathing in the second. Here the reader of Genesis encounters the inspirator, the Lord of Creation, as a figure with a sharp ontological profile: He is the first producer with complete authority. The creature into which He breathes life, for its part, appears on the stage of existence as the first human being, the prototype of a species that can experience inspired ideas. The biblical account of the first breath reproduces the original visit of
+the spirit to a host medium.[^12_Treske_Ch9_16]
+](imgs/Treske_Image9.png)
 
 [^12_Treske_Ch9_1]: Manlio Brusatin, Geschichte der Linien. Aus dem Ital. übers. von Sabine Schulz. Berlin: Diaphanes. 2003: 12.
 

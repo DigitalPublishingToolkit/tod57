@@ -48,8 +48,6 @@ Repeat this etude frequently!
 
 **Enjoy!**
 
-![](imgs/Treske_Image16.png)
+![Fig. 16. BARBARIAN NON-CINEMATIC MEDIA THEORY
+ …](imgs/Treske_Image16.png)
 
-Fig. 16. BARBARIAN NON-CINEMATIC MEDIA THEORY
-
- …

@@ -112,11 +112,10 @@ Clair obscure.
 
 
 
-![](imgs/Treske_Image13.png)
-Fig. 13. UTOPIA
-> It is not as if the world has not long, long been one in which vast numbers live in dystopian depredation. The horizon is more visible now to many who had thought themselves insulated, if they thought about it at all. And dystopia for some is utopia for others. To repeat something I have said elsewhere, we live in a utopia: it just isn’t ours.
-> 
+![Fig. 13. UTOPIA
+It is not as if the world has not long, long been one in which vast numbers live in dystopian depredation. The horizon is more visible now to many who had thought themselves insulated, if they thought about it at all. And dystopia for some is utopia for others. To repeat something I have said elsewhere, we live in a utopia: it just isn’t ours.
 —China Miéville[^16_Treske_Ch13_3]
+](imgs/Treske_Image13.png)
 
 [^16_Treske_Ch13_1]: American Cinematographer: George Lucas Interview Interview by Ron Magid. https://theasc.com/magazine/sep02/exploring/, accessed 1 December 2024.
 

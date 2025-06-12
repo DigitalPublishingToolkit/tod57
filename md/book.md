@@ -39,47 +39,47 @@ Benjamin & Goethe
 
 # Table of Contents
 
-<a href='ch004.xhtml'> **Acknowledgments 4** </a>
+<a href='ch004.xhtml'> **Acknowledgments** </a>
 
-<a href='ch005.xhtml'> **LOG:: IN 5** </a>
+<a href='ch005.xhtml'> **LOG:: IN** </a>
 
-<a href='ch006.xhtml'> **LOG:: 01 Aesthetics of Instability 15** </a>
+<a href='ch006.xhtml'> **LOG:: 01 Aesthetics of Instability** </a>
 
-<a href='ch007.xhtml'> **LOG:: 02 Intense Heaven 34** </a>
+<a href='ch007.xhtml'> **LOG:: 02 Intense Heaven** </a>
 
-<a href='ch008.xhtml'> **LOG:: 03 Arrested Development 51** </a>
+<a href='ch008.xhtml'> **LOG:: 03 Arrested Development** </a>
 
-<a href='ch009.xhtml'> **LOG:: 04 Melody of Life 68** </a>
+<a href='ch009.xhtml'> **LOG:: 04 Melody of Life** </a>
 
-<a href='ch010.xhtml'> **LOG:: 05 All Flows - Dancing *über* 79** </a>
+<a href='ch010.xhtml'> **LOG:: 05 All Flows - Dancing über** </a>
 
-<a href='ch011.xhtml'> **LOG:: 06 SWIPE me SVA 91** </a>
+<a href='ch011.xhtml'> **LOG:: 06 SWIPE me SVA** </a>
 
-<a href='ch012.xhtml'> **LOG:: 07 Objects Of Interest 97** </a>
+<a href='ch012.xhtml'> **LOG:: 07 Objects Of Interest** </a>
 
-<a href='ch013.xhtml'> **LOG:: 08 ABOUT a line 110** </a>
+<a href='ch013.xhtml'> **LOG:: 08 ABOUT a line** </a>
 
-<a href='ch014.xhtml'> **LOG:: 09 Temporal Audiovisual Workouts 121** </a>
+<a href='ch014.xhtml'> **LOG:: 09 Temporal Audiovisual Workouts** </a>
 
-<a href='ch015.xhtml'> **LOG:: 10 Clair-Obscur 125** </a>
+<a href='ch015.xhtml'> **LOG:: 10 Clair-Obscur** </a>
 
-<a href='ch016.xhtml'> **LOG:: 11 Light wants crystal 131** </a>
+<a href='ch016.xhtml'> **LOG:: 11 Light wants crystal** </a>
 
-<a href='ch017.xhtml'> **LOG:: 12 Sharpness 145** </a> 
+<a href='ch017.xhtml'> **LOG:: 12 Sharpness** </a> 
 
-<a href='ch018.xhtml'> **LOG:: 13 Phantom Worlds or even cats watch tv 148** </a>
+<a href='ch018.xhtml'> **LOG:: 13 Phantom Worlds or even cats watch tv** </a>
 
-<a href='ch019.xhtml'> **LOG:: 14 Generative TeleVisuality 155** </a>
+<a href='ch019.xhtml'> **LOG:: 14 Generative TeleVisuality** </a>
 
-<a href='ch020.xhtml'> **LOG:: 15 Speak, The speech! 161** </a>
+<a href='ch020.xhtml'> **LOG:: 15 Speak, The speech!** </a>
 
-<a href='ch021.xhtml'> **LOG:: 16 Intermission - PAUSE 168** </a>
+<a href='ch021.xhtml'> **LOG:: 16 Intermission - PAUSE** </a>
 
-<a href='ch022.xhtml'> **LOG:: 17 BNC-MT 170** </a>
+<a href='ch022.xhtml'> **LOG:: 17 BNC-MT** </a>
 
-<a href='ch023.xhtml'> **LOG:: OUT 179** </a>
+<a href='ch023.xhtml'> **LOG:: OUT** </a>
 
-<a href='ch024.xhtml'> **Bibliography 180** </a>
+<a href='ch024.xhtml'> **Bibliography** </a>
 
 
 
@@ -96,8 +96,7 @@ everyone in passage.
 My heartfelt gratitude to Geert Lovink, Aras Ozgün, and Lale Gülden
 Treske. Thank you.
 
-Many thanks to Will Day for looking over my notes and fragmented
-writing.
+Many thanks to Will Day for looking over my notes and fragmented writing.
 
 Thanks also to Melih Aydınat for processing my images.
 
@@ -496,11 +495,8 @@ visual-based thinking in movement, to avoid sticking with images, to
 circle and spiral around them, moving from association to association,
 spherically, all towards the pleasure of Video.
 
-![](imgs/Treske_image1.png)
-
-Fig. 1. ARTEFACT
-
->Obviously an artifact, i.e., man-made and not a geological relic,
+![Fig. 1. ARTEFACT
+Obviously an artifact, i.e., man-made and not a geological relic,
 round-shaped tubular, composite object (made of different components
 (?)); apparent use of various metals or metal alloys (mainly
 grayish-white, i.e., a possible high-tin copper alloy, lead or even
@@ -511,8 +507,10 @@ gold-containing material (pin at the end of the flange (?)). In the
 inner part of the flange (?), visible corrosion residues (?).
 Mechanically regularly applied, revolving lamellar pattern; whether
 parts of it are movable cannot be verified on the basis of the image.
+ —Dr. Thomas Zimmermann
+](imgs/Treske_image1.png)
 
-> —Dr. Thomas Zimmermann
+
 
 [^04_Treske_Ch1_1]: Rafa Sales Ross. Radu Jude Discusses How Andy Warhol Film Began as
     a ‘Joke,’ Says Filmmakers Need to Be ‘Serious About TikTok’. 16
@@ -1403,10 +1401,7 @@ Taylor Swift does not exist.[^05_Treske_Ch2_30]
 
 What was your safety question about?
 
-![](imgs/Treske_image2.png)
-
-Fig. 2. BABY N
-
+![Fig. 2. BABY N
 The BNC connector is a miniature quick connect/disconnect radio
 frequency connector used for coaxial cable. It features two bayonet lugs
 on the female connector; mating is fully achieved with a quarter turn of
@@ -1419,19 +1414,18 @@ acronym BNC has been mistakenly believed to stand for British Naval
 Connector, Bayonet Nut Connector, and Baby N connector. BNCs are suited
 to accommodate a large variety of RG and industry standard cables, in a
 variety of termination styles.
-
 • Bayonet coupling mechanism provides positive, quick mating and
 un-mating
-
 • 50 Ω and 75 Ω impedance designs allow customers to match impedance to
 system requirements
-
 • Connectors are available for military, industrial and commercial
 applications.[^05_Treske_Ch2_31]
-
 In earlier computer networks, BNC connectors with coaxial cables were
 used in Ethernet networks, but Ethernet networks are now more commonly
-connected by RJ45 connectors and CAT5-style cables.[^05_Treske_Ch2_32]
+connected by RJ45 connectors and CAT5-style cables.
+[^05_Treske_Ch2_32]
+](imgs/Treske_image2.png)
+
 
 [^05_Treske_Ch2_1]: Tony Oursler, Video Dolls with Tracy Leipold, Hirshhorm Museum and
     Sculpture Garden. 2012,
@@ -3038,9 +3032,7 @@ always offered. I am thinking of Peter Tscherkassky’s film work, or the
 2023 *Anatomy of a Fall* by Jutine Triet, narrating and performing
 so-not-seen kinds of cinema.
 
-![](imgs/Treske_Image4.png)
-Fig. 4. AMPHENOL
-
+![Fig. 4. AMPHENOL
 Amphenol Corporation is a major producer of electronic and fiber optic
 connectors, cable and interconnect systems such as coaxial cables.\[3\]
 Amphenol is a portmanteau from the corporation’s original name, American
@@ -3054,6 +3046,7 @@ into diverse electronics markets, including military-aerospace,
 industrial, automotive, information technology, mobile phones, wireless
 infrastructure, broadband, medical, and pro audio. Operations are
 located in more than 60 locations around the world.
+](imgs/Treske_Image4.png)
 
 [^07_Treske_Ch4_1]: Engl.: *It was a place, cinema, it was a territory.*
 
@@ -3600,37 +3593,27 @@ language—an alternative way and form of communication beyond language,
 beyond control and domination, which threaten our planet’s
 well-being.[^08_Treske_Ch5_16]
 
-![](imgs/Treske_Image5.png)
-Fig. 5. TWIST AND LOCK
-
+![Fig. 5. TWIST AND LOCK
 A series of connectors used for connecting thinnet coaxial cabling to
 various networking components. BNC connectors use a twist-and-lock
 mechanism that provides a secure connection between network cabling and
 components. BNC connectors are typically used on 10Base2 Ethernet
 networks. The different types of BNC connectors include the following:
-
-• BNC cable connector: Soldered or crimped to the ends of a thinnet
+* • BNC cable connector: Soldered or crimped to the ends of a thinnet
 cable
-
-• BNC T-connector: Used to connect a network interface card (NIC) to a
+* • BNC T-connector: Used to connect a network interface card (NIC) to a
 thinnet cable segment
-
-• BNC barrel connector: Used to connect two pieces of thinnet cable
-
-• BNC terminator: Provides a 50-ohm termination for the free end of a
-thinnet cable4
-
+* • BNC barrel connector: Used to connect two pieces of thinnet cable
+* • BNC terminator: Provides a 50-ohm termination for the free end of a thinnet cable4
 Often the BNC connector is specified for operation at frequencies up to
 4 GHz and it can be used up to 10 GHz provided the special top quality
 versions specified to that frequency are used.
-
 However it is wise to fully check the specification.
-
 Basic BNC Specification Summary - Parameter - Specification - Cable Type
 Coaxial - Securing - Bayonet fit - Typical operating frequency range 0 -
 4 GHz Diameter (Male) 14.0 mm / 0.570 in - Diameter (Female) 11.1 mm /
 0.436 in[^08_Treske_Ch5_17]
-
+](imgs/Treske_Image5.png)
 
 
 [^08_Treske_Ch5_1]: Kalevi Kull, Jakob von Uexküll: An introduction, Semiotica, vol. 2001, no. 134, 2001, pp. 1-59, https://doi.org/10.1515/semi.2001.013.
@@ -4076,10 +4059,7 @@ This is Scotland in its most stunning form, as seen from the sky by a
 DJI Inspire 2. John Duncan has done it again with his new film Ancient
 Scotland.[^09_Treske_Ch6_21]
 
-![](imgs/Treske_Image6.png)
-
-Fig. 6. CO-EXIST WITH YOUR COAX
-
+![Fig. 6. CO-EXIST WITH YOUR COAX
 Finally a variety of BNC adapters and other ancillary items are
 available. One popular BNC adapter is the straight through adapter,
 allowing two cables with male connectors fitted to be connected end to
@@ -4088,49 +4068,23 @@ the bottom of the “T" and two female connections at either end of the
 horizontal of the "T". These are ideal for use with oscilloscopes where
 a through connection needs to be measured, and the "T" BNC adapter
 enables the required connections to be made.[^09_Treske_Ch6_22]
-
 The sockets or female BNC connectors also come in a number of flavours.
-The very basic BNC
-
-connector consists of a panel mounting assembly with a single connection
-for the coax centre. The earthing is then accomplished via the panel to
-which the connector is bolted using a single nut. Large washers can be
-used to provide an earth connection directly to the connector. Some of
-these connectors may also use four nuts and bolts to fix them to the
-panel. These arrangements are only suitable for low frequency
-applications, and not for RF. Where impedance matching and full
-screening is required. Most surveillance DVRs and CCTV cameras have BNC
-female output.
-
+The very basic BNC connector consists of a panel mounting assembly with a single connection
+for the coax centre. The earthing is then accomplished via the panel to which the connector is bolted using a single nut. Large washers can be used to provide an earth connection directly to the connector. Some of
+these connectors may also use four nuts and bolts to fix them to the panel. These arrangements are only suitable for low frequency applications, and not for RF. Where impedance matching and full screening is required. Most surveillance DVRs and CCTV cameras have BNC female output.
 There are two main variants of the BNC connector assembly method:
-
 • Compression gland type
-
 • Crimp type
-
-The compression gland type has the centre pin of the connector which is
-usually a solder pin and
-the braid and sheath of the cable are held by an expanding compression
-gland fixed by a nut at the rear of the connector. This type of
-connector by its nature can cope with a (limited) range of cable sizes
-and requires no specialised tooling to assemble. This makes it ideal for
-small quantity production, either for one off cables for laboratory use
-of for limited production runs.
-
-The crimp connector has the centre pin which is normally crimped to the
-centre conductor. This crimped pin is then pushed into position through an inner ferrule which
-separates the inner insulation sheath and the braid of the cable. An outer ferrule is then
-crimped over the braid and outer insulation which fixes the cable to the connector. Greater
-accuracy is required for the crimp style connectors and therefore the correct connector variant must be
-chosen for the cable being used. This may result in a crimp style connector not being practicable
-for some cable types. In addition to this the assembly requires the use of the correct crimping
-tools to ensure that the connector is correctly crimped. While these connectors are always
-preferred for large production runs because they are much faster to assemble, it is not possible for
-them to be reworked for obvious reasons.
-
+The compression gland type has the centre pin of the connector which is usually a solder pin and
+the braid and sheath of the cable are held by an expanding compression gland fixed by a nut at the rear of the connector. This type of connector by its nature can cope with a (limited) range of cable sizes
+and requires no specialised tooling to assemble. This makes it ideal for small quantity production, either for one off cables for laboratory use of for limited production runs.
+The crimp connector has the centre pin which is normally crimped to the centre conductor. This crimped pin is then pushed into position through an inner ferrule which separates the inner insulation sheath and the braid of the cable. An outer ferrule is then
+crimped over the braid and outer insulation which fixes the cable to the connector. Greater accuracy is required for the crimp style connectors and therefore the correct connector variant must be chosen for the cable being used. This may result in a crimp style connector not being practicable for some cable types. In addition to this the assembly requires the use of the correct crimping tools to ensure that the connector is correctly crimped. While these connectors are always
+preferred for large production runs because they are much faster to assemble, it is not possible for them to be reworked for obvious reasons.
 For both styles of BNC connector it is essential that the exact amount
 of insulation is stripped from each section to ensure accurate assembly
 and the required RF performance.[^09_Treske_Ch6_23].
+](imgs/Treske_Image6.png)
 
 [^09_Treske_Ch6_1]: Azadeh Emadi, Reconsidering the Substance of Digital Video from a Sadrian Perspective 79 Downloaded from http://direct.mit.edu/leon/article-pdf/53/1/75/1579572/leon\_a\_01602.pdf, accessed 26 April 2024.
 
@@ -4422,24 +4376,17 @@ attention scattered across an endless stream of fleeting moments. It's a
 shift that goes beyond just changing how we use technology; it’s
 changing how we think, feel, and connect with the world around us.
 
-![](imgs/Treske_Image7.png)
-
-Fig. 7. META-SCHAUEN OBSCUR
-
+![Fig. 7. META-SCHAUEN OBSCUR
 The fundamental event of the modern age is the conquest of the world as
 picture. The word *picture* *(Bild)* now means the structured image (*Gebild*) that is the
 creature of man's producing which represents and sets before. In such producing, man contends for
 the position in which he can be that particular being who gives the measure and draws up the
 guidelines for everything that is.[^10_Treske_Ch7_6]
-
 In *Du Mode d’Existence des Objets Techniques(On the mode of existence
 1958)*, Simondon showed us a new approach to the understanding of
-*technical objects*, and rethought the relation between humans and machines, cultures and technologies. Today we are
-witnessing the proliferation of types of object – digital objects in
-particular – while the very notions of object and objectivity are being transformed by digitizing processes.
-
-This has inevitable implications for experiences and concepts of
+*technical objects*, and rethought the relation between humans and machines, cultures and technologies. Today we are witnessing the proliferation of types of object – digital objects in particular – while the very notions of object and objectivity are being transformed by digitizing processes. This has inevitable implications for experiences and concepts of
 subjectivity, …[^10_Treske_Ch7_7]
+](imgs/Treske_Image7.png)
 
 [^10_Treske_Ch7_1]: Ansh Jain, The Swipe Culture,
     https://medium.com/@jainansh01/the-swipe-culture-15156d56e25, accessed 12 March 2025.
@@ -4975,29 +4922,20 @@ in-betweenness.
 
 Are we becoming strange to our world?
 
-![](imgs/Treske_Image8.png)
-
-Fig. 8. ANT-OOO
-
+![Fig. 8. ANT-OOO
 Graham Harman: Basic principles of OOO
-
 \(1) All objects must be given equal attention, whether they be human,
 non-human, natural, cultural, real or fictional.
-
 \(2) Objects are not identical with their properties, but have a tense
 relationship with those properties, and this very tension is responsible
 for all of the change that occurs in the world.
-
 \(3) Objects come in just two kinds: real objects exist whether or not
 they currently affect anything else, while sensual objects exist only in
 relation to some real object.
-
 \(4) Real objects cannot relate to one another directly, but only
 indirectly, by means of a sensual object.
-
 \(5) The properties of objects also come in just two kinds: again, real
 and sensual.[^11_Treske_Ch8_12]
-
 ANT - relations or connections between things (material) and concepts
 (semiotic); Technology/nature and social are together in a network of
 relational properties and acting potentials Actor-Networks are short
@@ -5005,31 +4943,26 @@ term, have a short life, are constantly becoming and reborn, some
 relations have to be constantly repeated otherwise the network would
 dissolve, … in other words social relations are always changing and have
 therefore constantly be built ….
-
 Deleuze and Guattari use an description of rhizomatics as a nomadic form
 of connections constantly in flux, ever becoming and leading off in a
 chaos of directions, this is a practice.
-
 Bruno Latour: ‘An actant can literally be anything provided it is
 granted to be the source of an action.’
-
 Graham Harman: 
->For Latour, we have nothing but our dealings with
+For Latour, we have nothing but our dealings with
 networks of objects; some may be nobler and others more base, but all
 are on the same ontological footing. Hence, for Latour there is no way
 to transcend the world, and it is no accident that the concept of
 nothingness plays no role whatsoever in his thinking.
-
 *If philosophy is to make any progress in the decades to come, it is
 vital that we consistently*
-
 *oppose Heidegger and side with Latour: against the ontological/ontic
 distinction, against the theory/ practice distinction, against the
 blanket contempt for mass-produced objects, against the idea that
 knowledge means transcendence of the world, against nothingness, and in
 favor of endless*
-
 *curiosity about all manner of specific beings.*[^11_Treske_Ch8_13]
+](imgs/Treske_Image8.png)
 
 [^11_Treske_Ch8_1]: Jill Walker Rettberg, Now objects perceive me: Art that interrogates machine vision, University of Bergen 2016.
 
@@ -5525,24 +5458,11 @@ movement that we can connect with through touch and sensation.
 > spent more time surrounded by non-figurative images is less likely
 > to.[^12_Treske_Ch9_15]
 
-![](imgs/Treske_Image9.png)
-Fig. 9. BREATH
-
-> The primal scene for what, in the Judo-Christian tradition, deserves
-> to be called inspiration, is the creation of humans - an event that
-> appears in the Genesis account in two versions: once as the final act
-> of the six-day work of creation, though it passes over the
-> life-breathing scene in silence, and once as the initiatory act for
-> all further creation, but now with an explicit emphasis on creation
-> through breath and with the characteristic distinction of clay
-> modeling in the first case and breathing in the second. Here the
-> reader of Genesis encounters the inspirator, the Lord of Creation, as
-> a figure with a sharp ontological profile: He is the first producer
-> with complete authority. The creature into which He breathes life, for
-> its part, appears on the stage of existence as the first human being,
-> the prototype of a species that can experience inspired ideas. The
-> biblical account of the first breath reproduces the original visit of
-> the spirit to a host medium.[^12_Treske_Ch9_16]
+![Fig. 9. BREATH
+The primal scene for what, in the Judo-Christian tradition, deserves to be called inspiration, is the creation of humans - an event that appears in the Genesis account in two versions: once as the final act
+of the six-day work of creation, though it passes over the life-breathing scene in silence, and once as the initiatory act for all further creation, but now with an explicit emphasis on creation through breath and with the characteristic distinction of clay modeling in the first case and breathing in the second. Here the reader of Genesis encounters the inspirator, the Lord of Creation, as a figure with a sharp ontological profile: He is the first producer with complete authority. The creature into which He breathes life, for its part, appears on the stage of existence as the first human being, the prototype of a species that can experience inspired ideas. The biblical account of the first breath reproduces the original visit of
+the spirit to a host medium.[^12_Treske_Ch9_16]
+](imgs/Treske_Image9.png)
 
 [^12_Treske_Ch9_1]: Manlio Brusatin, Geschichte der Linien. Aus dem Ital. übers. von Sabine Schulz. Berlin: Diaphanes. 2003: 12.
 
@@ -5719,13 +5639,10 @@ Concentration - Conditioning - Celebration[^13_Treske_Ch10_2]
 
 We need to concentrate. We need to repeat. We need to have fun.
 
-![](imgs/Treske_Image10.png)
-
-Fig. 10. ALL THINGS MOVE
-
-> ‘All things move, all things run, all things are rapidly changing.’
->
-> - From the Manifesto of Futurist Painters, April 1910
+![Fig. 10. ALL THINGS MOVE
+‘All things move, all things run, all things are rapidly changing.’
+- From the Manifesto of Futurist Painters, April 1910
+](imgs/Treske_Image10.png)
 
 [^13_Treske_Ch10_1]: Edward De Bono, Water Logic, London: Penguin 1993.
 
@@ -5893,16 +5810,13 @@ function of visual economies in our present world must consider the
 financial logic that structures the relationship between cinema and
 money, between video technologies and capital.
 
-![](imgs/Treske_Image11.png)
-Fig. 11. DOMAIN
-
+![Fig. 11. DOMAIN
 Transformers is a media franchise produced by American toy company Hasbro and Japanese toy company Takara Tomy. Initially a line of transforming mecha toys
 rebranded from Takara's Diaclone and Microman toylines, the franchise began in 1984 with the Transformers toy line, and centers on factions of self-configuring modular extraterrestrial robotic lifeforms in an
 endless civil war for dominance or eventual peace. In its history, the Transformers robot superhero franchise has expanded to encompass comic books, animation, video games and films. Marvel’s cinematic universe -
 Construct a fully furnished world and then gradually reveal the space/ mythology of that world. Gradually revealing a world’s hyperdiegesis and
 borrowing the spatial configuration of video games creates an environment that encourages exploration. This environment propels hard-core fans to seek out more information, draw connections, and gain
 a better understanding of the fictional world. At the same time, casual fans can imagine a vast expanse while focusing on the characters and main events of the show.[^14_Treske_Ch11_8]
-
 Where diegesis is the narrative world seen by audiences, Matt Hill’s
 hyperdiegesis is *the creation of a vast and detailed narrative space, only a fraction of which is
 ever directly seen or encountered within the text, but which nonetheless appears to operate according to
@@ -5912,6 +5826,7 @@ places (Maps included in Lord of the Rings books), and events (“Vatican cameos
 in future episodes, fan productions are used to fill them in the meantime. The hyperdiegesis provides a coherent world and the rules of operations by which it works, rules that fans must abide by when they
 choose to explore the world themselves. While a show’s hyperdiegesis needs to remain consistent to maintain the trust of its audience, Hill believes that producers must ‘play with their own established rules and
 norms… in order to preserve audience interest’.[^14_Treske_Ch11_9]
+](imgs/Treske_Image11.png)
 
 [^14_Treske_Ch11_1]: James Bridle, New Dark Age: Technology and the End of the Future, Verso 2018.
 
@@ -6531,13 +6446,10 @@ extraordinary precision.
 > phenomenon on the social body varies according to the role it plays in
 > the communication chain.[^15_Treske_Ch12_28]
 
-![](imgs/Treske_Image12.png)
-
-Fig. 12. YOU
-
-> *Now objects perceive me*, the painter Paul Klee wrote in his Notebooks. This rather startling assertion has recently become objective fact, the truth. After all, aren't they talking about producing a *vision machine* in the near future, a machine that would
-> be capable not only of recognising the contours of shapes, but also of completely interpreting the visual field, of staging a complex environment close-up or at a distance? Aren't they also talking about the new technology of *visionics*: the possibility of achieving sightless vision whereby the video camera would be controlled by a computer? The computer would be responsible for the machine's - rather than the televiewer's - capacity to analyse the ambient environment and automatically interpret the meaning of events. Such technology would be used in industrial production and stock control; in military robotics, too, perhaps.[^15_Treske_Ch12_29]
+![Fig. 12. YOU
+ *Now objects perceive me*, the painter Paul Klee wrote in his Notebooks. This rather startling assertion has recently become objective fact, the truth. After all, aren't they talking about producing a *vision machine* in the near future, a machine that would be capable not only of recognising the contours of shapes, but also of completely interpreting the visual field, of staging a complex environment close-up or at a distance? Aren't they also talking about the new technology of *visionics*: the possibility of achieving sightless vision whereby the video camera would be controlled by a computer? The computer would be responsible for the machine's - rather than the televiewer's - capacity to analyse the ambient environment and automatically interpret the meaning of events. Such technology would be used in industrial production and stock control; in military robotics, too, perhaps.[^15_Treske_Ch12_29]
 —Paul Virilio
+](imgs/Treske_Image12.png)
 
 [^15_Treske_Ch12_1]: Travis Sharrow, Unveiling the Brilliance: The Truth Behind Why Smartphones are Encased in Glass, Softandtech March 25, 2024.
     https://softhandtech.com/why-do-smartphones-have-glass/
@@ -6697,11 +6609,10 @@ Clair obscure.
 
 
 
-![](imgs/Treske_Image13.png)
-Fig. 13. UTOPIA
-> It is not as if the world has not long, long been one in which vast numbers live in dystopian depredation. The horizon is more visible now to many who had thought themselves insulated, if they thought about it at all. And dystopia for some is utopia for others. To repeat something I have said elsewhere, we live in a utopia: it just isn’t ours.
-> 
+![Fig. 13. UTOPIA
+It is not as if the world has not long, long been one in which vast numbers live in dystopian depredation. The horizon is more visible now to many who had thought themselves insulated, if they thought about it at all. And dystopia for some is utopia for others. To repeat something I have said elsewhere, we live in a utopia: it just isn’t ours.
 —China Miéville[^16_Treske_Ch13_3]
+](imgs/Treske_Image13.png)
 
 [^16_Treske_Ch13_1]: American Cinematographer: George Lucas Interview Interview by Ron Magid. https://theasc.com/magazine/sep02/exploring/, accessed 1 December 2024.
 
@@ -7270,11 +7181,10 @@ environment devoid of information that representations of secondary
 order perpetually reproduce. Information, for Bateson, was a difference
 that makes a difference[^18_Treske_Ch15_10]. Whereas what generative AI produces is a
 simulation that resembles the same just enough to be able to substitute
-it, or reconfigure the parts of the same just enough to create an
-illusion of the new.
+it, or reconfigure the parts of the same just enough to create an illusion of the new.
 
-![](imgs/Treske_Image14.png)
-Fig. 14. UNKNOWN
+![Fig. 14. UNKNOWN
+](imgs/Treske_Image14.png)
 
 [^18_Treske_Ch15_1]: John Fiske and John Hartley, Reading Television, Routledge, London and New York 1988: 21.
 
@@ -7618,8 +7528,8 @@ by our feelings.
 > replicate the appearance and mundane functionality of celluloid
 > embodied narratives, the dominant narratives of the 20th century.[^19_Treske_Ch16_7]
 
-![](imgs/Treske_Image15.png)
-Fig. 15. UNKNOWN CLOSER
+![Fig. 15. UNKNOWN CLOSER
+](imgs/Treske_Image15.png)
 
 [^19_Treske_Ch16_1]: Ludwig Wittgenstein, Remarks on the Philosophy of Psychology, Oxford, 1980, vol. i, Remark 257.
 
@@ -7668,11 +7578,10 @@ Repeat this etude frequently!
 
 **Enjoy!**
 
-![](imgs/Treske_Image16.png)
+![Fig. 16. BARBARIAN NON-CINEMATIC MEDIA THEORY
+ …](imgs/Treske_Image16.png)
 
-Fig. 16. BARBARIAN NON-CINEMATIC MEDIA THEORY
 
- …
 
 
 # LOG:: 17 BNC-MT
@@ -8312,7 +8221,7 @@ Friedberg, Anne. Window Shopping: Cinema and the Postmodern. Berkeley: Universit
 Gadamer, Hans-Georg. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik. Tübingen: Mohr Siebeck, 2010 \[1960\]
 
 Ganofsky, M. Libertine Clairs-Obscurs: The Enticement of the Shadows. J 18th Cent Stud, 37: 499-515. 2014.
-[*https://doi.org/10.1111/1754-0208.12203*](https://doi.org/10.1111/1754-0208.12203)
+(https://doi.org/10.1111/1754-0208.12203)
 
 Glass! Love!! Perpetual Motion!!! A Paul Scheerbart Reader. Edited by Josiah McElheny and Christine Burgin. University of Chicago 2014.
 
@@ -8353,7 +8262,7 @@ Hickethier, Knut: Dispositiv Fernsehen. Skizze eines Modells. In: montage AV. Ze
 Hitchcock, Henry-Russell and Johnson, Philip. The International Style. New York: W. W. Norton, 1995.
 
 Hui, Yuk. A Tourist in the Königsberger’s Dream: Review of Hiroki Azuma’s Philosophy of the Tourist,
-[*https://webgenron.com/articles/article20230310\_01*](https://webgenron.com/articles/article20230310_01)
+(https://webgenron.com/articles/article20230310_01)
 
 \_\_\_\_\_. What is a digital object? Metaphilosophy, vol. 43, no. 4, 2012, pp. 380–95. JSTOR, http://www.jstor.org/stable/24441843. Accessed
 9 Jan. 2025.
@@ -8436,7 +8345,7 @@ Manovich, Lev. The Language of New Media, 1st ed. Cambridge, MA: MIT Press, 2002
 \_\_\_\_\_. AI Aesthetics. Moscow: Strelka Press, 2019
 
 Manovich, Lev and Arielli, Emmanuele. Artificial Aesthetics: Generative AI, Art and Visual Media. 2021-2024.
-[*https://manovich.net/index.php/projects/artificial-aesthetics*](https://manovich.net/index.php/projects/artificial-aesthetics)
+https://manovich.net/index.php/projects/artificial-aesthetics
 
 Marino, Oliver. Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University
 of Westminster.
@@ -8621,3 +8530,7 @@ Zeki, Semir. Inner Vision: An Exploration of Art and the Brain. Oxford, New York
 
 Zielinski, Siegfried. Deep Time of the Media: Toward an Archaeology of Hearing and Seeing by Technical Means. Cambridge: MIT Press, 2006.
 
+
+
+
+![](imgs/bbackcover2.jpg)

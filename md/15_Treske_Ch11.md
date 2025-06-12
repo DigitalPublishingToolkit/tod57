@@ -177,16 +177,13 @@ function of visual economies in our present world must consider the
 financial logic that structures the relationship between cinema and
 money, between video technologies and capital.
 
-![](imgs/Treske_Image11.png)
-Fig. 11. DOMAIN
-
+![Fig. 11. DOMAIN
 Transformers is a media franchise produced by American toy company Hasbro and Japanese toy company Takara Tomy. Initially a line of transforming mecha toys
 rebranded from Takara's Diaclone and Microman toylines, the franchise began in 1984 with the Transformers toy line, and centers on factions of self-configuring modular extraterrestrial robotic lifeforms in an
 endless civil war for dominance or eventual peace. In its history, the Transformers robot superhero franchise has expanded to encompass comic books, animation, video games and films. Marvel’s cinematic universe -
 Construct a fully furnished world and then gradually reveal the space/ mythology of that world. Gradually revealing a world’s hyperdiegesis and
 borrowing the spatial configuration of video games creates an environment that encourages exploration. This environment propels hard-core fans to seek out more information, draw connections, and gain
 a better understanding of the fictional world. At the same time, casual fans can imagine a vast expanse while focusing on the characters and main events of the show.[^14_Treske_Ch11_8]
-
 Where diegesis is the narrative world seen by audiences, Matt Hill’s
 hyperdiegesis is *the creation of a vast and detailed narrative space, only a fraction of which is
 ever directly seen or encountered within the text, but which nonetheless appears to operate according to
@@ -196,6 +193,7 @@ places (Maps included in Lord of the Rings books), and events (“Vatican cameos
 in future episodes, fan productions are used to fill them in the meantime. The hyperdiegesis provides a coherent world and the rules of operations by which it works, rules that fans must abide by when they
 choose to explore the world themselves. While a show’s hyperdiegesis needs to remain consistent to maintain the trust of its audience, Hill believes that producers must ‘play with their own established rules and
 norms… in order to preserve audience interest’.[^14_Treske_Ch11_9]
+](imgs/Treske_Image11.png)
 
 [^14_Treske_Ch11_1]: James Bridle, New Dark Age: Technology and the End of the Future, Verso 2018.
 

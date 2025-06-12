@@ -257,24 +257,17 @@ attention scattered across an endless stream of fleeting moments. It's a
 shift that goes beyond just changing how we use technology; it’s
 changing how we think, feel, and connect with the world around us.
 
-![](imgs/Treske_Image7.png)
-
-Fig. 7. META-SCHAUEN OBSCUR
-
+![Fig. 7. META-SCHAUEN OBSCUR
 The fundamental event of the modern age is the conquest of the world as
 picture. The word *picture* *(Bild)* now means the structured image (*Gebild*) that is the
 creature of man's producing which represents and sets before. In such producing, man contends for
 the position in which he can be that particular being who gives the measure and draws up the
 guidelines for everything that is.[^10_Treske_Ch7_6]
-
 In *Du Mode d’Existence des Objets Techniques(On the mode of existence
 1958)*, Simondon showed us a new approach to the understanding of
-*technical objects*, and rethought the relation between humans and machines, cultures and technologies. Today we are
-witnessing the proliferation of types of object – digital objects in
-particular – while the very notions of object and objectivity are being transformed by digitizing processes.
-
-This has inevitable implications for experiences and concepts of
+*technical objects*, and rethought the relation between humans and machines, cultures and technologies. Today we are witnessing the proliferation of types of object – digital objects in particular – while the very notions of object and objectivity are being transformed by digitizing processes. This has inevitable implications for experiences and concepts of
 subjectivity, …[^10_Treske_Ch7_7]
+](imgs/Treske_Image7.png)
 
 [^10_Treske_Ch7_1]: Ansh Jain, The Swipe Culture,
     https://medium.com/@jainansh01/the-swipe-culture-15156d56e25, accessed 12 March 2025.

@@ -824,10 +824,7 @@ Taylor Swift does not exist.[^05_Treske_Ch2_30]
 
 What was your safety question about?
 
-![](imgs/Treske_image2.png)
-
-Fig. 2. BABY N
-
+![Fig. 2. BABY N
 The BNC connector is a miniature quick connect/disconnect radio
 frequency connector used for coaxial cable. It features two bayonet lugs
 on the female connector; mating is fully achieved with a quarter turn of
@@ -840,19 +837,18 @@ acronym BNC has been mistakenly believed to stand for British Naval
 Connector, Bayonet Nut Connector, and Baby N connector. BNCs are suited
 to accommodate a large variety of RG and industry standard cables, in a
 variety of termination styles.
-
 • Bayonet coupling mechanism provides positive, quick mating and
 un-mating
-
 • 50 Ω and 75 Ω impedance designs allow customers to match impedance to
 system requirements
-
 • Connectors are available for military, industrial and commercial
 applications.[^05_Treske_Ch2_31]
-
 In earlier computer networks, BNC connectors with coaxial cables were
 used in Ethernet networks, but Ethernet networks are now more commonly
-connected by RJ45 connectors and CAT5-style cables.[^05_Treske_Ch2_32]
+connected by RJ45 connectors and CAT5-style cables.
+[^05_Treske_Ch2_32]
+](imgs/Treske_image2.png)
+
 
 [^05_Treske_Ch2_1]: Tony Oursler, Video Dolls with Tracy Leipold, Hirshhorm Museum and
     Sculpture Garden. 2012,

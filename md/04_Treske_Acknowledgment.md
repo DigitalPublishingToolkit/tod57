@@ -30,8 +30,7 @@ everyone in passage.
 My heartfelt gratitude to Geert Lovink, Aras Ozgün, and Lale Gülden
 Treske. Thank you.
 
-Many thanks to Will Day for looking over my notes and fragmented
-writing.
+Many thanks to Will Day for looking over my notes and fragmented writing.
 
 Thanks also to Melih Aydınat for processing my images.
 

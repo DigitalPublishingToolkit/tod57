@@ -534,29 +534,20 @@ in-betweenness.
 
 Are we becoming strange to our world?
 
-![](imgs/Treske_Image8.png)
-
-Fig. 8. ANT-OOO
-
+![Fig. 8. ANT-OOO
 Graham Harman: Basic principles of OOO
-
 \(1) All objects must be given equal attention, whether they be human,
 non-human, natural, cultural, real or fictional.
-
 \(2) Objects are not identical with their properties, but have a tense
 relationship with those properties, and this very tension is responsible
 for all of the change that occurs in the world.
-
 \(3) Objects come in just two kinds: real objects exist whether or not
 they currently affect anything else, while sensual objects exist only in
 relation to some real object.
-
 \(4) Real objects cannot relate to one another directly, but only
 indirectly, by means of a sensual object.
-
 \(5) The properties of objects also come in just two kinds: again, real
 and sensual.[^11_Treske_Ch8_12]
-
 ANT - relations or connections between things (material) and concepts
 (semiotic); Technology/nature and social are together in a network of
 relational properties and acting potentials Actor-Networks are short
@@ -564,31 +555,26 @@ term, have a short life, are constantly becoming and reborn, some
 relations have to be constantly repeated otherwise the network would
 dissolve, … in other words social relations are always changing and have
 therefore constantly be built ….
-
 Deleuze and Guattari use an description of rhizomatics as a nomadic form
 of connections constantly in flux, ever becoming and leading off in a
 chaos of directions, this is a practice.
-
 Bruno Latour: ‘An actant can literally be anything provided it is
 granted to be the source of an action.’
-
 Graham Harman: 
->For Latour, we have nothing but our dealings with
+For Latour, we have nothing but our dealings with
 networks of objects; some may be nobler and others more base, but all
 are on the same ontological footing. Hence, for Latour there is no way
 to transcend the world, and it is no accident that the concept of
 nothingness plays no role whatsoever in his thinking.
-
 *If philosophy is to make any progress in the decades to come, it is
 vital that we consistently*
-
 *oppose Heidegger and side with Latour: against the ontological/ontic
 distinction, against the theory/ practice distinction, against the
 blanket contempt for mass-produced objects, against the idea that
 knowledge means transcendence of the world, against nothingness, and in
 favor of endless*
-
 *curiosity about all manner of specific beings.*[^11_Treske_Ch8_13]
+](imgs/Treske_Image8.png)
 
 [^11_Treske_Ch8_1]: Jill Walker Rettberg, Now objects perceive me: Art that interrogates machine vision, University of Bergen 2016.
 

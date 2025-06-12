@@ -200,7 +200,7 @@ Friedberg, Anne. Window Shopping: Cinema and the Postmodern. Berkeley: Universit
 Gadamer, Hans-Georg. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik. Tübingen: Mohr Siebeck, 2010 \[1960\]
 
 Ganofsky, M. Libertine Clairs-Obscurs: The Enticement of the Shadows. J 18th Cent Stud, 37: 499-515. 2014.
-[*https://doi.org/10.1111/1754-0208.12203*](https://doi.org/10.1111/1754-0208.12203)
+(https://doi.org/10.1111/1754-0208.12203)
 
 Glass! Love!! Perpetual Motion!!! A Paul Scheerbart Reader. Edited by Josiah McElheny and Christine Burgin. University of Chicago 2014.
 
@@ -241,7 +241,7 @@ Hickethier, Knut: Dispositiv Fernsehen. Skizze eines Modells. In: montage AV. Ze
 Hitchcock, Henry-Russell and Johnson, Philip. The International Style. New York: W. W. Norton, 1995.
 
 Hui, Yuk. A Tourist in the Königsberger’s Dream: Review of Hiroki Azuma’s Philosophy of the Tourist,
-[*https://webgenron.com/articles/article20230310\_01*](https://webgenron.com/articles/article20230310_01)
+(https://webgenron.com/articles/article20230310_01)
 
 \_\_\_\_\_. What is a digital object? Metaphilosophy, vol. 43, no. 4, 2012, pp. 380–95. JSTOR, http://www.jstor.org/stable/24441843. Accessed
 9 Jan. 2025.
@@ -324,7 +324,7 @@ Manovich, Lev. The Language of New Media, 1st ed. Cambridge, MA: MIT Press, 2002
 \_\_\_\_\_. AI Aesthetics. Moscow: Strelka Press, 2019
 
 Manovich, Lev and Arielli, Emmanuele. Artificial Aesthetics: Generative AI, Art and Visual Media. 2021-2024.
-[*https://manovich.net/index.php/projects/artificial-aesthetics*](https://manovich.net/index.php/projects/artificial-aesthetics)
+https://manovich.net/index.php/projects/artificial-aesthetics
 
 Marino, Oliver. Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University
 of Westminster.

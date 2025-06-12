@@ -247,11 +247,10 @@ environment devoid of information that representations of secondary
 order perpetually reproduce. Information, for Bateson, was a difference
 that makes a difference[^18_Treske_Ch15_10]. Whereas what generative AI produces is a
 simulation that resembles the same just enough to be able to substitute
-it, or reconfigure the parts of the same just enough to create an
-illusion of the new.
+it, or reconfigure the parts of the same just enough to create an illusion of the new.
 
-![](imgs/Treske_Image14.png)
-Fig. 14. UNKNOWN
+![Fig. 14. UNKNOWN
+](imgs/Treske_Image14.png)
 
 [^18_Treske_Ch15_1]: John Fiske and John Hartley, Reading Television, Routledge, London and New York 1988: 21.
 

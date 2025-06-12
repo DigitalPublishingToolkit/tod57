@@ -423,10 +423,7 @@ This is Scotland in its most stunning form, as seen from the sky by a
 DJI Inspire 2. John Duncan has done it again with his new film Ancient
 Scotland.[^09_Treske_Ch6_21]
 
-![](imgs/Treske_Image6.png)
-
-Fig. 6. CO-EXIST WITH YOUR COAX
-
+![Fig. 6. CO-EXIST WITH YOUR COAX
 Finally a variety of BNC adapters and other ancillary items are
 available. One popular BNC adapter is the straight through adapter,
 allowing two cables with male connectors fitted to be connected end to
@@ -435,49 +432,23 @@ the bottom of the “T" and two female connections at either end of the
 horizontal of the "T". These are ideal for use with oscilloscopes where
 a through connection needs to be measured, and the "T" BNC adapter
 enables the required connections to be made.[^09_Treske_Ch6_22]
-
 The sockets or female BNC connectors also come in a number of flavours.
-The very basic BNC
-
-connector consists of a panel mounting assembly with a single connection
-for the coax centre. The earthing is then accomplished via the panel to
-which the connector is bolted using a single nut. Large washers can be
-used to provide an earth connection directly to the connector. Some of
-these connectors may also use four nuts and bolts to fix them to the
-panel. These arrangements are only suitable for low frequency
-applications, and not for RF. Where impedance matching and full
-screening is required. Most surveillance DVRs and CCTV cameras have BNC
-female output.
-
+The very basic BNC connector consists of a panel mounting assembly with a single connection
+for the coax centre. The earthing is then accomplished via the panel to which the connector is bolted using a single nut. Large washers can be used to provide an earth connection directly to the connector. Some of
+these connectors may also use four nuts and bolts to fix them to the panel. These arrangements are only suitable for low frequency applications, and not for RF. Where impedance matching and full screening is required. Most surveillance DVRs and CCTV cameras have BNC female output.
 There are two main variants of the BNC connector assembly method:
-
 • Compression gland type
-
 • Crimp type
-
-The compression gland type has the centre pin of the connector which is
-usually a solder pin and
-the braid and sheath of the cable are held by an expanding compression
-gland fixed by a nut at the rear of the connector. This type of
-connector by its nature can cope with a (limited) range of cable sizes
-and requires no specialised tooling to assemble. This makes it ideal for
-small quantity production, either for one off cables for laboratory use
-of for limited production runs.
-
-The crimp connector has the centre pin which is normally crimped to the
-centre conductor. This crimped pin is then pushed into position through an inner ferrule which
-separates the inner insulation sheath and the braid of the cable. An outer ferrule is then
-crimped over the braid and outer insulation which fixes the cable to the connector. Greater
-accuracy is required for the crimp style connectors and therefore the correct connector variant must be
-chosen for the cable being used. This may result in a crimp style connector not being practicable
-for some cable types. In addition to this the assembly requires the use of the correct crimping
-tools to ensure that the connector is correctly crimped. While these connectors are always
-preferred for large production runs because they are much faster to assemble, it is not possible for
-them to be reworked for obvious reasons.
-
+The compression gland type has the centre pin of the connector which is usually a solder pin and
+the braid and sheath of the cable are held by an expanding compression gland fixed by a nut at the rear of the connector. This type of connector by its nature can cope with a (limited) range of cable sizes
+and requires no specialised tooling to assemble. This makes it ideal for small quantity production, either for one off cables for laboratory use of for limited production runs.
+The crimp connector has the centre pin which is normally crimped to the centre conductor. This crimped pin is then pushed into position through an inner ferrule which separates the inner insulation sheath and the braid of the cable. An outer ferrule is then
+crimped over the braid and outer insulation which fixes the cable to the connector. Greater accuracy is required for the crimp style connectors and therefore the correct connector variant must be chosen for the cable being used. This may result in a crimp style connector not being practicable for some cable types. In addition to this the assembly requires the use of the correct crimping tools to ensure that the connector is correctly crimped. While these connectors are always
+preferred for large production runs because they are much faster to assemble, it is not possible for them to be reworked for obvious reasons.
 For both styles of BNC connector it is essential that the exact amount
 of insulation is stripped from each section to ensure accurate assembly
 and the required RF performance.[^09_Treske_Ch6_23].
+](imgs/Treske_Image6.png)
 
 [^09_Treske_Ch6_1]: Azadeh Emadi, Reconsidering the Substance of Digital Video from a Sadrian Perspective 79 Downloaded from http://direct.mit.edu/leon/article-pdf/53/1/75/1579572/leon\_a\_01602.pdf, accessed 26 April 2024.
 

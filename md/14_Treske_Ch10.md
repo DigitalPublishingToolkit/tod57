@@ -158,13 +158,10 @@ Concentration - Conditioning - Celebration[^13_Treske_Ch10_2]
 
 We need to concentrate. We need to repeat. We need to have fun.
 
-![](imgs/Treske_Image10.png)
-
-Fig. 10. ALL THINGS MOVE
-
-> ‘All things move, all things run, all things are rapidly changing.’
->
-> - From the Manifesto of Futurist Painters, April 1910
+![Fig. 10. ALL THINGS MOVE
+‘All things move, all things run, all things are rapidly changing.’
+- From the Manifesto of Futurist Painters, April 1910
+](imgs/Treske_Image10.png)
 
 [^13_Treske_Ch10_1]: Edward De Bono, Water Logic, London: Penguin 1993.
 
