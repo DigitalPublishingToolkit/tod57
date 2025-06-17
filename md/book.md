@@ -14,7 +14,7 @@ Heaven's Delight: On The Pleasures of Audiovisual Practices  <br/>
 Edited by: Will Day <br/>
 Author: Andreas Treske <br/>
 Cover Design: Katja van Stiphout <br/>
-Production: Anielek Niemyjski <br/> Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
+Design and EPUB development: Anielek Niemyjski <br/> Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
 ISBN 9789083520933  
   
 Contact  Institute of Network Cultures Amsterdam University of Applied Sciences (HvA) <br/> Email: [info@networkcultures.org](mailto:info@networkcultures.org) <br/>
@@ -1414,11 +1414,11 @@ acronym BNC has been mistakenly believed to stand for British Naval
 Connector, Bayonet Nut Connector, and Baby N connector. BNCs are suited
 to accommodate a large variety of RG and industry standard cables, in a
 variety of termination styles.
-• Bayonet coupling mechanism provides positive, quick mating and
+(1) Bayonet coupling mechanism provides positive, quick mating and
 un-mating
-• 50 Ω and 75 Ω impedance designs allow customers to match impedance to
+(2) 50 Ω and 75 Ω impedance designs allow customers to match impedance to
 system requirements
-• Connectors are available for military, industrial and commercial
+(3) Connectors are available for military, industrial and commercial
 applications.[^05_Treske_Ch2_31]
 In earlier computer networks, BNC connectors with coaxial cables were
 used in Ethernet networks, but Ethernet networks are now more commonly
@@ -3599,12 +3599,10 @@ various networking components. BNC connectors use a twist-and-lock
 mechanism that provides a secure connection between network cabling and
 components. BNC connectors are typically used on 10Base2 Ethernet
 networks. The different types of BNC connectors include the following:
-* • BNC cable connector: Soldered or crimped to the ends of a thinnet
-cable
-* • BNC T-connector: Used to connect a network interface card (NIC) to a
-thinnet cable segment
-* • BNC barrel connector: Used to connect two pieces of thinnet cable
-* • BNC terminator: Provides a 50-ohm termination for the free end of a thinnet cable4
+(1) BNC cable connector: Soldered or crimped to the ends of a thinnet cable
+(2) BNC T-connector: Used to connect a network interface card (NIC) to a thinnet cable segment
+(3) BNC barrel connector: Used to connect two pieces of thinnet cable
+(4) BNC terminator: Provides a 50-ohm termination for the free end of a thinnet cable4
 Often the BNC connector is specified for operation at frequencies up to
 4 GHz and it can be used up to 10 GHz provided the special top quality
 versions specified to that frequency are used.
@@ -4073,8 +4071,8 @@ The very basic BNC connector consists of a panel mounting assembly with a single
 for the coax centre. The earthing is then accomplished via the panel to which the connector is bolted using a single nut. Large washers can be used to provide an earth connection directly to the connector. Some of
 these connectors may also use four nuts and bolts to fix them to the panel. These arrangements are only suitable for low frequency applications, and not for RF. Where impedance matching and full screening is required. Most surveillance DVRs and CCTV cameras have BNC female output.
 There are two main variants of the BNC connector assembly method:
-• Compression gland type
-• Crimp type
+(1) Compression gland type
+(2) Crimp type
 The compression gland type has the centre pin of the connector which is usually a solder pin and
 the braid and sheath of the cable are held by an expanding compression gland fixed by a nut at the rear of the connector. This type of connector by its nature can cope with a (limited) range of cable sizes
 and requires no specialised tooling to assemble. This makes it ideal for small quantity production, either for one off cables for laboratory use of for limited production runs.
@@ -4382,7 +4380,7 @@ picture. The word *picture* *(Bild)* now means the structured image (*Gebild*) t
 creature of man's producing which represents and sets before. In such producing, man contends for
 the position in which he can be that particular being who gives the measure and draws up the
 guidelines for everything that is.[^10_Treske_Ch7_6]
-In *Du Mode d’Existence des Objets Techniques(On the mode of existence
+In *Du Mode d’Existence des Objets Techniques (On the mode of existence
 1958)*, Simondon showed us a new approach to the understanding of
 *technical objects*, and rethought the relation between humans and machines, cultures and technologies. Today we are witnessing the proliferation of types of object – digital objects in particular – while the very notions of object and objectivity are being transformed by digitizing processes. This has inevitable implications for experiences and concepts of
 subjectivity, …[^10_Treske_Ch7_7]

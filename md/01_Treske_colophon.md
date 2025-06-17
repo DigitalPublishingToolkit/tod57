@@ -22,7 +22,7 @@ Heaven's Delight: On The Pleasures of Audiovisual Practices  <br/>
 Edited by: Will Day <br/>
 Author: Andreas Treske <br/>
 Cover Design: Katja van Stiphout <br/>
-Production: Anielek Niemyjski <br/> Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
+Design and EPUB development: Anielek Niemyjski <br/> Published by the Institute of Network Cultures, Amsterdam, 2025 <br/>
 ISBN 9789083520933  
   
 Contact  Institute of Network Cultures Amsterdam University of Applied Sciences (HvA) <br/> Email: [info@networkcultures.org](mailto:info@networkcultures.org) <br/>

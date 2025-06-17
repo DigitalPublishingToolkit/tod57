@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.3(73)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(52)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.3" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch4" />
@@ -397,7 +397,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>SO CUTE</Content>
+				<Content>So Cute</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -823,7 +823,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Oliver Marino, Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University of Westminster, https://westminsterresearch.westminster.ac.uk/download/3efa6c34f14faefd556f244c01f6c28b2efa3ddc0852eba61cb3955b6f259d72/3773962/E-ThesisSubmission.pdf, accessed 12 March 2025</Content>
+							<Content><?ACE 4?>	Oliver Marino, Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University of Westminster, https://westminsterresearch.westminster.ac.uk/download/3efa6c34f14faefd556f244c01f6c28b2efa3ddc0852eba61cb3955b6f259d72/3773962/E-ThesisSubmission.pdf, accessed 12 March 2025.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -841,7 +841,7 @@
 							<Content><?ACE 4?>	M. Hauskeller, Promethean Shame and the Engineering of Love. In: Sex and the Posthuman Condition. Palgrave Pivot, London 2014. </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>https://doi.org/10.1057/9781137393500_4</Content>
+							<Content>https://doi.org/10.1057/9781137393500_4.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -874,7 +874,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Harvard Review of Philosophy Lecture: Babette Babich (Fordham University). Günther Anders’ &apos;Promethean Shame&apos;: Technological Ressentiment and Surveillance. https://philosophy.fas.harvard.edu/event/harvard-review-philosophy-annual-lecture-babette-babich-fordham-university</Content>
+							<Content><?ACE 4?>	Harvard Review of Philosophy Lecture: Babette Babich (Fordham University). Günther Anders’ &apos;Promethean Shame&apos;: Technological Ressentiment and Surveillance. https://philosophy.fas.harvard.edu/event/harvard-review-philosophy-annual-lecture-babette-babich-fordham-university.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>

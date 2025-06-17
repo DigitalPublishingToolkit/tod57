@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.3(73)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(52)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.3" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch4" />
@@ -529,7 +529,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Daniel Irizarry, Mouthgasm, Angora Rabbit. Bilkent 2016</Content>
+							<Content><?ACE 4?>	Daniel Irizarry, Mouthgasm, Angora Rabbit. Bilkent 2016.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -545,7 +545,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Br />
-				<Content>Video is a cybernetic medium</Content>
+				<Content>Video is a Cybernetic Medium</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -691,7 +691,7 @@
 							<Content><?ACE 4?>	Google Translate: </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>We say that every brave man has his own way of eating yoghurt, but we do not say that every yoghurt has a different way of being eaten by a brave man… ;-)</Content>
+							<Content>We say that every brave man has his own way of eating yoghurt, but we do not say that every yoghurt has a different way of being eaten by a brave man… ;-).</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -774,7 +774,7 @@
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-				<Content>The GAP</Content>
+				<Content>The Gap</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -891,7 +891,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Spinoza. Ethics, Book III, Proposition 57</Content>
+							<Content><?ACE 4?>	Spinoza. Ethics, Book III, Proposition 57.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -933,7 +933,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Facebook note</Content>
+							<Content><?ACE 4?>	Facebook note.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>

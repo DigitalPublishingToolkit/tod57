@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.3(73)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(52)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.3" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch4" />
@@ -508,7 +508,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	David Pierce. YouTube is a hit on TVs — and is starting to act like it. The Verge, https://www.theverge.com/2024/12/11/24318434/youtube-living-room-tv-growth-2024, 20 December 2024</Content>
+							<Content><?ACE 4?>	David Pierce. YouTube is a hit on TVs — and is starting to act like it. The Verge, https://www.theverge.com/2024/12/11/24318434/youtube-living-room-tv-growth-2024, 20 December 2024.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -521,7 +521,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Chris Stokel-Walker. YouTube is taking over TV, https://www.fastcompany.com/91246335/youtube-is-taking-over-tv, 20 December 2024</Content>
+							<Content><?ACE 4?>	Chris Stokel-Walker. YouTube is taking over TV, https://www.fastcompany.com/91246335/youtube-is-taking-over-tv, 20 December 2024.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -553,7 +553,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Redefining Televisuality: Programmes, Practices, Methods. International conference. ECREA Television Section Conference 2023. Filmuniversität Babelsberg Konrad Wolf, Potsdam, 25-27 October 2023, https://www.consultacinema.org/2023/02/27/redefining-televisuality-programmes-practices-methods/</Content>
+							<Content><?ACE 4?>	Redefining Televisuality: Programmes, Practices, Methods. International conference. ECREA Television Section Conference 2023. Filmuniversität Babelsberg Konrad Wolf, Potsdam, 25-27 October 2023, https://www.consultacinema.org/2023/02/27/redefining-televisuality-programmes-practices-methods/.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -640,7 +640,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The Force again</Content>
+				<Content>The Force Again</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -660,7 +660,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Paolo Carpignano, Televisuality, 31 July 1997. Via Wayback Machine, https://web.archive.org/web/19970731123140/http://www.newschool.edu/mediastudies/tv/televisuality.html</Content>
+							<Content><?ACE 4?>	Paolo Carpignano, Televisuality, 31 July 1997. Via Wayback Machine, https://web.archive.org/web/19970731123140/http://www.newschool.edu/mediastudies/tv/televisuality.html.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -733,7 +733,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Nikhilesh Dholakia, Aras Ozgun &amp; Deniz Atik (2023): The miasma of misinformation: a social analysis of media, markets, and manipulation, Consumption Markets &amp; Culture, DOI: 10.1080/10253866.2022.2149508</Content>
+							<Content><?ACE 4?>	Nikhilesh Dholakia, Aras Ozgun &amp; Deniz Atik (2023): The miasma of misinformation: a social analysis of media, markets, and manipulation, Consumption Markets &amp; Culture, DOI: 10.1080/10253866.2022.2149508.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>

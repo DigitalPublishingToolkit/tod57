@@ -481,10 +481,10 @@ various networking components. BNC connectors use a twist-and-lock
 mechanism that provides a secure connection between network cabling and
 components. BNC connectors are typically used on 10Base2 Ethernet
 networks. The different types of BNC connectors include the following:
-• BNC cable connector: Soldered or crimped to the ends of a thinnet cable
-• BNC T-connector: Used to connect a network interface card (NIC) to a thinnet cable segment
-• BNC barrel connector: Used to connect two pieces of thinnet cable
-• BNC terminator: Provides a 50-ohm termination for the free end of a thinnet cable4
+(1) BNC cable connector: Soldered or crimped to the ends of a thinnet cable
+(2) BNC T-connector: Used to connect a network interface card (NIC) to a thinnet cable segment
+(3) BNC barrel connector: Used to connect two pieces of thinnet cable
+(4) BNC terminator: Provides a 50-ohm termination for the free end of a thinnet cable4
 Often the BNC connector is specified for operation at frequencies up to
 4 GHz and it can be used up to 10 GHz provided the special top quality
 versions specified to that frequency are used.

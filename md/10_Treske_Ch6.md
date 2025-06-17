@@ -437,8 +437,8 @@ The very basic BNC connector consists of a panel mounting assembly with a single
 for the coax centre. The earthing is then accomplished via the panel to which the connector is bolted using a single nut. Large washers can be used to provide an earth connection directly to the connector. Some of
 these connectors may also use four nuts and bolts to fix them to the panel. These arrangements are only suitable for low frequency applications, and not for RF. Where impedance matching and full screening is required. Most surveillance DVRs and CCTV cameras have BNC female output.
 There are two main variants of the BNC connector assembly method:
-• Compression gland type
-• Crimp type
+(1) Compression gland type
+(2) Crimp type
 The compression gland type has the centre pin of the connector which is usually a solder pin and
 the braid and sheath of the cable are held by an expanding compression gland fixed by a nut at the rear of the connector. This type of connector by its nature can cope with a (limited) range of cable sizes
 and requires no specialised tooling to assemble. This makes it ideal for small quantity production, either for one off cables for laboratory use of for limited production runs.

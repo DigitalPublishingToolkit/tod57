@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.3(73)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(52)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.3" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch4" />
@@ -20,7 +20,7 @@
 		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
-		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="di95" Name="Myriad Pro">
@@ -315,7 +315,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Adamson, Morgan M.: The Closure of the ‘Gold Window’: From ‘Camera-Eye’ to ‘Brain-Screen’, Film-Philosophy 17.1 2013. https://www.euppublishing.com/doi/pdf/10.3366/film.2013.0014</Content>
+				<Content>Adamson, Morgan M.: The Closure of the ‘Gold Window’: From ‘Camera-Eye’ to ‘Brain-Screen’, Film-Philosophy 17.1 2013. https://www.euppublishing.com/doi/pdf/10.3366/film.2013.0014.</Content>
 				<Br />
 				<Content>Adorno, Theodor W. Kulturkritik und Gesellschaft. Gesammelte Schriften, Bd. 10.1, 10.2, Frankfurt am Main 1996.</Content>
 				<Br />
@@ -345,31 +345,35 @@
 				<Br />
 				<Content>Bateson, Gregory. Steps to an Ecology of Mind; Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology. San Francisco, CA: Chandler. 1972.</Content>
 				<Br />
-				<Content>BAZIN, ANDRÉ, and HUGH GRAY. What Is Cinema?: Volume I. 1st ed., University of California Press, 2005.</Content>
+				<Content>Bazin, André, and Hugh Gray. What Is Cinema?: Volume I. 1st ed., University of California Press, 2005.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Baudry, Jean-Louis. “The Apparatus.” Translated by Jean Andrews and Bertrand Augst. Camera Obscura, no. 1 (1976): 104–26, https://doi.org/10.1215/02705346-1-1_1-104.</Content>
 				<Br />
 				<Content>Beller, Jonathan. The Cinematic Mode of Production: Attention Economy and the Society of Spectacle. Lebanon: University Press of New England, 2006.</Content>
 				<Br />
 				<Content>Bellour, Raymond. Between-the-Images. Translated by Allyn Hardyck. Dijon: Les presses du réel, 2012.</Content>
 				<Br />
-				<Content>_____. Cinema, Alone/Multiple Cinemas. Alphaville: Journal of Film and Screen Media. Issue 5, Summer 2013. https://www.alphavillejournal.com/Issue5/PDFs/ArticleBellour.pdf</Content>
+				<Content>_____. Cinema, Alone/Multiple Cinemas. Alphaville: Journal of Film and Screen Media. Issue 5, Summer 2013. https://www.alphavillejournal.com/Issue5/PDFs/ArticleBellour.pdf.</Content>
 				<Br />
-				<Content>Benjamin, Walter. Experience and Poverty. 1933</Content>
+				<Content>Benjamin, Walter. Experience and Poverty. 1933.</Content>
 				<Br />
 				<Content>_____. The Arcades Project, trans. Howard Eiland and Kevin McLaughlin Cambridge, MA: Belknap Press, 1999.</Content>
 				<Br />
 				<Content>Blom, Ina. The Autobiography of Video: The Life and Times of a Memory Technology. Berlin: Sternberg, 2016.</Content>
 				<Br />
-				<Content>Böhme, G. Atmosphere as the Fundamental Concept of a New Aesthetics. Thesis Eleven, 36(1), 1993. Page 113-126. https://doi.org/10.1177/072551369303600107</Content>
+				<Content>Böhme, G. Atmosphere as the Fundamental Concept of a New Aesthetics. Thesis Eleven, 36(1), 1993. Page 113-126. https://doi.org/10.1177/072551369303600107.</Content>
 				<Br />
-				<Content>Bogost, Ian. “Alien Phenomenology or, What It&apos;s Like to Be a Thing”, University of Minnesota Press, 2012</Content>
+				<Content>Bogost, Ian. “Alien Phenomenology or, What It&apos;s Like to Be a Thing”, University of Minnesota Press, 2012.</Content>
 				<Br />
 				<Content>Bolter, Jay David, and Richard Grusin. Remediation: Understanding New Media. Cambridge, MA: MIT Press, 1999.</Content>
 				<Br />
 				<Content>Bolter, Jay David and Diane Gromala. Windows and Mirrors: Interaction Design, Digital Art, and the Myth of Transparency. 2003.</Content>
 				<Br />
-				<Content>Bresson, Robert. Notes on the Cinematographer. New York : Urizen Books 1977</Content>
+				<Content>Bresson, Robert. Notes on the Cinematographer. New York : Urizen Books 1977.</Content>
 				<Br />
 				<Content>Bridle, James et al. “The New Aesthetic: Seeing Like Digital Devices”, South by Southwest, Panel. Mar 12, 2012.</Content>
 				<Br />
@@ -387,7 +391,7 @@
 				<Br />
 				<Content>Burckhardt, Martin, and Dirk Höfer. All and Nothing: A Digital Apocolypse. Translated by Erik Butler, The MIT Press, 2017.</Content>
 				<Br />
-				<Content>Bush, Vanevar. As we may think. The Atlantic. July 1945.https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/</Content>
+				<Content>Bush, Vanevar. As we may think. The Atlantic. July 1945.https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/.</Content>
 				<Br />
 				<Content>Caldwell, John. Televisuality: Style, crisis and authority in American television. New Brunswick: Rutgers University Press, 1995.</Content>
 				<Br />
@@ -395,17 +399,17 @@
 				<Br />
 				<Content>_____. Six memos for the next millennium. New York : Vintage Books,1993.</Content>
 				<Br />
-				<Content>Carpignano, Paolo. Televisuality. July 31, 1997. Via Wayback Machine - https://web.archive.org/web/19970731123140/http://www.newschool.edu/mediastudies/tv/televisuality.html</Content>
+				<Content>Carpignano, Paolo. Televisuality. July 31, 1997. Via Wayback Machine - https://web.archive.org/web/19970731123140/http://www.newschool.edu/mediastudies/tv/televisuality.html.</Content>
 				<Br />
 				<Content>Carruthers, M. The Craft of Thought: Meditation, Rhetoric, and the Making of Images, 400-1200. Cambridge University Press, 1998.</Content>
 				<Br />
 				<Content>Casetti, Francesco. The Lumière Galaxy: Seven Key Words for the Cinema to Come. Columbia University Press, 2015.</Content>
 				<Br />
-				<Content>Cavell, Stanley. The World Viewed. Reflections on the Ontology of Film. Harvard University Press 1979</Content>
+				<Content>Cavell, Stanley. The World Viewed. Reflections on the Ontology of Film. Harvard University Press 1979.</Content>
 				<Br />
 				<Content>Chamayou, Grégoire. Drone Theory (translated by Janet Lloyd), London: Penguin, 2015.</Content>
 				<Br />
-				<Content>Cooke, Dany. Postcards from Pripyat, Chernobyl. Video. https://vimeo.com/112681885</Content>
+				<Content>Cooke, Dany. Postcards from Pripyat, Chernobyl. Video. https://vimeo.com/112681885.</Content>
 				<Br />
 				<Content>Crisp, Virginia and Gabriel Menotti Miglio Pinto Gonring. Besides the screen: moving images through distribution, promotion and curation, 2015.</Content>
 				<Br />
@@ -427,21 +431,21 @@
 				<Br />
 				<Content>Doane, Mary Ann. The Emergence of Cinematic Time: Modernity, Contingency, the Archive. Cambridge, MA: Harvard University Press, 2002.</Content>
 				<Br />
-				<Content>Dholakia, Nikhilesh, Ozgun, Aras &amp; Atik, Deniz. The miasma of misinformation: a social analysis of media, markets, and manipulation, Consumption Markets &amp; Culture, DOI: 10.1080/10253866.2022.2149508. 2023</Content>
+				<Content>Dholakia, Nikhilesh, Ozgun, Aras &amp; Atik, Deniz. The miasma of misinformation: a social analysis of media, markets, and manipulation, Consumption Markets &amp; Culture, DOI: 10.1080/10253866.2022.2149508. 2023.</Content>
 				<Br />
-				<Content>Elcott, Noam M. Reflections on Glass Houses. 2011. https://www.columbia.edu/cu/arthistory/faculty/Elcott/Elcott-2011-Reflections-on-Glass-Houses.pdf Jan. 09, 2025</Content>
+				<Content>Elcott, Noam M. Reflections on Glass Houses. 2011. https://www.columbia.edu/cu/arthistory/faculty/Elcott/Elcott-2011-Reflections-on-Glass-Houses.pdf Jan. 09, 2025.</Content>
 				<Br />
 				<Content>Eisenstein, Sergei Mikhailovich. Film Form, New York: Harcourt, 1949.</Content>
 				<Br />
 				<Content>Ernst, Wolfgang. Digital Memory and the Archive. Minneapolis: University of Minnesota Press, 2013.</Content>
 				<Br />
-				<Content>Farocki, Harun. Images of the World and the Inscription of War, Documentary Film. 1988</Content>
+				<Content>Farocki, Harun. Images of the World and the Inscription of War, Documentary Film. 1988.</Content>
 				<Br />
 				<Content>_____. Phantom Images. Translated by Brian Poole. Public 29 (2004): 12–22.</Content>
 				<Br />
 				<Content>https://public.journals.yorku.ca/index.php/public/article/view/30354/27882.</Content>
 				<Br />
-				<Content>Fierro, Annette. The Glass State: The Technology of the Spectacle, Paris, 1981 - 1988. The MIT Press 2006</Content>
+				<Content>Fierro, Annette. The Glass State: The Technology of the Spectacle, Paris, 1981 - 1988. The MIT Press 2006.</Content>
 				<Br />
 				<Content>Fisher, Mark. The Weird and the Eerie. Repeater, 2016.</Content>
 				<Br />
@@ -455,7 +459,7 @@
 				<Br />
 				<Content>_____. Towards a Philosophy of Photography. London: Reaktion, 2000.</Content>
 				<Br />
-				<Content>_____. Writings. Edited and with an introduction by Andreas Ströhl. University of Minnesota Press, Minneapolis, MN, U.S.A. and London, U.K., 2002. 256 pp., illus. Trade. ISBN: 0-8166-3564-1</Content>
+				<Content>_____. Writings. Edited and with an introduction by Andreas Ströhl. University of Minnesota Press, Minneapolis, MN, U.S.A. and London, U.K., 2002. 256 pp., illus. Trade. ISBN: 0-8166-3564-1.</Content>
 				<Br />
 				<Content>_____. Into the Universe of Technical Images. Translated by Nancy Ann Roth. Minneapolis: University of Minnesota Press, 2011.</Content>
 				<Br />
@@ -463,8 +467,8 @@
 				<Br />
 				<Content>_____. Gestures. Translated by Nancy Ann Roth. Minneapolis: University of Minnesota Press, 2014.</Content>
 				<Br />
-				<Content>Forty, Adrian. Words and Buildings: A Vocabulary of Modern Architecture, Thames &amp; Hudson 200</Content>
-				<Content>4.</Content>
+				<Content>Forty, Adrian. Words and Buildings: A Vocabulary of Modern Architecture, Tham</Content>
+				<Content>es &amp; Hudson 2004.</Content>
 				<Br />
 				<Content>Foucault, Michel. The Order of Things: An Archaeology of the Human Sciences. London: Routledge, 2002.</Content>
 				<Br />
@@ -472,12 +476,14 @@
 				<Br />
 				<Content>_____. The Virtual Window. From Alberti to Microsoft. The MIT Press 2009.</Content>
 				<Br />
-				<Content>Gadamer, Hans-Georg. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik. Tübingen: Mohr Siebeck, 2010 [1960]</Content>
+				<Content>Gadamer, Hans-Georg. Wahrheit und Methode. Grundzüge einer philosophischen Hermeneutik. Tübingen: Mohr Siebeck, 2010 [1960].</Content>
 				<Br />
 				<Content>Ganofsky, M. Libertine Clairs-Obscurs: The Enticement of the Shadows. J 18th Cent Stud, 37: 499-515. 2014. </Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link" FontStyle="Light">
+				<Content>https://doi.org/10.1111/1754-0208.12203.</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
-				<Content>https://doi.org/10.1111/1754-0208.12203</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -487,7 +493,7 @@
 				<Br />
 				<Content>Gray, Jonathan. Show Sold Separately: Promos, Spoilers, and Other Media Paratexts. NYU Press 2010.</Content>
 				<Br />
-				<Content>Greenaway, Peter. Toward a re-invention of cinema. Variety Cinema Militans lecture at the Dutch Film Festival on Sept. 27, 2003. https://variety.com/2003/voices/columns/toward-a-re-invention-of-cinema-1117893306/</Content>
+				<Content>Greenaway, Peter. Toward a re-invention of cinema. Variety Cinema Militans lecture at the Dutch Film Festival on Sept. 27, 2003. https://variety.com/2003/voices/columns/toward-a-re-invention-of-cinema-1117893306/.</Content>
 				<Br />
 				<Content>Gregory, D. &apos;From a View to a Kill: Drones and Late Modern War&apos;, Theory, Culture &amp; Society, vol. 28, no. 7/8, pp. 188-215. 2011.</Content>
 				<Br />
@@ -495,7 +501,7 @@
 				<Br />
 				<Content>Haag Bletter, Rosemarie. The Interpretation of the Dream-Expressionist and the History of the Crystal Metaphor, The Journal of the Society of Architectural Historians‘, Vol. 40, No. 1 1981.</Content>
 				<Br />
-				<Content>Han, Byung-Chul. The Transparency Society. Stanford University Press 2015</Content>
+				<Content>Han, Byung-Chul. The Transparency Society. Stanford University Press 2015.</Content>
 				<Br />
 				<Content>Hansen, Mark B. N. Feed-Forward: On the Future of Twenty-First Century Media. Chicago: University of Chicago Press, 2015.</Content>
 				<Br />
@@ -517,8 +523,10 @@
 				<Br />
 				<Content>Hui, Yuk. A Tourist in the Königsberger’s Dream: Review of Hiroki Azuma’s Philosophy of the Tourist, </Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link" FontStyle="Light">
+				<Content>https://webgenron.com/articles/article20230310_01.</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
-				<Content>https://webgenron.com/articles/article20230310_01</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -544,7 +552,7 @@
 				<Br />
 				<Content>Kember, S &amp; Zylinska, J. Life after new media: mediation as a vital process, MIT Press, Cambridge. 2012.</Content>
 				<Br />
-				<Content>King, Alasdair. The Financial Image. Finance, Philosophy and Contemporary Film. Springer 2024</Content>
+				<Content>King, Alasdair. The Financial Image. Finance, Philosophy and Contemporary Film. Springer 2024.</Content>
 				<Br />
 				<Content>Kittler, Friedrich. Gramophone, Film, Typewriter. Palo Alto, CA: Stanford University Press, 1999.</Content>
 				<Br />
@@ -556,7 +564,7 @@
 				<Br />
 				<Content>Krauss, Rosaling. Video: The Aesthetics of Narcissism. October 1 (1976): 50–64. https://doi.org/10.2307/778507.</Content>
 				<Br />
-				<Content>Kull, Kalevi. Jakob von Uexküll: An introduction. Semiotica, vol. 2001, no. 134, 2001, pp. 1-59. https://doi.org/10.1515/semi.2001.013</Content>
+				<Content>Kull, Kalevi. Jakob von Uexküll: An introduction. Semiotica, vol. 2001, no. 134, 2001, pp. 1-59. https://doi.org/10.1515/semi.2001.013.</Content>
 				<Br />
 				<Content>Latour, Bruno. “Reassembling the Social: An Introduction to Actor-Network-Theory”. Oxford University Press, 2007.</Content>
 				<Br />
@@ -564,13 +572,13 @@
 				<Br />
 				<Content>Lazzarato, Maurizio. Videophilosophy: The Perception of Time in Post-Fordism. Edited by Jay Hetrick, Columbia University Press, 2019.</Content>
 				<Br />
-				<Content>_____. Video, Flows and Real Time. In Leighton, Art and the Moving</Content>
+				<Content>_____. Video, Flows and Real Time. In Leighton, Art and the Moving.</Content>
 				<Br />
 				<Content>Image: A Critical Reader. London: Tate Publishing, 2008.</Content>
 				<Br />
-				<Content>Lennon, Elaine. David Lean, Historical Journal of Film, Radio and Television Vol. 35 , Iss. 2,2015. Pages 382-384 | Published online: 22 Apr 2015. http://www.tandfonline.com/doi/abs/10.1080/01439685.2015.1030221?scroll=top&amp;needAccess=true&amp;journalCode=chjf20</Content>
+				<Content>Lennon, Elaine. David Lean, Historical Journal of Film, Radio and Television Vol. 35 , Iss. 2,2015. Pages 382-384 | Published online: 22 Apr 2015. http://www.tandfonline.com/doi/abs/10.1080/01439685.2015.1030221?scroll=top&amp;needAccess=true&amp;journalCode=chjf20.</Content>
 				<Br />
-				<Content>Lichty, Patrick. Drone: Camera, Weapon,Toy: The Aestheticization of Dark Technology. Furtherfield 2013. https://www.furtherfield.org/drone-camera-weapontoy-the-aestheticization-of-dark-technology/</Content>
+				<Content>Lichty, Patrick. Drone: Camera, Weapon,Toy: The Aestheticization of Dark Technology. Furtherfield 2013. https://www.furtherfield.org/drone-camera-weapontoy-the-aestheticization-of-dark-technology/.</Content>
 				<Br />
 				<Content>Linz, Barbara. Glass = Glas = Verre. H.f. ullmann, 2009.</Content>
 				<Br />
@@ -584,15 +592,15 @@
 				<Br />
 				<Content>Luhmann, N. Social systems. Stanford, Stanford University Press 1995[1984].</Content>
 				<Br />
-				<Content>Kember, Sarah and Joanna Zylinska. Life after New Media: Mediation as a Vital Process. The MIT Press 2014</Content>
+				<Content>Kember, Sarah and Joanna Zylinska. Life after New Media: Mediation as a Vital Process. The MIT Press 2014.</Content>
 				<Br />
 				<Content>Kittler, Friedrich. Gramophone, Film, Typewriter. Translated by Geoffrey Winthrop and Michael Wutz. Palo Alto: Stanford University Press, 1999.</Content>
 				<Br />
-				<Content>Macdonald, Kevin and Cousins, Mark. Imagining reality : the Faber book of the documentary. Faber and Faber. 1996</Content>
+				<Content>Macdonald, Kevin and Cousins, Mark. Imagining reality : the Faber book of the documentary. Faber and Faber. 1996.</Content>
 				<Br />
 				<Content>MacDougall, David. When Less Is Less: The Long Take in Documentary, Film Quarterly, Vol. 46 No. 2 (Winter 1992-3), pp. 36-46.</Content>
 				<Br />
-				<Content>Mangolte, Babette. A Matter of Time. e-flux notes. 2024 https://www.e-flux.com/notes/641724/a-matter-of-time</Content>
+				<Content>Mangolte, Babette. A Matter of Time. e-flux notes. 2024 https://www.e-flux.com/notes/641724/a-matter-of-time.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -600,7 +608,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Manovich, Lev. The Language of New Media, 1st ed. Cambridge, MA: MIT Press, 2002.</Content>
 				<Br />
-				<Content>_____. AI Aesthetics. Moscow: Strelka Press, 2019</Content>
+				<Content>_____. AI Aesthetics. Moscow: Strelka Press, 2019.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -608,19 +616,21 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Manovich, Lev and Arielli, Emmanuele. Artificial Aesthetics: Generative AI, Art and Visual Media. 2021-2024. </Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link" FontStyle="Light">
+				<Content>https://manovich.net/index.php/projects/artificial-aesthetics.</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic Link">
-				<Content>https://manovich.net/index.php/projects/artificial-aesthetics</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Marino, Oliver. Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University of Westminster. https://westminsterresearch.westminster.ac.uk/download/3efa6c34f14faefd556f244c01f6c28b2efa3ddc0852eba61cb3955b6f259d72/3773962/E-Thesis Submission.pdf</Content>
+				<Content>Marino, Oliver. Günther Anders’ Theory of Media and Communication: Developing a Conception of Technological Domination, Alienation and Ideology with Marx beyond Marx. A PhD thesis awarded by the University of Westminster. https://westminsterresearch.westminster.ac.uk/download/3efa6c34f14faefd556f244c01f6c28b2efa3ddc0852eba61cb3955b6f259d72/3773962/E-Thesis Submission.pdf.</Content>
 				<Br />
 				<Content>Marks, Laura U. The Skin of Film: Intercultural Cinema, Embodiment, and the Senses. Durham: Duke University Press, 2000.</Content>
 				<Br />
 				<Content>_____. Thinking like a carpet: embodied perception and individuation in algorithmic media. In: Brauerhoch, Annette; Eke, Norbert Otto; Wieser, Renate; Zechner, Anke: Entautomatisierung. Paderborn: Fink 2017, S. 39-58. DOI: 10.25969/mediarep/4032.</Content>
 				<Br />
-				<Content>Mattheis, Clemens. The System Theory of Niklas Luhmann and the Constitutionalization of th</Content>
-				<Content>e World Society. Goettingen Journal of International Law 4 (2012) 2, 625-647</Content>
+				<Content>Mattheis, Clemens. The System Theory of Niklas Luhmann and </Content>
+				<Content>the Constitutionalization of the World Society. Goettingen Journal of International Law 4 (2012) 2, 625-647.</Content>
 				<Br />
 				<Content>Maturana, HR. &apos;Introduction&apos;. Autopoiesis and cognition: the realization of the living. H. R. Maturana and F. J. Varela. Dordrecht, D. Reidel Publishing Company 1980.</Content>
 				<Br />
@@ -630,7 +640,7 @@
 				<Br />
 				<Content>Metz, Christian. Film Language: A Semiotics of the Cinema. New York: Oxford University Press, 1974.</Content>
 				<Br />
-				<Content>Mieszkowski, Jan. Watching War. Stanford: Stanford University Press,2012</Content>
+				<Content>Mieszkowski, Jan. Watching War. Stanford: Stanford University Press,2012.</Content>
 				<Br />
 				<Content>Mirzoeff, Nicholas. How to See the World. Penguin UK, 4 Haz 2015.</Content>
 				<Br />
@@ -640,7 +650,7 @@
 				<Br />
 				<Content>_____. ‘Visual Pleasure and Narrative Cinema’, Visual and Other Pleasures, London: Palgrave Macmillan, 1989.</Content>
 				<Br />
-				<Content>Murray, Janet H. Hamlet on the Holodeck: The Future of Narrative in Cyberspace. 1997</Content>
+				<Content>Murray, Janet H. Hamlet on the Holodeck: The Future of Narrative in Cyberspace. 1997.</Content>
 				<Br />
 				<Content>Negarestani, Reza. Cyclonopedia: Complicity with Anonymous Materials. re.press, 2008.</Content>
 				<Br />
@@ -652,25 +662,25 @@
 				<Br />
 				<Content>Ozgun, Aras (prod.). Ulus Baker, What is Opinion?, 2001, http://pyromedia.org/redtv/ulus.html.</Content>
 				<Br />
-				<Content>Özgün, A., &amp; Treske, A. (2021). On Streaming-Media Platforms, Their Audiences, and Public Life. Rethinking Marxism, 33(2), 304–323. https://doi.org/10.1080/08935696.2021.1893090</Content>
+				<Content>Özgün, A., &amp; Treske, A. (2021). On Streaming-Media Platforms, Their Audiences, and Public Life. Rethinking Marxism, 33(2), 304–323. https://doi.org/10.1080/08935696.2021.1893090.</Content>
 				<Br />
 				<Content>Özgün, Aras ve Andreas Treske. “Süreğen Medya Platformları: İzleyici Etkinliğinin Dönüşümü Ve Toplumsal Etkileri”. Ankara Üniversitesi İlef Dergisi, c. 8, sy. 1, 2021, ss. 109-32, doi:10.24955/ilef.933277.</Content>
 				<Br />
-				<Content>Paglen, Trevor. “Drone Vision”, Film, 2012</Content>
+				<Content>Paglen, Trevor. “Drone Vision”, Film, 2012.</Content>
 				<Br />
-				<Content>Paik, Nam June. Binghamton Letter, January 8, 1972</Content>
+				<Content>Paik, Nam June. Binghamton Letter, January 8, 1972.</Content>
 				<Br />
-				<Content>Pamuk, Orhan. Masumiyet Müzesi. İstanbul: İletişim Yayınları. 2008</Content>
+				<Content>Pamuk, Orhan. Masumiyet Müzesi. İstanbul: İletişim Yayınları. 2008.</Content>
 				<Br />
-				<Content>Pantenburg, Volker (Hg.): Cinematographic Objects: Things and Operations</Content>
+				<Content>Pantenburg, Volker (Hg.): Cinematographic Objects: Things and Operations.</Content>
 				<Br />
-				<Content>Berlin: August Verlag 2015</Content>
+				<Content>Berlin: August Verlag 2015.</Content>
 				<Br />
 				<Content>_____. Farocki/Godard: Film as Theory. Amsterdam: Amsterdam University Press 2015. DOI: https://doi.org/10.25969/mediarep/3558.</Content>
 				<Br />
 				<Content>_____. Working images: Harun Farocki and the operational image, in Jens Eder, and Charlotte Klonk (eds), Image Operations: Visual media and political conflict (Manchester, 2016; online edn, Manchester Scholarship Online, 18 May 2017), https://doi.org/10.7228/manchester/9781526107213.003.0004, accessed 8 Jan. 2025.</Content>
 				<Br />
-				<Content>Parente, A. &amp; de Carvalho, V. (2008). Cinema as dispositif: Between Cinema and Contemporary Art. Cinémas, 19(1), 37–55. https://doi.org/10.7202/029498ar</Content>
+				<Content>Parente, A. &amp; de Carvalho, V. (2008). Cinema as dispositif: Between Cinema and Contemporary Art. Cinémas, 19(1), 37–55. https://doi.org/10.7202/029498ar.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -682,7 +692,7 @@
 				<Br />
 				<Content>Pink, Sarah, and Kerstin Leder Mackley. 2014. “Re-Enactment Methodologies for Everyday Life Research: Art Therapy Insights for Video Ethnography.” Visual Studies 29 (2): 146–54. doi:10.1080/1472586X.2014.887266.</Content>
 				<Br />
-				<Content>Prayas, Abhinav. Cinema. From the Museum of Vestigial Desire. 2013. https://museumofvestigialdesire.net/books/cinema</Content>
+				<Content>Prayas, Abhinav. Cinema. From the Museum of Vestigial Desire. 2013. https://museumofvestigialdesire.net/books/cinema.</Content>
 				<Br />
 				<Content>Rettberg, Jill Walker. NOW OBJECTS PERCEIVE ME: ART THAT INTERROGATES MACHINE VISION. University of Bergen 2016.</Content>
 				<Br />
@@ -700,9 +710,9 @@
 				<Br />
 				<Content>Ryan, Paul. Video Mind, Earth Mind: Art, Communications, and Ecology, a collection of essays from 1968 through 1991. Peter Lang Inc., International Academic Publishers 1993.</Content>
 				<Br />
-				<Content>Sartre, Jean Paul. Imagination. 1936</Content>
+				<Content>Sartre, Jean Paul. Imagination. 1936.</Content>
 				<Br />
-				<Content>Schamus, James. 23 Fragments on the Future of Cinema, German Film Academy 2014 http://filmmakermagazine.com/92531-23-fragments-on-the-future-of-cinema/#.VMIwuBYznG2</Content>
+				<Content>Schamus, James. 23 Fragments on the Future of Cinema, German Film Academy 2014 http://filmmakermagazine.com/92531-23-fragments-on-the-future-of-cinema/#.VMIwuBYznG2.</Content>
 				<Br />
 				<Content>Shaviro, Steven. Post cinematic affect, Zero Books, USA. 2010.</Content>
 				<Br />
@@ -710,11 +720,11 @@
 				<Br />
 				<Content>Sherman, Tom. Vernacular Video. In: Video Vortex Reader: Responses to YouTube, Geert Lovink and Sabine Niederer (eds.), Amsterdam: Institute of Network Cultures, 2008.</Content>
 				<Br />
-				<Content>Signals. How Video Transformed the World. MoMA, New York 2023</Content>
+				<Content>Signals. How Video Transformed the World. MoMA, New York 2023.</Content>
 				<Br />
-				<Content>Simmel, G. (1994). The Picture Frame: An Aesthetic Study. Theory, Culture &amp; Society, 11(1), 11-17. https://doi.org/10.1177/026327694011001003</Content>
+				<Content>Simmel, G. (1994). The Picture Frame: An Aesthetic Study. Theory, Culture &amp; Society, 11(1), 11-17. https://doi.org/10.1177/026327694011001003.</Content>
 				<Br />
-				<Content>Simondon, Gilbert. On the mode of existence of technical objects. Univocal Publishing, Minneapolis. 2017</Content>
+				<Content>Simondon, Gilbert. On the mode of existence of technical objects. Univocal Publishing, Minneapolis. 2017.</Content>
 				<Br />
 				<Content>Sloterdijk, Peter. Bubbles: Spheres Volume I: Microspherology. Semiotext(e) 2011.</Content>
 				<Br />
@@ -736,7 +746,7 @@
 				<Br />
 				<Content>Stiegler, Bernard, and Jacques Derrida. Ecographies of Television. Cambridge: Polity, 2007.</Content>
 				<Br />
-				<Content>_____. Bernard. For a New Critique of Political Economy. Translated by Daniel Ross. Cambridge: Polity Press, 2009a.</Content>
+				<Content>_____. Bernard. For a New Critique of Political Economy. Translated by Daniel Ross. Cambridge: Polity Press, 2009.</Content>
 				<Br />
 				<Content>_____. Technics and Time 3: Cinematic Time and the Question of Malaise. Translated by Stephen Barker. Stanford: Stanford University Press, 2010.</Content>
 				<Br />
@@ -764,14 +774,14 @@
 				<Br />
 				<Content>_____. &quot;The Third Interval: A Critical Transition.&quot; In Re-thinking Technologies, Chapter 1. Minneapolis: University of Minnesota Press, 1993.</Content>
 				<Br />
-				<Content>_____. &quot;Cyberwar, God And Television: Interview with Paul Virilio.&quot; CTheory.net, 1994. Web. 28 May 2013</Content>
+				<Content>_____. &quot;Cyberwar, God And Television: Interview with Paul Virilio.&quot; CTheory.net, 1994. Web. 28 May 2013.</Content>
 				<Br />
 				<Content>_____. The Futurism of the Instant: Stop-Eject. Polity 2010.</Content>
 				<Br />
-				<Content>Weibel, Peter. Territorium and Technik, Merve 1989</Content>
+				<Content>Weibel, Peter. Territorium </Content>
+				<Content>and Technik, Merve 1989.</Content>
 				<Br />
-				<Content>Weizman, Eyal. Forensic</Content>
-				<Content> Architecture. Berlin: Sternberg Press, 2014</Content>
+				<Content>Weizman, Eyal. Forensic Architecture. Berlin: Sternberg Press, 2014.</Content>
 				<Br />
 				<Content>Wittgenstein, Ludwig. Remarks on the Philosophy of Psychology. Oxford, 1980, vol. i, Remark 257.</Content>
 				<Br />

@@ -837,11 +837,11 @@ acronym BNC has been mistakenly believed to stand for British Naval
 Connector, Bayonet Nut Connector, and Baby N connector. BNCs are suited
 to accommodate a large variety of RG and industry standard cables, in a
 variety of termination styles.
-• Bayonet coupling mechanism provides positive, quick mating and
+(1) Bayonet coupling mechanism provides positive, quick mating and
 un-mating
-• 50 Ω and 75 Ω impedance designs allow customers to match impedance to
+(2) 50 Ω and 75 Ω impedance designs allow customers to match impedance to
 system requirements
-• Connectors are available for military, industrial and commercial
+(3) Connectors are available for military, industrial and commercial
 applications.[^05_Treske_Ch2_31]
 In earlier computer networks, BNC connectors with coaxial cables were
 used in Ethernet networks, but Ethernet networks are now more commonly

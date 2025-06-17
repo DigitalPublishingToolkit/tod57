@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.3(73)" ?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="20.4(52)" ?>
 <?aid SnippetType="InCopyInterchange"?>
-<Document DOMVersion="20.3" Self="d">
+<Document DOMVersion="20.4" Self="d">
 	<Color Self="Color/R=147 G=44 B=101 2" Model="Process" Space="CMYK" ColorValue="0 74 49 0" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101 2" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch7" />
 	<Color Self="Color/Black" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Specialblack" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Black" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch3" />
 	<Color Self="Color/R=147 G=44 B=101" Model="Process" Space="RGB" ColorValue="147.26249635219574 43.93649898469448 101.36249452829361" ColorOverride="Normal" ConvertToHsb="false" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="R=147 G=44 B=101" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="uea4ColorGroupSwatch4" />
@@ -20,7 +20,7 @@
 		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
-		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
 	</FontFamily>
 	<FontFamily Self="di95" Name="Myriad Pro">
@@ -134,26 +134,6 @@
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Bold Italic" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Bold Italic" PostScriptName="TradeGothicNextLTPro-BdIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Bold Italic" FullNameNative="Trade Gothic Next LT Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy" PostScriptName="TradeGothicNextLTPro-Hv" Status="Installed" FontStyleName="Heavy" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy" FullNameNative="Trade Gothic Next LT Pro Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
 		<Font Self="di3dccFontnTrade Gothic Next LT Pro Heavy Italic" FontFamily="Trade Gothic Next LT Pro" Name="Trade Gothic Next LT Pro Heavy Italic" PostScriptName="TradeGothicNextLTPro-HvIt" Status="Installed" FontStyleName="Heavy Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Next LT Pro Heavy Italic" FullNameNative="Trade Gothic Next LT Pro Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.00" TypekitID="$ID/" />
-	</FontFamily>
-	<FontFamily Self="di4239" Name="Lato (TT)">
-		<Font Self="di4239FontnLato (TT) Hairline" FontFamily="Lato (TT)" Name="Lato (TT) Hairline" PostScriptName="Lato-Hairline" Status="Installed" FontStyleName="Hairline" FontType="TrueType" WritingScript="0" FullName="Lato-Hairline" FullNameNative="Lato-Hairline" FontStyleNameNative="Hairline" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Hairline Italic" FontFamily="Lato (TT)" Name="Lato (TT) Hairline Italic" PostScriptName="Lato-HairlineItalic" Status="Installed" FontStyleName="Hairline Italic" FontType="TrueType" WritingScript="0" FullName="Lato-HairlineItalic" FullNameNative="Lato-HairlineItalic" FontStyleNameNative="Hairline Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Light" FontFamily="Lato (TT)" Name="Lato (TT) Light" PostScriptName="Lato-Light" Status="Installed" FontStyleName="Light" FontType="TrueType" WritingScript="0" FullName="Lato-Light" FullNameNative="Lato-Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Light Italic" FontFamily="Lato (TT)" Name="Lato (TT) Light Italic" PostScriptName="Lato-LightItalic" Status="Installed" FontStyleName="Light Italic" FontType="TrueType" WritingScript="0" FullName="Lato-LightItalic" FullNameNative="Lato-LightItalic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Regular" FontFamily="Lato (TT)" Name="Lato (TT) Regular" PostScriptName="Lato-Regular" Status="NotAvailable" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Lato Regular" FullNameNative="Lato Regular" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Italic" FontFamily="Lato (TT)" Name="Lato (TT) Italic" PostScriptName="Lato-Italic" Status="NotAvailable" FontStyleName="Italic" FontType="TrueType" WritingScript="0" FullName="Lato Italic" FullNameNative="Lato Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Bold" FontFamily="Lato (TT)" Name="Lato (TT) Bold" PostScriptName="Lato-Bold" Status="NotAvailable" FontStyleName="Bold" FontType="TrueType" WritingScript="0" FullName="Lato Bold" FullNameNative="Lato Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Bold Italic" FontFamily="Lato (TT)" Name="Lato (TT) Bold Italic" PostScriptName="Lato-BoldItalic" Status="NotAvailable" FontStyleName="Bold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Bold Italic" FullNameNative="Lato Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Black" FontFamily="Lato (TT)" Name="Lato (TT) Black" PostScriptName="Lato-Black" Status="NotAvailable" FontStyleName="Black" FontType="TrueType" WritingScript="0" FullName="Lato Black" FullNameNative="Lato Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Black Italic" FontFamily="Lato (TT)" Name="Lato (TT) Black Italic" PostScriptName="Lato-BlackItalic" Status="NotAvailable" FontStyleName="Black Italic" FontType="TrueType" WritingScript="0" FullName="Lato Black Italic" FullNameNative="Lato Black Italic" FontStyleNameNative="Black Italic" PlatformName="$ID/" Version="Version 1.104; Western+Polish opensource" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Medium" FontFamily="Lato (TT)" Name="Lato (TT) Medium" PostScriptName="Lato-Medium" Status="NotAvailable" FontStyleName="Medium" FontType="TrueType" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Thin" FontFamily="Lato (TT)" Name="Lato (TT) Thin" PostScriptName="Lato-Thin" Status="Substituted" FontStyleName="Thin" FontType="TrueType" WritingScript="0" FullName="Lato Thin" FullNameNative="Lato Thin" FontStyleNameNative="Thin" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Semibold" FontFamily="Lato (TT)" Name="Lato (TT) Semibold" PostScriptName="Lato-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="TrueType" WritingScript="0" FullName="Lato Semibold" FullNameNative="Lato Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Medium Italic" FontFamily="Lato (TT)" Name="Lato (TT) Medium Italic" PostScriptName="Lato-MediumItalic" Status="Substituted" FontStyleName="Medium Italic" FontType="TrueType" WritingScript="0" FullName="Lato Medium Italic" FullNameNative="Lato Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Thin Italic" FontFamily="Lato (TT)" Name="Lato (TT) Thin Italic" PostScriptName="Lato-ThinItalic" Status="Substituted" FontStyleName="Thin Italic" FontType="TrueType" WritingScript="0" FullName="Lato Thin Italic" FullNameNative="Lato Thin Italic" FontStyleNameNative="Thin Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Semibold Italic" FontFamily="Lato (TT)" Name="Lato (TT) Semibold Italic" PostScriptName="Lato-SemiboldItalic" Status="Substituted" FontStyleName="Semibold Italic" FontType="TrueType" WritingScript="0" FullName="Lato Semibold Italic" FullNameNative="Lato Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Heavy" FontFamily="Lato (TT)" Name="Lato (TT) Heavy" PostScriptName="Lato-Heavy" Status="Substituted" FontStyleName="Heavy" FontType="TrueType" WritingScript="0" FullName="Lato Heavy" FullNameNative="Lato Heavy" FontStyleNameNative="Heavy" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
-		<Font Self="di4239FontnLato (TT) Heavy Italic" FontFamily="Lato (TT)" Name="Lato (TT) Heavy Italic" PostScriptName="Lato-HeavyItalic" Status="Substituted" FontStyleName="Heavy Italic" FontType="TrueType" WritingScript="0" FullName="Lato Heavy Italic" FullNameNative="Lato Heavy Italic" FontStyleNameNative="Heavy Italic" PlatformName="$ID/" Version="Version 2.010; 2014-09-01; http://www.latofonts.com/" TypekitID="$ID/" />
 	</FontFamily>
 	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
 		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
@@ -545,7 +525,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>On the faculty of imagination and cinematic barbarism</Content>
+				<Content>On the Faculty of Imagination and Cinematic Barbarism</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -824,7 +804,7 @@
 				<Properties>
 					<Leading type="unit">7</Leading>
 				</Properties>
-				<Content>Video is not cinema.</Content>
+				<Content>Video is Not Cinema</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -927,8 +907,8 @@
 				</Properties>
 				<Content>Here is where we connect to what I name the Aesthetics of Instability. The power of instability, the constant change, the flow, and the feed define our daily operations and assume our values in a total immersion of ourselves. We have submitted ourselves.</Content>
 				<Br />
-				<Content>In my 2002 graduate seminar, I posed the question: Will technology alter our perception of time and space in storytelling, or will it lead to entirely new narra</Content>
-				<Content>tive structures, maybe vertical?</Content>
+				<Content>In my 2002 graduate seminar, I posed the question: Will technology alter our perception of time and space in storytelling, or will it lead to entirely new narrat</Content>
+				<Content>ive structures, maybe vertical?</Content>
 				<Br />
 				<Content>Now, I want to offer a change of attitude concerning the use of gadgets around us in ways we need: creative use, uses that avoid all the limitations imposed on us by the industry (limitations of frame, format, vision, and more).</Content>
 				<Br />
@@ -1031,7 +1011,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Black Holes …. and magic</Content>
+							<Content><?ACE 4?>	Black Holes …. and magic.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1222,8 +1202,8 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> to overcome such limitations as constraints on human vision, limited memory, or the restrictions of time and space, introducing artificial images and different alphabets. This process continued through various forms of writing.</Content>
 				<Br />
-				<Content>While Sartre&apos;s analysis</Content>
-				<Content> was more phenomenological and general, focusing on individual consciousness, Flusser&apos;s faculty of imagination is more oriented towards media theory and cultural analysis. He focuses on the role of imagination in creating and interpreting </Content>
+				<Content>While Sartre&apos;s analysis </Content>
+				<Content>was more phenomenological and general, focusing on individual consciousness, Flusser&apos;s faculty of imagination is more oriented towards media theory and cultural analysis. He focuses on the role of imagination in creating and interpreting </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>technical images</Content>
@@ -1387,8 +1367,8 @@
 				<Content>Explore</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> tab, and photo editing apps enhance images with a single click. AI influences fashion recommendations from online retailers. The encounter between AI and aesthetics is significant because aesthetics is traditionally a human domain. One prevalent opinion holds that these developments merely mimic existing styles, and are not creative. In such instances, computers receive pre-existing examples and accordingly generate variants; they try, that is, to introduce some level of variation. Sometimes, what results is uncannily similar to ge</Content>
-				<Content>nuine artworks; other results seem a bit off to a trained eye, lacking the final touches to make them convincingly human. Typically, conservative views on art consider technical mastery a criterion for </Content>
+				<Content> tab, and photo editing apps enhance images with a single click. AI influences fashion recommendations from online retailers. The encounter between AI and aesthetics is significant because aesthetics is traditionally a human domain. One prevalent opinion holds that these developments merely mimic existing styles, and are not creative. In such instances, computers receive pre-existing examples and accordingly generate variants; they try, that is, to introduce some level of variation. Sometimes, what results is uncannily similar to gen</Content>
+				<Content>uine artworks; other results seem a bit off to a trained eye, lacking the final touches to make them convincingly human. Typically, conservative views on art consider technical mastery a criterion for </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>real art</Content>
@@ -1579,7 +1559,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Never before</Content>
+				<Content>Never Before</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1665,8 +1645,8 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Now, I work in a film archive, and I can lay out newspaper clippings end to end and watch the American auteur movement of the 1970s die. I can read box office numbers for filmmakers’ first films with the foresight that one day, they’ll be selling out theaters. Pastiche is often used as a slightly derogatory description—directors are accused of pastiche, as if in the year 2023 it is truly possible to make a film that doesn’t rest on the backs of all the films which came before. The most idyllic result of this trend is the resurgence of interest in arthouse cinemas; in a utopia, this would amount to a monetar</Content>
-				<Content>y acknowledgement that good repertory film programming is visionary and worthwhile.</Content>
+				<Content>Now, I work in a film archive, and I can lay out newspaper clippings end to end and watch the American auteur movement of the 1970s die. I can read box office numbers for filmmakers’ first films with the foresight that one day, they’ll be selling out theaters. Pastiche is often used as a slightly derogatory description—directors are accused of pastiche, as if in the year 2023 it is truly possible to make a film that doesn’t rest on the backs of all the films which came before. The most idyllic result of this trend is the resurgence of interest in arthouse cinemas; in a utopia, this would amount to a monetary</Content>
+				<Content> acknowledgement that good repertory film programming is visionary and worthwhile.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1871,7 +1851,7 @@
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content><?ACE 4?>	Hiroki Azuma, Philosophy of the Tourist, Urbanomic 2022</Content>
+							<Content><?ACE 4?>	Hiroki Azuma, Philosophy of the Tourist, Urbanomic 2022.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1964,8 +1944,8 @@
 				<Content>Introduction to the Reading of Hegel</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, sees the end of history embodied in an American way of life, signifying the dehumanization of individuals into m</Content>
-				<Content>ere consumers. In a subsequent edition, after Kojève visited Japan in 1959, he suggests two post-historical archetypes, American animality and Japanese snobbery, positing these as mutually exclusive, inasmuch as </Content>
+				<Content>, sees the end of history embodied in an American way of life, signifying the dehumanization of individuals into me</Content>
+				<Content>re consumers. In a subsequent edition, after Kojève visited Japan in 1959, he suggests two post-historical archetypes, American animality and Japanese snobbery, positing these as mutually exclusive, inasmuch as </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>an animal cannot be a snob</Content>
